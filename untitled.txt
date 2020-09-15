@@ -1,0 +1,23 @@
+1. What are we trying to accomplish:
+    How does crime rate in a city affects that cities housing market?
+   
+2. What do we want to measure for the housing market?
+    -Inventory
+    -Median Price
+    -Time of house on the market
+
+3. What do we want to measure for the crime data?
+    -Crimes per Capita per ciy
+    -Types of crimes per city
+
+4. Objectives of Types of Visualizations:
+    A. Housing Market
+        - Bar graphs of median prices on housing markets per city
+        - 
+        
+    B. Crime
+        - Bar graphs of crime rate per city
+        - Get national average for US cities
+ 
+What cities are we picking?
+    
