@@ -1,0 +1,1021 @@
+﻿Region,Month of Period End,Property Type,Region Type,Seasonally Adjusted,State Code,Avg Sale To List,Avg Sale To List Mom,Avg Sale To List Yoy,Homes Sold,Homes Sold Mom,Homes Sold Yoy,Inventory,Inventory Mom,Inventory Yoy,Median Dom,Median Dom Mom,Median Dom Yoy,Median Sale Price,Median Sale Price Mom,Median Sale Price Yoy,New Listings,New Listings Mom,New Listings Yoy
+"Texas City, TX",February 2012,All Residential,Place/City,False,TX,0.939615078,-0.5%,,16,-11.1%,,221,0.0%,,114,42,,$73K,-2.0%,,50,4.2%,
+"Pasadena, TX",May 2012,All Residential,Place/City,False,TX,0.975172419,1.2%,2.0%,74,-16.9%,8.8%,377,-4.8%,-26.2%,86,29,42,$115K,15.7%,23.3%,99,-19.5%,-14.7%
+"Conroe, TX",July 2012,All Residential,Place/City,False,TX,0.967147621,1.2%,1.0%,150,4.2%,23.0%,606,-1.9%,-8.2%,64,1,-13,$160K,-8.3%,2.7%,186,-3.6%,12.7%
+"Pasadena, TX",July 2012,All Residential,Place/City,False,TX,0.952726699,-3.4%,-0.5%,74,-19.6%,15.6%,387,0.5%,-23.2%,61,30,-5,$95K,-4.9%,-3.3%,105,-7.1%,-8.7%
+"Texas City, TX",October 2012,All Residential,Place/City,False,TX,0.913394868,-0.3%,,32,18.5%,,227,-1.3%,,69,-21,,$55K,-26.6%,,54,-1.8%,
+"Houston, TX",November 2012,All Residential,Place/City,False,TX,0.966749869,0.1%,0.5%,2158,-5.7%,27.9%,7890,-5.0%,-28.6%,53,0,-29,$153K,-0.9%,12.1%,2278,-13.2%,0.6%
+"Friendswood, TX",May 2013,All Residential,Place/City,False,TX,0.975051181,0.4%,1.1%,96,29.7%,15.7%,223,-1.8%,-23.9%,43,-11,-82,$189K,-2.2%,-14.1%,105,5.0%,1.9%
+"Missouri City, TX",September 2013,All Residential,Place/City,False,TX,0.972725783,-0.1%,-0.1%,128,-37.3%,26.7%,390,-1.5%,-27.4%,42,8,-11,$214K,3.6%,25.9%,135,-5.6%,7.1%
+"Galveston, TX",December 2013,All Residential,Place/City,False,TX,0.946626641,2.6%,0.9%,62,17.0%,-11.4%,553,-1.6%,5.1%,85,-2,-12,$195K,21.9%,22.6%,77,-7.2%,-4.9%
+"Missouri City, TX",January 2014,All Residential,Place/City,False,TX,0.976787551,0.8%,2.0%,106,-8.6%,10.4%,358,2.6%,-16.7%,46,7,-35,$189K,-17.3%,18.9%,145,34.3%,-6.5%
+"Baytown, TX",September 2014,All Residential,Place/City,False,TX,0.977686050,0.5%,1.1%,94,-2.1%,25.3%,309,0.3%,-14.2%,35,13,-12,$150K,3.2%,19.7%,112,-14.5%,4.7%
+"Friendswood, TX",April 2015,All Residential,Place/City,False,TX,0.966938295,-0.8%,-1.1%,64,6.7%,-11.1%,110,13.4%,-30.4%,14,-1,-7,$230K,10.2%,1.1%,87,22.5%,-15.5%
+"Conroe, TX",July 2015,All Residential,Place/City,False,TX,0.973945783,-0.2%,-0.3%,193,-13.5%,4.3%,734,7.0%,40.1%,36,8,17,$220K,2.3%,7.3%,260,-4.8%,6.1%
+"Missouri City, TX",August 2015,All Residential,Place/City,False,TX,0.975442617,-0.5%,-0.3%,168,12.0%,-4.5%,405,3.8%,7.4%,24,4,1,$237K,-8.8%,-5.2%,193,-7.7%,13.5%
+"Pasadena, TX",November 2015,All Residential,Place/City,False,TX,0.980199809,-0.5%,0.0%,60,-24.1%,11.1%,193,-0.5%,6.0%,22,-3,-3,$120K,-13.2%,-4.2%,78,-11.4%,20.0%
+"Missouri City, TX",April 2016,All Residential,Place/City,False,TX,0.976938813,0.5%,-0.5%,137,1.5%,-4.2%,408,4.6%,32.0%,26,-16,0,$260K,10.9%,1.2%,173,-10.8%,-16.8%
+"Missouri City, TX",August 2016,All Residential,Place/City,False,TX,0.970639614,-0.3%,-0.5%,156,25.8%,-7.1%,523,1.9%,29.1%,32,16,8,$246K,5.6%,3.8%,190,-18.5%,-1.6%
+"League City, TX",March 2017,All Residential,Place/City,False,TX,0.983600301,0.1%,-0.1%,173,38.4%,3.0%,370,0.3%,-8.0%,37,0,12,$255K,4.1%,4.3%,230,20.4%,5.0%
+"Baytown, TX",June 2017,All Residential,Place/City,False,TX,0.980464339,0.0%,0.2%,105,14.1%,0.0%,252,7.7%,-5.3%,23,0,-4,$182K,0.8%,9.0%,143,17.2%,-2.7%
+"Texas City, TX",June 2017,All Residential,Place/City,False,TX,0.978900071,3.8%,3.8%,55,-9.8%,-8.3%,154,10.8%,36.3%,28,7,4,$142K,18.0%,13.4%,99,28.6%,26.9%
+"Friendswood, TX",December 2017,All Residential,Place/City,False,TX,0.974008305,0.3%,0.3%,59,-15.7%,-3.3%,162,-9.5%,2.5%,38,-20,17,$256K,4.5%,6.3%,49,-30.0%,-5.8%
+"Pasadena, TX",December 2018,All Residential,Place/City,False,TX,0.977742668,0.9%,-0.4%,78,27.9%,-1.3%,216,1.9%,67.4%,28,9,7,$168K,-3.4%,5.0%,60,-29.4%,27.7%
+"Pasadena, TX",April 2019,All Residential,Place/City,False,TX,0.974644275,-0.3%,0.0%,93,-2.1%,0.0%,180,-2.7%,32.4%,33,3,24,$164K,3.5%,2.5%,118,22.9%,7.3%
+"League City, TX",May 2019,All Residential,Place/City,False,TX,0.987201369,0.4%,0.5%,212,14.6%,0.5%,498,8.7%,12.7%,33,3,19,$270K,2.4%,1.9%,275,13.2%,-4.8%
+"Conroe, TX",February 2020,All Residential,Place/City,False,TX,0.977618401,1.1%,0.7%,158,19.7%,-5.4%,730,-2.3%,-2.0%,54,-10,-25,$249K,3.9%,9.1%,262,-6.4%,13.4%
+"Houston, TX",May 2020,All Residential,Place/City,False,TX,0.972022947,-0.2%,-0.4%,2092,2.5%,-35.4%,9740,-2.9%,-10.2%,40,4,8,$228K,-3.8%,-5.0%,3649,29.9%,-20.6%
+"Conroe, TX",February 2013,All Residential,Place/City,False,TX,0.962657982,0.0%,0.9%,106,26.2%,29.3%,438,-1.1%,-22.2%,59,-23,-44,$158K,2.3%,19.3%,160,12.7%,8.8%
+"Conroe, TX",July 2013,All Residential,Place/City,False,TX,0.975109607,0.2%,0.8%,195,12.1%,30.0%,496,3.3%,-18.2%,43,5,-21,$185K,-7.0%,15.7%,245,14.0%,31.7%
+"Houston, TX",October 2013,All Residential,Place/City,False,TX,0.974978467,-0.4%,0.9%,2587,2.7%,13.1%,7052,-2.8%,-15.1%,32,4,-21,$163K,-4.7%,5.4%,2900,-2.5%,10.5%
+"Sugar Land, TX",November 2013,All Residential,Place/City,False,TX,0.966097454,-0.6%,-0.3%,156,-11.9%,4.0%,346,-6.0%,-26.2%,28,5,-41,$284K,9.1%,19.1%,157,-31.4%,27.6%
+"Texas City, TX",June 2014,All Residential,Place/City,False,TX,0.937923339,-1.3%,-1.3%,47,-7.8%,62.1%,152,-1.3%,-27.6%,31,-45,-19,$89K,-15.3%,-13.7%,65,20.4%,41.3%
+"Missouri City, TX",September 2014,All Residential,Place/City,False,TX,0.979952075,0.2%,0.7%,120,-31.8%,-6.3%,378,0.3%,-3.1%,18,-5,-24,$215K,-14.0%,0.4%,162,-4.7%,20.0%
+"League City, TX",February 2015,All Residential,Place/City,False,TX,0.978563327,-0.3%,0.8%,137,26.9%,-5.5%,368,0.8%,-10.9%,48,11,-5,$228K,4.7%,8.6%,183,10.9%,-7.1%
+"Sugar Land, TX",October 2015,All Residential,Place/City,False,TX,0.965712743,-0.6%,-1.3%,167,-10.2%,2.5%,557,0.7%,63.3%,42,7,10,$325K,-2.5%,1.6%,206,-2.4%,15.7%
+"Conroe, TX",October 2015,All Residential,Place/City,False,TX,0.968709950,0.1%,-0.5%,157,-22.7%,-6.5%,740,4.7%,36.0%,52,11,13,$220K,0.7%,17.1%,218,-1.8%,15.3%
+"Texas City, TX",November 2015,All Residential,Place/City,False,TX,0.937318854,-0.8%,-2.0%,38,-19.1%,26.7%,115,-6.5%,-23.8%,59,24,20,$106K,14.0%,1.0%,44,0.0%,7.3%
+"Friendswood, TX",November 2016,All Residential,Place/City,False,TX,0.963942348,-1.7%,-2.0%,67,21.8%,55.8%,171,-3.4%,18.8%,57,36,35,$320K,39.7%,60.0%,60,5.3%,36.4%
+"Friendswood, TX",December 2016,All Residential,Place/City,False,TX,0.971174515,0.7%,0.1%,61,-9.0%,19.6%,158,-7.6%,17.9%,21,-36,-10,$241K,-24.7%,11.2%,52,-13.3%,4.0%
+"Texas City, TX",July 2017,All Residential,Place/City,False,TX,0.987311770,0.8%,-0.3%,59,7.3%,22.9%,191,24.0%,81.9%,8,-20,-11,$150K,6.0%,26.6%,86,-13.1%,72.0%
+"Pasadena, TX",November 2018,All Residential,Place/City,False,TX,0.968381772,-0.1%,-0.2%,61,-29.1%,-22.8%,212,-3.6%,42.3%,19,1,-13,$174K,12.7%,2.4%,85,-14.1%,11.8%
+"Conroe, TX",December 2018,All Residential,Place/City,False,TX,0.968006404,-0.3%,0.5%,195,0.0%,-3.0%,725,-8.5%,6.8%,77,13,27,$252K,13.5%,9.7%,135,-25.0%,-10.0%
+"League City, TX",January 2019,All Residential,Place/City,False,TX,0.978341420,0.1%,-0.1%,90,-35.7%,-12.6%,467,2.9%,41.1%,54,7,22,$258K,-2.1%,-2.7%,192,74.5%,14.3%
+"League City, TX",February 2019,All Residential,Place/City,False,TX,0.978720715,0.0%,0.3%,138,53.3%,3.0%,456,-2.4%,43.8%,46,-8,-13,$280K,8.4%,4.8%,190,-1.0%,20.3%
+"Friendswood, TX",April 2012,All Residential,Place/City,False,TX,0.958173792,1.1%,1.6%,59,-1.7%,227.8%,298,2.4%,10.4%,104,6,-63,$158K,-17.2%,-7.9%,105,7.1%,47.9%
+"Texas City, TX",March 2013,All Residential,Place/City,False,TX,0.947204958,-1.3%,-3.7%,33,17.9%,17.9%,196,1.6%,-8.8%,74,17,7,$72K,1.8%,-4.8%,50,51.5%,-2.0%
+"League City, TX",July 2013,All Residential,Place/City,False,TX,0.975295648,-0.3%,0.5%,241,30.3%,40.9%,499,5.9%,-17.5%,29,-3,-22,$197K,-1.5%,5.0%,244,10.9%,27.1%
+"Missouri City, TX",August 2013,All Residential,Place/City,False,TX,0.973904164,-0.3%,0.8%,204,18.6%,47.8%,396,-6.2%,-26.7%,34,0,-20,$207K,2.6%,18.0%,143,-33.2%,-13.9%
+"Conroe, TX",November 2013,All Residential,Place/City,False,TX,0.973011814,-0.1%,1.4%,117,-11.4%,-6.4%,437,-5.2%,-15.6%,52,11,-19,$180K,5.0%,2.9%,115,-23.8%,-9.4%
+"League City, TX",July 2014,All Residential,Place/City,False,TX,0.982358332,0.0%,0.7%,189,-11.3%,-21.6%,450,10.6%,-9.8%,21,2,-8,$215K,0.0%,9.2%,271,41.1%,11.1%
+"Texas City, TX",September 2014,All Residential,Place/City,False,TX,0.962922388,1.0%,1.6%,47,6.8%,62.1%,165,-4.6%,-24.0%,46,-13,-26,$120K,20.9%,39.5%,52,-11.9%,4.0%
+"Houston, TX",December 2014,All Residential,Place/City,False,TX,0.978680283,0.2%,0.5%,2665,21.9%,4.8%,5973,-5.3%,-1.7%,28,-1,-6,$194K,7.6%,3.1%,2128,-13.7%,9.7%
+"Galveston, TX",April 2015,All Residential,Place/City,False,TX,0.958228381,-0.1%,0.8%,117,30.0%,4.5%,594,0.2%,-11.2%,81,37,17,$160K,-7.5%,-3.9%,153,-15.0%,-12.6%
+"Missouri City, TX",July 2015,All Residential,Place/City,False,TX,0.980038742,-0.8%,-0.4%,150,-20.2%,-8.0%,390,9.2%,1.0%,20,6,-2,$260K,9.6%,6.1%,209,3.5%,8.9%
+"Sugar Land, TX",September 2015,All Residential,Place/City,False,TX,0.971886613,-0.8%,-1.2%,186,-25.9%,-18.1%,553,-1.1%,56.2%,35,11,18,$333K,3.2%,13.0%,211,-4.5%,29.4%
+"Galveston, TX",September 2015,All Residential,Place/City,False,TX,0.952572227,0.7%,-0.6%,106,-6.2%,7.1%,590,-6.5%,-3.0%,54,-11,-33,$183K,5.7%,0.1%,126,-46.6%,-6.0%
+"League City, TX",October 2015,All Residential,Place/City,False,TX,0.979739932,0.1%,0.3%,159,-22.4%,-2.5%,396,1.8%,-8.1%,26,-1,-10,$240K,2.1%,18.2%,169,-15.1%,-2.9%
+"League City, TX",November 2015,All Residential,Place/City,False,TX,0.977308320,-0.2%,-0.3%,109,-31.4%,-28.3%,372,-6.1%,-6.1%,22,-4,-24,$229K,-4.6%,9.2%,133,-21.3%,-2.2%
+"Texas City, TX",December 2015,All Residential,Place/City,False,TX,0.972959952,3.6%,2.3%,40,5.3%,0.0%,100,-13.0%,-27.5%,44,-15,-7,$113K,7.0%,12.9%,30,-31.8%,-11.8%
+"League City, TX",March 2016,All Residential,Place/City,False,TX,0.984577290,0.9%,0.7%,168,32.3%,-6.7%,402,4.1%,18.2%,25,-15,-1,$244K,4.1%,4.7%,219,17.1%,12.9%
+"Baytown, TX",October 2016,All Residential,Place/City,False,TX,0.975814008,0.1%,0.5%,93,-11.4%,24.0%,258,-2.6%,-10.7%,25,-5,-12,$175K,-0.1%,16.6%,101,-14.4%,-8.2%
+"Texas City, TX",April 2017,All Residential,Place/City,False,TX,0.966260801,-1.1%,2.6%,46,12.2%,-14.8%,123,3.4%,11.8%,25,-12,-7,$122K,-21.3%,12.1%,68,-1.4%,-4.2%
+"Houston, TX",April 2017,All Residential,Place/City,False,TX,0.973047302,0.4%,0.1%,2631,-7.1%,5.3%,9496,4.9%,5.2%,30,-7,2,$214K,1.9%,4.4%,4078,-7.6%,11.6%
+"Galveston, TX",May 2017,All Residential,Place/City,False,TX,0.945636119,-1.0%,-0.3%,153,31.9%,23.4%,661,4.8%,2.0%,62,14,19,$235K,26.7%,10.7%,204,20.7%,9.1%
+"Houston, TX",July 2017,All Residential,Place/City,False,TX,0.974239077,0.1%,0.0%,2706,-13.8%,-0.5%,10971,4.7%,13.0%,28,1,-1,$210K,-6.7%,-2.3%,4012,-3.6%,6.3%
+"Friendswood, TX",September 2017,All Residential,Place/City,False,TX,0.979576003,0.0%,0.8%,75,7.1%,2.7%,190,-11.6%,1.6%,29,10,6,$275K,-10.6%,14.6%,66,-17.5%,-1.5%
+"Houston, TX",December 2017,All Residential,Place/City,False,TX,0.965274965,-0.1%,-0.2%,2675,11.0%,-1.0%,8227,-9.4%,2.1%,44,-3,-1,$217K,4.2%,0.8%,2127,-25.8%,8.4%
+"League City, TX",February 2018,All Residential,Place/City,False,TX,0.975343109,-0.4%,-0.8%,134,30.1%,7.2%,317,-4.2%,-14.1%,59,27,22,$267K,0.7%,8.9%,158,-6.0%,-17.3%
+"Missouri City, TX",March 2018,All Residential,Place/City,False,TX,0.969406637,-0.2%,0.0%,129,27.7%,-5.1%,471,7.0%,1.9%,65,17,23,$258K,10.5%,0.0%,215,32.7%,-6.1%
+"Conroe, TX",March 2019,All Residential,Place/City,False,TX,0.970858750,0.0%,0.0%,227,35.9%,12.9%,774,3.9%,6.5%,54,-25,7,$240K,5.2%,10.0%,282,22.1%,-9.0%
+"Pasadena, TX",June 2019,All Residential,Place/City,False,TX,0.977862689,-1.0%,-0.1%,82,-16.3%,-23.4%,200,-4.3%,7.0%,19,-5,4,$175K,0.0%,-2.9%,119,-7.8%,-16.8%
+"Baytown, TX",June 2019,All Residential,Place/City,False,TX,0.980081966,0.1%,-0.3%,88,-19.3%,-36.2%,321,13.4%,8.8%,34,7,17,$209K,10.0%,14.1%,169,14.2%,15.0%
+"Texas City, TX",July 2019,All Residential,Place/City,False,TX,0.975047595,-0.5%,-0.8%,55,-40.2%,-35.3%,235,12.4%,4.4%,28,-11,0,$187K,-0.5%,2.1%,89,6.0%,4.7%
+"League City, TX",September 2019,All Residential,Place/City,False,TX,0.980650070,0.0%,0.8%,165,-29.2%,0.0%,472,-4.1%,-11.6%,33,2,6,$280K,2.4%,5.7%,175,-15.5%,15.1%
+"Conroe, TX",November 2019,All Residential,Place/City,False,TX,0.973595823,-0.3%,0.3%,213,10.9%,9.2%,716,-5.3%,-9.6%,56,2,-8,$240K,-4.0%,8.1%,186,-21.5%,3.3%
+"Sugar Land, TX",February 2012,All Residential,Place/City,False,TX,0.952058437,-0.5%,0.6%,113,24.2%,20.2%,563,1.1%,-28.0%,88,9,10,$220K,-0.7%,-5.0%,183,27.1%,-9.0%
+"Baytown, TX",June 2012,All Residential,Place/City,False,TX,0.969166216,-0.3%,1.2%,92,41.5%,16.5%,447,6.7%,-19.6%,57,-3,-22,$119K,-3.0%,20.6%,141,18.5%,11.9%
+"Galveston, TX",December 2012,All Residential,Place/City,False,TX,0.938088449,-0.3%,,70,-4.1%,,526,-3.7%,,97,-14,,$159K,-11.7%,,81,-15.6%,
+"Texas City, TX",May 2013,All Residential,Place/City,False,TX,0.972041631,4.5%,2.2%,46,48.4%,53.3%,213,7.6%,-2.3%,73,-10,12,$101K,32.4%,19.2%,67,15.5%,55.8%
+"Baytown, TX",June 2013,All Residential,Place/City,False,TX,0.977940360,0.4%,0.9%,79,-25.5%,-14.1%,357,-0.8%,-20.1%,74,6,17,$126K,5.0%,5.7%,107,-20.7%,-24.1%
+"Galveston, TX",July 2013,All Residential,Place/City,False,TX,0.955382895,1.3%,2.0%,106,1.9%,23.3%,581,-6.4%,-2.4%,88,-21,12,$171K,-10.9%,-3.2%,104,-23.5%,-17.5%
+"Friendswood, TX",August 2013,All Residential,Place/City,False,TX,0.975416308,0.1%,1.2%,93,-17.7%,9.4%,198,7.0%,-24.4%,37,9,-15,$226K,-0.6%,22.2%,92,0.0%,24.3%
+"Pasadena, TX",December 2013,All Residential,Place/City,False,TX,0.960275065,-1.4%,-1.0%,85,46.6%,54.5%,267,-11.6%,-14.1%,69,13,13,$125K,15.4%,46.9%,55,-27.6%,0.0%
+"Houston, TX",April 2014,All Residential,Place/City,False,TX,0.982586879,0.2%,0.6%,2624,3.4%,-6.9%,5708,0.2%,-16.4%,23,-3,-4,$185K,3.6%,2.8%,3678,12.3%,-0.1%
+"Sugar Land, TX",June 2014,All Residential,Place/City,False,TX,0.990040474,0.3%,1.2%,257,34.6%,-6.5%,390,14.0%,-1.8%,11,-3,-3,$325K,3.2%,19.0%,289,-6.8%,-3.7%
+"Galveston, TX",January 2016,All Residential,Place/City,False,TX,0.936244850,-1.3%,-2.1%,60,-25.0%,20.0%,496,1.6%,-7.8%,90,24,4,$176K,1.4%,1.3%,140,68.7%,-4.1%
+"Conroe, TX",April 2016,All Residential,Place/City,False,TX,0.972867386,0.2%,-0.7%,165,-4.1%,-4.6%,754,1.1%,24.8%,52,3,19,$222K,2.0%,11.2%,252,4.1%,2.0%
+"Sugar Land, TX",June 2012,All Residential,Place/City,False,TX,0.964920328,-0.3%,0.8%,228,6.0%,17.5%,634,4.1%,-27.5%,45,14,-13,$238K,5.8%,-9.2%,285,3.3%,-1.0%
+"League City, TX",June 2012,All Residential,Place/City,False,TX,0.977449236,0.5%,1.4%,153,-14.5%,3725.0%,585,-0.3%,4.7%,49,-22,-92,$185K,0.1%,-26.8%,203,-1.5%,70.6%
+"Friendswood, TX",November 2012,All Residential,Place/City,False,TX,0.952789572,-1.7%,-1.5%,60,-10.4%,233.3%,237,-4.0%,-26.2%,74,12,7,$163K,-1.2%,16.5%,45,-34.8%,-13.5%
+"Baytown, TX",December 2012,All Residential,Place/City,False,TX,0.958611352,-0.9%,-1.2%,61,-4.7%,-18.7%,380,-1.8%,-6.6%,102,14,12,$120K,-9.3%,2.1%,60,-21.1%,-17.8%
+"Pasadena, TX",February 2013,All Residential,Place/City,False,TX,0.943281942,-0.2%,-2.0%,79,14.5%,54.9%,293,-7.0%,-22.5%,116,29,29,$93K,-9.8%,0.0%,87,-18.7%,-5.4%
+"Missouri City, TX",April 2013,All Residential,Place/City,False,TX,0.969013332,0.7%,0.4%,142,-2.1%,23.5%,429,-4.5%,-22.7%,56,-9,1,$217K,20.5%,25.6%,189,-3.1%,-6.0%
+"Pasadena, TX",May 2013,All Residential,Place/City,False,TX,0.971638879,-0.6%,-0.4%,86,14.7%,16.2%,297,-2.3%,-21.2%,61,19,-25,$128K,11.6%,12.0%,131,18.0%,32.3%
+"Baytown, TX",July 2013,All Residential,Place/City,False,TX,0.983851563,0.6%,0.2%,74,-6.3%,-9.8%,342,-4.2%,-21.9%,55,-19,-14,$131K,3.8%,9.0%,103,-3.7%,-6.4%
+"Friendswood, TX",October 2013,All Residential,Place/City,False,TX,0.964309442,-0.8%,-0.6%,68,11.5%,1.5%,179,-6.3%,-27.5%,49,11,-13,$218K,14.5%,31.8%,55,-21.4%,-20.3%
+"Texas City, TX",January 2014,All Residential,Place/City,False,TX,0.932477899,-0.4%,0.7%,22,-35.3%,-15.4%,177,-2.7%,-14.9%,100,9,-23,$82K,-29.9%,-0.7%,45,80.0%,-8.2%
+"Baytown, TX",June 2014,All Residential,Place/City,False,TX,0.985632857,-0.1%,0.8%,97,-8.5%,22.8%,272,8.4%,-23.8%,35,-7,-39,$140K,3.7%,11.1%,124,10.7%,15.9%
+"Missouri City, TX",August 2014,All Residential,Place/City,False,TX,0.978173142,-0.5%,0.4%,176,8.0%,-13.7%,377,-2.3%,-4.8%,23,1,-11,$250K,2.0%,21.1%,170,-11.5%,18.9%
+"Missouri City, TX",October 2014,All Residential,Place/City,False,TX,0.966394482,-1.4%,-0.3%,154,28.3%,25.2%,338,-10.6%,-11.3%,32,14,-18,$215K,0.0%,7.3%,139,-14.2%,-8.6%
+"Missouri City, TX",February 2015,All Residential,Place/City,False,TX,0.986745618,0.8%,1.8%,105,10.5%,20.7%,294,0.3%,-23.2%,36,-6,-25,$212K,-5.6%,18.2%,136,-16.6%,-26.1%
+"Baytown, TX",March 2015,All Residential,Place/City,False,TX,0.977408432,-0.1%,0.2%,99,43.5%,23.8%,210,-8.3%,-19.2%,50,-27,-2,$158K,1.9%,39.2%,110,20.9%,-1.8%
+"Sugar Land, TX",August 2015,All Residential,Place/City,False,TX,0.979465298,0.2%,-0.2%,251,5.0%,4.6%,559,-8.4%,40.8%,24,6,7,$323K,2.5%,5.9%,221,-34.2%,-4.3%
+"Conroe, TX",September 2015,All Residential,Place/City,False,TX,0.968183943,-0.9%,-0.7%,203,17.3%,23.8%,707,0.6%,33.4%,41,10,19,$218K,-4.8%,11.0%,222,-0.4%,7.2%
+"Conroe, TX",February 2016,All Residential,Place/City,False,TX,0.968893664,-0.4%,-0.5%,132,38.9%,-0.8%,714,2.3%,23.1%,69,-1,11,$210K,-3.7%,-8.1%,237,9.7%,10.7%
+"Baytown, TX",June 2016,All Residential,Place/City,False,TX,0.978227869,-0.2%,-0.1%,105,-0.9%,-5.4%,266,6.8%,17.2%,27,-6,10,$167K,-0.3%,7.7%,147,27.8%,17.6%
+"Pasadena, TX",January 2017,All Residential,Place/City,False,TX,0.967602786,-0.7%,-0.7%,52,-43.5%,-7.1%,164,-3.0%,-9.4%,50,17,8,$135K,-17.7%,8.9%,84,33.3%,-16.0%
+"Missouri City, TX",March 2017,All Residential,Place/City,False,TX,0.969798300,0.1%,-0.2%,136,33.3%,0.7%,462,7.9%,18.5%,42,-25,0,$258K,0.8%,10.0%,229,47.7%,18.0%
+"Baytown, TX",January 2018,All Residential,Place/City,False,TX,0.966437059,-0.8%,0.4%,79,-35.8%,12.9%,212,3.9%,-1.9%,38,6,-12,$182K,-5.0%,17.8%,109,62.7%,12.4%
+"Conroe, TX",February 2018,All Residential,Place/City,False,TX,0.958487945,-1.5%,-1.6%,159,1.9%,-3.6%,656,0.5%,-7.7%,62,-16,-16,$215K,-9.1%,-3.2%,239,28.5%,-4.8%
+"Baytown, TX",September 2018,All Residential,Place/City,False,TX,0.977077020,0.1%,-0.3%,95,-22.8%,6.7%,320,-3.9%,14.7%,33,1,17,$183K,-6.4%,5.8%,118,-12.6%,18.0%
+"Conroe, TX",September 2018,All Residential,Place/City,False,TX,0.966762244,-0.9%,-0.2%,186,-20.2%,-2.6%,838,-1.5%,8.8%,54,15,7,$236K,-2.3%,3.1%,218,-15.8%,-7.2%
+"Friendswood, TX",November 2018,All Residential,Place/City,False,TX,0.966857320,0.2%,-0.4%,60,-18.9%,-14.3%,250,-6.7%,39.7%,63,22,5,$263K,3.5%,7.3%,60,-24.1%,-14.3%
+"Pasadena, TX",January 2019,All Residential,Place/City,False,TX,0.970305017,-0.7%,0.2%,59,-24.4%,15.7%,212,-1.9%,73.8%,40,12,22,$157K,-6.6%,0.0%,96,60.0%,41.2%
+"Missouri City, TX",January 2019,All Residential,Place/City,False,TX,0.971645543,0.8%,1.4%,90,-40.8%,1.1%,573,1.8%,29.9%,52,-24,1,$234K,-12.8%,2.6%,160,37.9%,30.1%
+"Galveston, TX",February 2019,All Residential,Place/City,False,TX,0.938658508,-2.8%,-2.1%,89,29.0%,-7.3%,568,9.2%,0.0%,83,12,16,$211K,0.0%,-4.0%,186,21.6%,10.7%
+"Texas City, TX",March 2019,All Residential,Place/City,False,TX,0.969301462,-1.4%,0.9%,69,3.0%,25.5%,216,-1.8%,16.1%,49,-28,21,$189K,8.1%,23.6%,76,2.7%,-8.4%
+"Missouri City, TX",May 2019,All Residential,Place/City,False,TX,0.977462088,1.1%,0.4%,190,17.3%,5.6%,660,13.4%,23.1%,37,-9,0,$247K,-5.7%,-7.7%,264,3.5%,10.0%
+"Texas City, TX",December 2019,All Residential,Place/City,False,TX,0.987950039,1.6%,2.4%,58,1.8%,-22.7%,262,2.7%,13.9%,88,49,45,$200K,5.1%,14.0%,75,2.7%,36.4%
+"Texas City, TX",January 2020,All Residential,Place/City,False,TX,0.982112265,-0.6%,-1.4%,43,-25.9%,22.9%,252,-3.8%,12.0%,46,-42,11,$199K,-0.3%,1.0%,71,-5.3%,-4.1%
+"League City, TX",March 2020,All Residential,Place/City,False,TX,0.988605469,0.2%,1.4%,160,41.6%,-12.6%,387,10.6%,-13.4%,33,-26,-11,$281K,1.4%,4.1%,245,30.3%,12.9%
+"League City, TX",November 2012,All Residential,Place/City,False,TX,0.973135843,-0.2%,-0.7%,117,-18.8%,3800.0%,524,-1.5%,-22.8%,71,9,-54,$192K,2.9%,-12.3%,131,-23.8%,10.1%
+"Sugar Land, TX",April 2014,All Residential,Place/City,False,TX,0.973116369,-1.2%,0.7%,202,6.9%,0.5%,301,-1.0%,-10.9%,17,1,-4,$305K,-2.9%,26.0%,256,7.1%,2.8%
+"Baytown, TX",July 2014,All Residential,Place/City,False,TX,0.973147182,-1.2%,-1.1%,84,-13.4%,13.5%,310,14.0%,-9.4%,21,-14,-34,$143K,1.8%,9.0%,136,9.7%,32.0%
+"Texas City, TX",January 2015,All Residential,Place/City,False,TX,0.954562457,0.5%,2.2%,33,-17.5%,50.0%,124,-10.1%,-29.9%,59,8,-41,$82K,-18.9%,-0.2%,44,29.4%,-2.2%
+"Missouri City, TX",April 2015,All Residential,Place/City,False,TX,0.981498119,0.6%,0.4%,143,5.1%,-9.5%,309,7.3%,-7.2%,26,7,-5,$257K,14.0%,16.2%,208,19.5%,15.6%
+"Pasadena, TX",May 2015,All Residential,Place/City,False,TX,0.973778601,-0.9%,0.0%,95,-5.9%,4.4%,167,1.8%,-23.4%,20,4,-36,$138K,6.2%,11.3%,100,-17.4%,-13.8%
+"Conroe, TX",June 2015,All Residential,Place/City,False,TX,0.976075762,0.0%,0.1%,223,12.6%,18.0%,686,9.1%,48.2%,28,-5,9,$215K,2.7%,16.2%,273,3.4%,12.8%
+"Friendswood, TX",July 2015,All Residential,Place/City,False,TX,0.991123217,0.4%,1.5%,86,2.4%,-3.4%,155,18.3%,-7.2%,14,7,4,$227K,0.4%,-3.9%,103,4.0%,15.7%
+"Pasadena, TX",April 2016,All Residential,Place/City,False,TX,0.985618001,1.1%,0.2%,87,-5.4%,-13.9%,164,8.6%,0.0%,15,-20,-1,$136K,-2.2%,4.3%,128,29.3%,5.8%
+"Sugar Land, TX",September 2012,All Residential,Place/City,False,TX,0.966643680,0.3%,1.9%,143,-33.2%,-3.4%,582,-6.3%,-19.3%,46,4,-19,$215K,-2.7%,-10.4%,255,19.7%,59.4%
+"League City, TX",October 2012,All Residential,Place/City,False,TX,0.975544990,0.1%,,144,5.9%,,532,-2.2%,,62,-7,,$187K,0.8%,,172,24.6%,
+"Sugar Land, TX",July 2013,All Residential,Place/City,False,TX,0.980566164,0.2%,1.5%,279,1.5%,32.2%,401,1.0%,-38.1%,14,0,-21,$281K,2.9%,12.4%,303,1.0%,14.8%
+"Conroe, TX",September 2013,All Residential,Place/City,False,TX,0.974406067,-0.1%,2.3%,164,1.2%,30.2%,498,-1.4%,-13.8%,44,11,-19,$186K,12.3%,20.3%,153,-26.8%,6.3%
+"League City, TX",September 2013,All Residential,Place/City,False,TX,0.977741646,-0.5%,0.3%,156,-19.6%,14.7%,497,1.0%,-8.6%,42,12,-27,$192K,0.3%,3.8%,184,-8.5%,33.3%
+"Pasadena, TX",November 2013,All Residential,Place/City,False,TX,0.973985601,0.3%,-0.7%,58,-31.0%,9.4%,302,0.7%,-9.6%,56,16,-11,$108K,-4.5%,0.2%,76,-20.0%,13.4%
+"League City, TX",April 2014,All Residential,Place/City,False,TX,0.979232196,-0.1%,-0.2%,185,10.1%,12.8%,394,1.5%,-16.3%,26,-2,-8,$203K,2.4%,9.4%,242,33.0%,16.3%
+"Houston, TX",May 2014,All Residential,Place/City,False,TX,0.986649593,0.4%,0.7%,2945,12.2%,-3.5%,5969,4.6%,-13.6%,19,-4,-6,$190K,2.7%,10.0%,3882,5.5%,2.9%
+"League City, TX",October 2014,All Residential,Place/City,False,TX,0.976773656,0.3%,0.2%,163,-11.4%,-3.6%,431,-0.2%,-12.6%,36,8,-7,$203K,-4.6%,6.1%,174,3.6%,-3.9%
+"Baytown, TX",December 2014,All Residential,Place/City,False,TX,0.962997542,-0.6%,-1.9%,85,-4.5%,19.7%,245,-10.9%,-15.2%,35,-27,-61,$153K,0.5%,17.6%,52,-43.5%,-13.3%
+"Sugar Land, TX",January 2015,All Residential,Place/City,False,TX,0.982244200,0.6%,0.7%,111,-50.9%,0.9%,352,13.2%,17.3%,18,-12,-11,$298K,-23.5%,0.3%,186,18.5%,7.5%
+"Sugar Land, TX",July 2015,All Residential,Place/City,False,TX,0.977618866,0.1%,-0.7%,239,-2.0%,11.7%,610,11.1%,45.6%,18,3,5,$315K,-4.3%,-1.4%,336,3.4%,22.6%
+"Pasadena, TX",October 2015,All Residential,Place/City,False,TX,0.985272603,-0.2%,0.6%,79,-12.2%,-16.8%,194,-4.4%,-3.5%,25,8,-7,$138K,-6.5%,19.9%,88,-17.0%,-8.3%
+"Pasadena, TX",December 2015,All Residential,Place/City,False,TX,0.979467184,-0.1%,0.5%,83,38.3%,-11.7%,168,-13.0%,-1.8%,23,1,-12,$149K,24.4%,15.3%,61,-21.8%,1.7%
+"Baytown, TX",January 2016,All Residential,Place/City,False,TX,0.965554994,-0.2%,-0.7%,78,0.0%,8.3%,261,3.6%,7.0%,73,39,26,$143K,-6.6%,10.2%,103,37.3%,2.0%
+"Conroe, TX",March 2016,All Residential,Place/City,False,TX,0.971202300,0.2%,-0.2%,172,30.3%,11.0%,746,4.5%,26.4%,49,-20,9,$218K,4.1%,0.0%,242,2.1%,0.0%
+"League City, TX",May 2016,All Residential,Place/City,False,TX,0.986567075,0.0%,0.1%,226,32.2%,24.9%,356,-4.3%,-11.0%,15,-2,-8,$241K,0.4%,2.6%,213,-8.2%,-14.8%
+"Conroe, TX",August 2017,All Residential,Place/City,False,TX,0.974739026,0.1%,0.1%,192,-15.4%,-15.0%,817,-1.8%,9.5%,48,7,10,$211K,-7.5%,-9.5%,213,-20.5%,-5.8%
+"Baytown, TX",October 2017,All Residential,Place/City,False,TX,0.975118078,-0.5%,-0.1%,124,39.3%,33.3%,252,-9.7%,-2.3%,35,19,10,$169K,-1.9%,-3.2%,131,31.0%,29.7%
+"Conroe, TX",October 2017,All Residential,Place/City,False,TX,0.972035837,0.3%,0.2%,201,5.2%,32.2%,737,-4.3%,-1.9%,56,9,13,$222K,-3.1%,8.6%,233,-0.9%,25.3%
+"Sugar Land, TX",March 2018,All Residential,Place/City,False,TX,0.966046554,-0.5%,-0.3%,170,45.3%,5.6%,656,8.6%,11.8%,71,-5,49,$323K,2.5%,0.7%,307,66.8%,3.4%
+"League City, TX",April 2018,All Residential,Place/City,False,TX,0.980798557,-0.5%,-0.4%,176,2.9%,15.0%,375,16.5%,-6.5%,20,-11,0,$259K,-5.7%,-1.3%,273,32.5%,15.7%
+"Missouri City, TX",June 2018,All Residential,Place/City,False,TX,0.979504891,0.6%,0.6%,152,-15.6%,-16.9%,590,10.1%,-1.5%,28,-9,1,$251K,-6.0%,-1.7%,235,-2.1%,-6.7%
+"Friendswood, TX",April 2019,All Residential,Place/City,False,TX,0.984704932,1.7%,0.7%,71,-5.3%,-32.4%,212,-2.3%,21.1%,30,-15,10,$268K,-7.8%,-6.1%,112,5.7%,1.8%
+"Baytown, TX",September 2019,All Residential,Place/City,False,TX,0.969467147,-0.7%,-0.8%,100,-17.4%,5.3%,324,-1.8%,1.3%,32,1,-1,$194K,-2.7%,6.0%,116,-23.2%,-1.7%
+"Sugar Land, TX",March 2020,All Residential,Place/City,False,TX,0.963523211,-0.4%,0.3%,157,24.6%,2.6%,631,7.3%,-11.6%,90,-8,21,$315K,6.3%,-1.6%,246,30.9%,-18.5%
+"Conroe, TX",April 2020,All Residential,Place/City,False,TX,0.977365893,-0.3%,0.2%,205,-11.3%,-2.4%,747,0.5%,-4.5%,51,-4,-4,$250K,4.2%,0.0%,246,-14.6%,-23.6%
+"Conroe, TX",May 2020,All Residential,Place/City,False,TX,0.982142346,0.5%,0.6%,190,-7.3%,-24.9%,718,-3.9%,-11.1%,43,-8,3,$260K,4.0%,4.0%,303,23.2%,-9.8%
+"Galveston, TX",May 2020,All Residential,Place/City,False,TX,0.946226167,-1.5%,-1.4%,120,66.7%,-21.6%,529,-12.0%,-13.6%,51,26,5,$218K,-5.1%,-1.1%,186,61.7%,1.6%
+"Houston, TX",June 2020,All Residential,Place/City,False,TX,0.973421908,0.1%,-0.3%,2905,38.9%,-3.3%,9201,-5.5%,-17.3%,43,3,15,$249K,9.0%,2.3%,3868,6.0%,-5.9%
+"Galveston, TX",March 2012,All Residential,Place/City,False,TX,0.907773804,0.1%,6.3%,58,5.5%,5700.0%,629,7.3%,19.8%,80,-10,-515,$135K,-19.6%,23.9%,170,10.4%,71.7%
+"Galveston, TX",June 2012,All Residential,Place/City,False,TX,0.933597731,-0.3%,-3.2%,92,-5.2%,4500.0%,590,-5.3%,10.1%,89,12,46,$156K,12.3%,11.4%,110,-15.4%,34.1%
+"Missouri City, TX",October 2012,All Residential,Place/City,False,TX,0.959616188,-1.4%,-0.1%,100,-1.0%,-9.1%,511,-4.8%,-16.6%,57,4,-21,$174K,2.4%,0.0%,146,15.9%,20.7%
+"Baytown, TX",February 2013,All Residential,Place/City,False,TX,0.944300783,-2.4%,-1.8%,68,21.4%,15.3%,349,-2.0%,-11.0%,87,-2,-2,$89K,-25.7%,-10.2%,81,0.0%,-12.0%
+"Conroe, TX",May 2013,All Residential,Place/City,False,TX,0.976987115,0.8%,0.4%,194,17.6%,23.6%,461,1.1%,-22.0%,37,-7,-25,$166K,-5.4%,-3.8%,210,-15.3%,14.8%
+"Missouri City, TX",May 2013,All Residential,Place/City,False,TX,0.971581032,0.3%,0.0%,175,23.2%,52.2%,450,4.9%,-17.0%,41,-15,-10,$201K,-7.4%,9.8%,245,29.6%,46.7%
+"Pasadena, TX",July 2013,All Residential,Place/City,False,TX,0.984161912,0.8%,3.1%,91,-2.2%,23.0%,285,-1.7%,-26.4%,40,-1,-21,$121K,8.6%,26.8%,109,11.2%,3.8%
+"Galveston, TX",February 2014,All Residential,Place/City,False,TX,0.948109629,0.9%,0.3%,84,78.7%,37.7%,607,8.0%,1.2%,132,19,34,$169K,-10.8%,4.0%,141,7.6%,0.7%
+"Conroe, TX",September 2014,All Residential,Place/City,False,TX,0.974857480,0.2%,0.0%,164,-8.9%,0.0%,530,0.0%,6.4%,22,-10,-22,$196K,-11.8%,5.5%,207,-8.0%,35.3%
+"Conroe, TX",February 2015,All Residential,Place/City,False,TX,0.973521426,-0.4%,0.2%,133,30.4%,19.8%,580,8.6%,40.8%,58,2,-6,$228K,16.6%,19.3%,214,7.0%,25.9%
+"Baytown, TX",May 2015,All Residential,Place/City,False,TX,0.979642476,1.5%,-0.7%,79,-24.0%,-25.5%,219,3.8%,-12.7%,31,-15,-11,$150K,-1.0%,10.7%,122,7.0%,8.9%
+"Baytown, TX",March 2016,All Residential,Place/City,False,TX,0.982145845,1.7%,0.5%,118,55.3%,19.2%,260,4.4%,23.8%,44,-4,-6,$162K,6.8%,2.4%,130,9.2%,18.2%
+"Sugar Land, TX",October 2016,All Residential,Place/City,False,TX,0.966893354,-0.2%,0.1%,146,-9.9%,-12.6%,630,-6.4%,13.1%,43,6,1,$310K,8.3%,-4.8%,171,-3.4%,-17.0%
+"Sugar Land, TX",July 2012,All Residential,Place/City,False,TX,0.965650260,0.1%,1.0%,211,-7.5%,25.6%,648,2.2%,-22.5%,35,-10,-21,$250K,5.1%,5.8%,264,-7.4%,21.7%
+"Baytown, TX",January 2013,All Residential,Place/City,False,TX,0.968577879,1.0%,-0.8%,56,-8.2%,21.7%,356,-6.3%,-8.5%,89,-13,5,$119K,-0.8%,10.9%,81,35.0%,-4.7%
+"Galveston, TX",January 2013,All Residential,Place/City,False,TX,0.930368353,-0.8%,0.5%,54,-22.9%,54.3%,558,6.1%,0.7%,117,20,10,$130K,-18.4%,21.3%,144,77.8%,12.5%
+"Texas City, TX",April 2014,All Residential,Place/City,False,TX,0.959977292,1.3%,3.2%,41,10.8%,32.3%,151,-6.8%,-23.7%,76,-55,-7,$93K,6.3%,21.7%,46,-11.5%,-20.7%
+"Pasadena, TX",June 2014,All Residential,Place/City,False,TX,0.973144149,-0.1%,-0.3%,100,9.9%,7.5%,231,6.0%,-20.3%,28,-28,-13,$127K,2.6%,14.6%,116,0.0%,18.4%
+"Friendswood, TX",June 2015,All Residential,Place/City,False,TX,0.987555339,0.7%,0.7%,84,29.2%,-5.6%,131,4.8%,-23.8%,7,-5,-7,$226K,14.5%,-5.5%,99,7.6%,-12.4%
+"Galveston, TX",June 2015,All Residential,Place/City,False,TX,0.964963812,1.4%,2.2%,127,-5.2%,0.0%,558,-5.9%,-11.0%,65,4,-4,$159K,-9.7%,-6.7%,137,-14.9%,-8.7%
+"Baytown, TX",February 2016,All Residential,Place/City,False,TX,0.964988732,-0.1%,-1.4%,76,-2.6%,10.1%,249,-4.6%,8.7%,48,-25,-29,$151K,5.8%,-2.3%,119,15.5%,30.8%
+"Houston, TX",March 2016,All Residential,Place/City,False,TX,0.970217804,0.1%,-0.7%,2441,30.4%,2.0%,8951,4.2%,29.3%,34,-15,11,$202K,10.4%,4.4%,3941,11.9%,13.8%
+"Missouri City, TX",May 2016,All Residential,Place/City,False,TX,0.972958965,-0.4%,-1.0%,131,-4.4%,-9.0%,429,5.1%,35.8%,32,6,12,$250K,-3.8%,2.1%,201,16.2%,-8.2%
+"Friendswood, TX",August 2016,All Residential,Place/City,False,TX,0.980332985,-0.8%,-0.5%,89,14.1%,30.9%,194,-3.0%,30.2%,14,3,3,$238K,-9.1%,2.6%,85,-19.8%,10.4%
+"Galveston, TX",October 2016,All Residential,Place/City,False,TX,0.942611179,-0.8%,-2.2%,108,2.9%,9.1%,605,-1.3%,5.6%,74,13,2,$210K,-3.8%,16.7%,125,-17.2%,-5.3%
+"Friendswood, TX",April 2017,All Residential,Place/City,False,TX,0.979298381,0.1%,-0.2%,66,-13.2%,-10.8%,182,16.7%,10.3%,26,10,2,$251K,5.8%,-25.0%,99,6.5%,3.1%
+"Sugar Land, TX",November 2017,All Residential,Place/City,False,TX,0.958052069,-1.0%,-1.0%,164,7.9%,20.6%,723,-4.2%,25.5%,74,29,20,$322K,3.7%,15.1%,157,-22.3%,12.9%
+"Baytown, TX",February 2018,All Residential,Place/City,False,TX,0.961519330,-0.5%,-1.4%,83,5.1%,-1.2%,228,7.5%,6.0%,29,-9,-24,$180K,-0.9%,8.2%,118,8.3%,9.3%
+"Galveston, TX",February 2018,All Residential,Place/City,False,TX,0.959777801,1.7%,0.9%,96,50.0%,18.5%,568,4.6%,-8.2%,67,-36,-30,$220K,22.1%,2.2%,168,15.1%,-0.6%
+"League City, TX",May 2018,All Residential,Place/City,False,TX,0.981895286,0.1%,-0.4%,211,19.9%,-1.4%,442,17.9%,13.3%,14,-6,-9,$265K,2.1%,3.9%,289,5.9%,12.5%
+"Galveston, TX",January 2019,All Residential,Place/City,False,TX,0.966807519,0.9%,2.4%,69,-15.9%,7.8%,520,3.4%,-4.2%,71,-5,-32,$211K,5.1%,17.2%,153,71.9%,4.8%
+"Missouri City, TX",March 2019,All Residential,Place/City,False,TX,0.971260010,0.5%,0.2%,140,21.7%,8.5%,570,4.0%,21.0%,62,-11,-3,$255K,10.5%,-1.2%,225,37.2%,4.7%
+"Baytown, TX",July 2019,All Residential,Place/City,False,TX,0.979839814,0.0%,0.2%,120,36.4%,5.3%,322,0.3%,-3.9%,21,-13,-4,$199K,-5.0%,-0.7%,147,-13.0%,-9.3%
+"Houston, TX",July 2019,All Residential,Place/City,False,TX,0.973300159,-0.3%,0.0%,3136,4.4%,8.0%,11294,1.5%,7.2%,30,2,1,$230K,-5.3%,0.9%,4074,-0.9%,-1.2%
+"Conroe, TX",August 2019,All Residential,Place/City,False,TX,0.971391710,-0.2%,-0.5%,265,-3.3%,13.7%,802,2.7%,-5.8%,40,-1,1,$249K,-0.8%,2.8%,284,-6.9%,9.7%
+"Pasadena, TX",September 2019,All Residential,Place/City,False,TX,0.974173909,1.1%,-0.9%,83,-23.1%,-2.4%,209,-1.9%,-4.6%,18,1,0,$166K,-1.2%,0.6%,100,-25.9%,-8.3%
+"Baytown, TX",January 2020,All Residential,Place/City,False,TX,0.949120631,-3.3%,-0.8%,71,-34.3%,-1.4%,333,8.1%,12.5%,61,16,8,$186K,-8.7%,13.5%,143,74.4%,17.2%
+"Missouri City, TX",January 2013,All Residential,Place/City,False,TX,0.956753298,-0.1%,0.7%,96,-29.4%,26.3%,430,-0.9%,-15.0%,81,-9,-26,$159K,-15.7%,-7.3%,155,43.5%,14.0%
+"Houston, TX",July 2013,All Residential,Place/City,False,TX,0.981193743,-0.1%,1.1%,3082,8.3%,16.7%,7186,1.8%,-26.8%,22,0,-24,$180K,-0.2%,15.9%,3723,1.4%,18.1%
+"Friendswood, TX",December 2013,All Residential,Place/City,False,TX,0.970887972,-1.2%,2.5%,69,38.0%,21.1%,158,-6.5%,-22.9%,47,2,-43,$217K,24.3%,31.2%,47,-13.0%,27.0%
+"League City, TX",March 2014,All Residential,Place/City,False,TX,0.980149612,0.9%,1.0%,168,15.9%,2.4%,388,-6.1%,-19.3%,28,-25,-34,$199K,-5.4%,6.8%,182,-7.6%,-13.7%
+"Friendswood, TX",July 2014,All Residential,Place/City,False,TX,0.976465866,-0.4%,0.2%,89,0.0%,-21.2%,167,-2.9%,-9.7%,10,-4,-18,$236K,-1.2%,3.6%,89,-21.2%,-3.3%
+"League City, TX",December 2014,All Residential,Place/City,False,TX,0.977344260,-0.3%,0.6%,178,17.1%,4.7%,364,-8.1%,-15.5%,44,-2,-17,$227K,8.1%,19.3%,133,-2.2%,24.3%
+"Friendswood, TX",January 2015,All Residential,Place/City,False,TX,0.967870865,-0.5%,-0.2%,46,-36.1%,4.5%,106,-3.6%,-29.3%,29,4,-10,$175K,-16.5%,-4.1%,61,52.5%,-9.0%
+"Galveston, TX",August 2015,All Residential,Place/City,False,TX,0.946039924,-0.2%,0.1%,113,-3.4%,-8.9%,631,12.1%,3.4%,65,-7,-15,$173K,2.7%,-4.5%,236,56.3%,90.3%
+"Friendswood, TX",December 2015,All Residential,Place/City,False,TX,0.969829072,-1.4%,-0.3%,51,18.6%,-29.2%,134,-6.9%,21.8%,31,9,6,$217K,8.3%,3.3%,50,13.6%,25.0%
+"Conroe, TX",October 2016,All Residential,Place/City,False,TX,0.969747814,-0.5%,0.1%,152,-18.3%,-3.2%,751,-1.3%,1.5%,43,0,-9,$204K,-5.1%,-6.9%,186,-21.2%,-14.7%
+"Sugar Land, TX",December 2016,All Residential,Place/City,False,TX,0.966901149,-0.1%,0.4%,177,30.1%,3.5%,520,-9.7%,3.2%,55,1,1,$323K,15.5%,2.4%,110,-20.9%,-4.3%
+"Houston, TX",May 2017,All Residential,Place/City,False,TX,0.975120984,0.2%,0.2%,3141,19.4%,12.8%,10070,6.0%,8.8%,25,-5,-3,$212K,-0.9%,-0.7%,4400,7.9%,15.8%
+"Conroe, TX",July 2017,All Residential,Place/City,False,TX,0.973502763,0.0%,0.4%,227,-15.0%,15.2%,832,-1.8%,8.6%,41,5,-2,$228K,-2.1%,-3.0%,268,-14.9%,-1.8%
+"Houston, TX",September 2017,All Residential,Place/City,False,TX,0.968764227,-0.3%,-0.2%,2568,15.7%,2.2%,9672,-10.0%,1.5%,39,7,6,$212K,-0.8%,3.3%,2755,-13.4%,-13.9%
+"League City, TX",October 2017,All Residential,Place/City,False,TX,0.983878732,0.5%,-0.2%,144,-21.7%,-12.7%,423,-8.0%,1.2%,35,4,11,$271K,4.6%,8.4%,151,-3.8%,3.4%
+"Sugar Land, TX",December 2017,All Residential,Place/City,False,TX,0.964128200,0.6%,-0.3%,155,-5.5%,-12.4%,635,-12.2%,22.1%,73,-1,18,$285K,-11.4%,-11.6%,111,-29.3%,0.9%
+"Conroe, TX",June 2018,All Residential,Place/City,False,TX,0.983090203,0.6%,0.9%,245,-1.6%,-8.2%,835,3.9%,-1.4%,29,-7,-7,$239K,-1.3%,2.5%,297,-11.6%,-5.7%
+"Houston, TX",March 2019,All Residential,Place/City,False,TX,0.970642733,0.2%,0.2%,2615,30.1%,-3.3%,10019,3.9%,14.1%,45,-4,8,$227K,8.0%,4.3%,4132,22.5%,0.1%
+"Baytown, TX",April 2019,All Residential,Place/City,False,TX,0.980098337,-0.3%,0.7%,108,3.8%,-2.7%,252,-4.5%,-1.6%,34,6,8,$192K,-2.6%,-3.5%,110,-12.7%,-22.5%
+"Friendswood, TX",May 2012,All Residential,Place/City,False,TX,0.963652581,0.5%,-0.9%,83,40.7%,232.0%,293,-1.7%,4.6%,125,21,64,$220K,39.6%,54.1%,103,-1.9%,66.1%
+"Galveston, TX",October 2012,All Residential,Place/City,False,TX,0.941076488,0.9%,4.5%,71,44.9%,3450.0%,551,-1.3%,-0.5%,57,-30,-86,$152K,-9.3%,195.9%,103,17.0%,9.6%
+"Conroe, TX",November 2012,All Residential,Place/City,False,TX,0.958716605,-1.1%,0.6%,125,5.0%,42.0%,518,-2.4%,-12.5%,71,-5,10,$175K,12.9%,18.6%,127,-3.1%,-2.3%
+"Missouri City, TX",March 2013,All Residential,Place/City,False,TX,0.962108617,-0.1%,0.8%,145,52.6%,21.8%,449,3.0%,-11.8%,65,-16,-14,$180K,9.2%,4.1%,195,12.7%,1.0%
+"Missouri City, TX",June 2013,All Residential,Place/City,False,TX,0.983326591,1.2%,1.6%,185,5.7%,20.9%,438,-2.7%,-22.8%,31,-10,-23,$219K,9.0%,17.1%,188,-23.3%,3.3%
+"Houston, TX",August 2013,All Residential,Place/City,False,TX,0.981668208,0.0%,1.2%,3004,-2.5%,9.2%,7197,0.2%,-23.2%,23,1,-23,$179K,-0.4%,17.4%,3419,-8.2%,15.4%
+"Pasadena, TX",August 2013,All Residential,Place/City,False,TX,0.972510216,-1.2%,1.6%,96,5.5%,20.0%,285,0.0%,-22.3%,54,14,-2,$108K,-10.4%,6.9%,108,-0.9%,12.5%
+"Baytown, TX",January 2014,All Residential,Place/City,False,TX,0.955570433,-2.6%,-1.3%,57,-19.7%,1.8%,280,-3.1%,-21.3%,74,-22,-15,$118K,-9.2%,-0.9%,91,51.7%,12.3%
+"League City, TX",February 2014,All Residential,Place/City,False,TX,0.970741730,-0.7%,0.6%,145,40.8%,33.0%,413,3.0%,-13.2%,53,-10,-17,$210K,3.4%,3.9%,197,34.9%,2.1%
+"Sugar Land, TX",May 2014,All Residential,Place/City,False,TX,0.986693766,1.4%,1.9%,191,-5.4%,-31.5%,342,13.6%,-7.6%,14,-3,-8,$315K,3.3%,-1.1%,310,21.1%,-4.0%
+"Baytown, TX",May 2014,All Residential,Place/City,False,TX,0.986174532,2.0%,1.2%,106,8.2%,0.0%,251,-1.6%,-30.3%,42,-11,-26,$135K,-1.4%,12.5%,112,-11.1%,-17.0%
+"Houston, TX",January 2015,All Residential,Place/City,False,TX,0.978136364,-0.1%,0.5%,1618,-39.3%,-8.0%,6565,9.9%,10.4%,33,5,-9,$170K,-12.3%,7.9%,3210,50.8%,12.0%
+"Sugar Land, TX",February 2015,All Residential,Place/City,False,TX,0.973446117,-0.9%,0.3%,116,4.5%,-10.1%,394,11.9%,30.5%,26,8,-3,$305K,2.5%,8.9%,213,14.5%,15.1%
+"Houston, TX",February 2015,All Residential,Place/City,False,TX,0.975918496,-0.2%,0.1%,1839,13.7%,-12.3%,6838,4.2%,17.8%,27,-6,-9,$177K,4.2%,4.1%,3165,-1.4%,12.6%
+"Conroe, TX",May 2016,All Residential,Place/City,False,TX,0.970099868,-0.3%,-0.6%,203,23.0%,2.5%,749,-0.7%,19.1%,43,-9,10,$230K,3.4%,9.9%,221,-12.3%,-16.3%
+"League City, TX",June 2016,All Residential,Place/City,False,TX,0.989606105,0.3%,0.3%,218,-3.5%,9.5%,404,13.5%,1.5%,27,12,2,$245K,1.7%,2.9%,267,25.4%,17.6%
+"Baytown, TX",July 2016,All Residential,Place/City,False,TX,0.986064078,0.8%,1.2%,103,-1.9%,-7.2%,262,-1.5%,5.6%,21,-6,-12,$169K,1.2%,7.6%,116,-21.1%,-23.2%
+"League City, TX",August 2016,All Residential,Place/City,False,TX,0.989457037,0.0%,0.7%,228,13.4%,12.3%,432,7.2%,6.7%,18,5,2,$241K,-1.1%,3.8%,227,0.4%,11.3%
+"Sugar Land, TX",September 2016,All Residential,Place/City,False,TX,0.969302454,-0.5%,-0.3%,162,-22.1%,-12.9%,673,-4.8%,21.7%,37,9,2,$286K,-6.5%,-14.3%,177,-18.8%,-16.1%
+"Baytown, TX",November 2016,All Residential,Place/City,False,TX,0.972438712,-0.3%,-0.4%,82,-11.8%,10.8%,247,-4.3%,-10.2%,36,11,3,$173K,-0.9%,15.5%,85,-15.8%,3.7%
+"Pasadena, TX",May 2017,All Residential,Place/City,False,TX,0.974919667,0.2%,-0.3%,105,34.6%,10.5%,154,-3.8%,12.4%,14,-7,-3,$152K,4.1%,-2.3%,107,1.9%,-1.8%
+"Baytown, TX",November 2017,All Residential,Place/City,False,TX,0.973392574,-0.2%,0.1%,109,-12.1%,32.9%,235,-6.7%,-4.9%,53,18,17,$183K,7.8%,5.3%,103,-21.4%,21.2%
+"Missouri City, TX",December 2017,All Residential,Place/City,False,TX,0.968627005,0.3%,-0.9%,145,20.8%,2.8%,467,-9.5%,7.4%,77,18,23,$242K,0.8%,0.8%,107,-20.1%,-3.6%
+"Conroe, TX",December 2017,All Residential,Place/City,False,TX,0.963351663,-0.8%,0.0%,201,8.1%,7.5%,679,-7.4%,-1.6%,50,4,-12,$230K,4.7%,4.0%,150,-26.8%,5.6%
+"Baytown, TX",April 2018,All Residential,Place/City,False,TX,0.972771659,-1.0%,-0.8%,111,20.7%,27.6%,256,4.9%,13.3%,26,5,0,$199K,9.0%,17.1%,142,-2.7%,21.4%
+"Pasadena, TX",October 2018,All Residential,Place/City,False,TX,0.968942628,-1.4%,-0.4%,86,1.2%,16.2%,220,0.5%,40.1%,18,0,-6,$154K,-6.4%,-5.4%,99,-9.2%,25.3%
+"Galveston, TX",October 2018,All Residential,Place/City,False,TX,0.949389713,-0.7%,0.5%,109,-5.2%,17.2%,578,-1.4%,4.5%,79,32,3,$265K,21.8%,3.1%,142,27.9%,7.6%
+"Baytown, TX",November 2018,All Residential,Place/City,False,TX,0.968004767,0.2%,-0.5%,88,-5.4%,-19.3%,320,5.6%,36.2%,34,-3,-19,$179K,-3.3%,-1.9%,117,4.5%,13.6%
+"Houston, TX",December 2018,All Residential,Place/City,False,TX,0.969485569,0.0%,0.4%,2498,2.4%,-6.6%,9249,-7.5%,12.4%,51,7,7,$218K,0.0%,0.4%,2164,-21.7%,1.7%
+"League City, TX",July 2019,All Residential,Place/City,False,TX,0.983650145,-0.1%,-0.2%,221,8.3%,16.9%,516,4.7%,-8.2%,26,-1,7,$285K,5.2%,4.7%,289,20.9%,7.4%
+"Friendswood, TX",September 2019,All Residential,Place/City,False,TX,0.973906626,-0.1%,-0.8%,79,-16.0%,-1.3%,175,-4.4%,-34.0%,46,18,11,$306K,13.3%,18.9%,65,-8.5%,-4.4%
+"Conroe, TX",March 2020,All Residential,Place/City,False,TX,0.980622852,0.3%,1.0%,231,46.2%,1.8%,743,1.8%,-4.0%,55,1,1,$240K,-3.5%,0.0%,288,9.9%,2.1%
+"Houston, TX",March 2020,All Residential,Place/City,False,TX,0.973107304,0.4%,0.2%,2633,20.1%,0.7%,10071,3.2%,0.5%,45,-10,0,$240K,2.8%,5.8%,3765,2.3%,-8.9%
+"Baytown, TX",July 2020,All Residential,Place/City,False,TX,0.986316731,0.8%,0.6%,151,25.8%,25.8%,304,-3.2%,-5.6%,23,-16,2,$210K,-2.8%,5.8%,196,24.1%,33.3%
+"Missouri City, TX",May 2012,All Residential,Place/City,False,TX,0.971523295,0.6%,0.6%,115,0.0%,3.6%,542,-2.3%,-24.5%,51,-4,-31,$183K,5.9%,12.3%,167,-16.9%,-8.7%
+"Baytown, TX",August 2012,All Residential,Place/City,False,TX,0.968170288,-1.3%,1.0%,87,6.1%,42.6%,425,-3.0%,-13.8%,67,-2,-30,$115K,-4.2%,9.4%,97,-11.8%,-14.9%
+"Texas City, TX",April 2013,All Residential,Place/City,False,TX,0.927478708,-2.0%,-0.2%,31,-6.1%,29.2%,198,1.0%,-13.5%,83,9,13,$76K,5.6%,10.7%,58,16.0%,-1.7%
+"Houston, TX",September 2013,All Residential,Place/City,False,TX,0.979319290,-0.2%,1.2%,2518,-16.2%,16.9%,7254,0.8%,-18.1%,28,5,-20,$171K,-4.5%,14.8%,2973,-13.0%,16.8%
+"League City, TX",October 2013,All Residential,Place/City,False,TX,0.975219035,-0.3%,0.0%,169,8.3%,17.4%,493,-0.8%,-7.3%,43,1,-19,$191K,-0.3%,2.6%,181,-1.6%,5.2%
+"Pasadena, TX",October 2013,All Residential,Place/City,False,TX,0.970761189,0.1%,1.8%,84,5.0%,10.5%,300,0.0%,-13.0%,40,-14,-27,$113K,2.4%,11.7%,95,-2.1%,3.3%
+"Baytown, TX",April 2014,All Residential,Place/City,False,TX,0.966627902,-0.9%,0.6%,98,22.5%,48.5%,255,-1.9%,-21.8%,53,1,-93,$137K,20.7%,17.9%,126,12.5%,22.3%
+"Pasadena, TX",November 2014,All Residential,Place/City,False,TX,0.979791856,0.1%,0.6%,54,-43.2%,-6.9%,182,-9.5%,-39.7%,25,-7,-31,$125K,8.7%,15.4%,65,-32.3%,-14.5%
+"Galveston, TX",January 2015,All Residential,Place/City,False,TX,0.956769288,1.1%,1.7%,50,-37.5%,6.4%,538,5.5%,-4.3%,86,-42,-27,$174K,4.2%,-8.2%,146,135.5%,11.5%
+"Baytown, TX",March 2012,All Residential,Place/City,False,TX,0.966317896,0.4%,-1.0%,57,-3.4%,-9.5%,365,-6.9%,-30.3%,80,-9,3,$106K,7.1%,-13.5%,108,17.4%,-20.0%
+"Pasadena, TX",September 2012,All Residential,Place/City,False,TX,0.981734490,2.5%,1.0%,57,-28.8%,0.0%,359,-2.2%,-25.7%,65,9,-21,$112K,10.9%,17.9%,82,-14.6%,1.2%
+"Conroe, TX",March 2013,All Residential,Place/City,False,TX,0.967667282,0.5%,0.4%,134,26.4%,18.6%,449,2.5%,-21.4%,59,0,-16,$159K,0.6%,10.5%,208,30.0%,13.7%
+"Galveston, TX",March 2013,All Residential,Place/City,False,TX,0.943386297,-0.2%,3.6%,74,21.3%,27.6%,621,3.5%,-1.3%,73,-25,-7,$167K,3.4%,24.0%,156,11.4%,-8.2%
+"League City, TX",June 2013,All Residential,Place/City,False,TX,0.978515606,0.2%,0.1%,185,-5.6%,20.9%,471,-1.9%,-19.5%,32,-7,-17,$200K,8.1%,7.9%,220,-11.3%,8.4%
+"Texas City, TX",June 2013,All Residential,Place/City,False,TX,0.951381886,-2.1%,6.1%,29,-37.0%,-3.3%,210,-1.4%,-10.3%,50,-23,-15,$103K,2.3%,77.6%,46,-31.3%,-29.2%
+"Baytown, TX",September 2013,All Residential,Place/City,False,TX,0.966486520,0.1%,1.4%,75,-17.6%,-11.8%,360,1.1%,-11.5%,47,-4,-17,$125K,-7.4%,2.5%,107,0.9%,7.0%
+"Conroe, TX",March 2014,All Residential,Place/City,False,TX,0.968028071,-0.3%,0.0%,148,33.3%,10.4%,414,0.5%,-7.8%,36,-28,-23,$199K,4.0%,24.8%,200,17.6%,-3.8%
+"Friendswood, TX",May 2014,All Residential,Place/City,False,TX,0.978777336,0.1%,0.4%,94,30.6%,-2.1%,152,-3.8%,-31.8%,18,-3,-25,$226K,-0.9%,19.2%,87,-15.5%,-17.1%
+"Pasadena, TX",August 2014,All Residential,Place/City,False,TX,0.974156038,-0.9%,0.2%,100,5.3%,4.2%,224,-8.9%,-21.4%,19,-1,-35,$129K,2.8%,19.0%,93,-27.3%,-13.9%
+"Friendswood, TX",October 2014,All Residential,Place/City,False,TX,0.972814351,0.3%,0.9%,75,36.4%,10.3%,138,-8.0%,-22.9%,31,5,-18,$207K,16.9%,-4.8%,60,5.3%,9.1%
+"Friendswood, TX",November 2014,All Residential,Place/City,False,TX,0.959512713,-1.3%,-2.3%,53,-29.3%,6.0%,130,-5.8%,-23.1%,51,20,6,$262K,26.6%,50.4%,57,-5.0%,5.6%
+"League City, TX",January 2015,All Residential,Place/City,False,TX,0.981579468,0.4%,0.4%,108,-39.3%,4.9%,365,0.3%,-9.0%,37,-7,-26,$218K,-4.0%,7.3%,165,24.1%,13.0%
+"Missouri City, TX",March 2015,All Residential,Place/City,False,TX,0.975987417,-1.1%,0.2%,136,29.5%,0.0%,288,-2.0%,-18.6%,19,-17,-7,$226K,6.6%,4.1%,174,27.9%,-5.4%
+"Houston, TX",March 2015,All Residential,Place/City,False,TX,0.977386723,0.1%,-0.3%,2393,30.1%,-5.7%,6921,1.2%,21.5%,23,-4,-3,$194K,9.3%,8.4%,3463,9.4%,5.7%
+"Conroe, TX",May 2015,All Residential,Place/City,False,TX,0.976443651,-0.3%,-0.3%,198,14.5%,11.9%,629,4.1%,52.3%,33,0,8,$209K,4.7%,-2.6%,264,6.9%,17.3%
+"League City, TX",September 2015,All Residential,Place/City,False,TX,0.978340759,-0.5%,0.5%,205,1.0%,11.4%,389,-4.0%,-10.0%,27,11,-1,$235K,1.3%,10.4%,199,-2.5%,18.5%
+"Baytown, TX",September 2015,All Residential,Place/City,False,TX,0.979896381,1.2%,0.2%,95,-7.8%,1.1%,288,0.7%,-6.8%,19,-8,-16,$145K,-3.3%,-3.1%,100,-31.5%,-10.7%
+"Sugar Land, TX",November 2015,All Residential,Place/City,False,TX,0.967389943,0.2%,-0.9%,118,-29.3%,-15.1%,545,-2.2%,70.3%,50,8,22,$347K,6.8%,5.2%,152,-26.2%,-11.1%
+"Houston, TX",January 2016,All Residential,Place/City,False,TX,0.965157593,-0.3%,-1.3%,1663,-32.7%,2.8%,8111,2.7%,23.5%,45,7,12,$185K,-7.5%,8.8%,3048,48.5%,-5.0%
+"Houston, TX",February 2016,All Residential,Place/City,False,TX,0.969143972,0.4%,-0.7%,1872,12.6%,1.8%,8592,5.9%,25.7%,49,4,22,$183K,-1.0%,3.4%,3521,15.5%,11.2%
+"Missouri City, TX",June 2016,All Residential,Place/City,False,TX,0.979794086,0.7%,-0.9%,165,26.0%,-12.2%,459,7.0%,28.6%,21,-11,7,$240K,-4.0%,1.1%,199,-1.0%,-1.5%
+"Texas City, TX",July 2016,All Residential,Place/City,False,TX,0.990783060,5.0%,4.0%,48,-20.0%,-15.8%,105,-7.1%,-26.1%,19,-5,-35,$118K,-5.1%,-2.1%,50,-35.9%,-12.3%
+"Pasadena, TX",November 2016,All Residential,Place/City,False,TX,0.970220442,-0.6%,-1.0%,69,-14.8%,15.0%,178,-3.8%,-7.8%,23,-2,1,$143K,2.1%,19.4%,85,-19.0%,9.0%
+"Missouri City, TX",January 2017,All Residential,Place/City,False,TX,0.969035655,-0.8%,0.0%,88,-37.6%,-4.3%,437,0.5%,23.4%,42,-12,-5,$238K,-0.9%,4.5%,149,34.2%,-12.4%
+"Missouri City, TX",April 2017,All Residential,Place/City,False,TX,0.975177218,0.5%,-0.2%,137,0.7%,0.0%,496,7.4%,21.6%,20,-22,-6,$245K,-5.0%,-5.8%,212,-7.4%,22.5%
+"Houston, TX",August 2017,All Residential,Place/City,False,TX,0.971858388,-0.2%,0.0%,2219,-18.0%,-25.7%,10746,-2.1%,12.0%,32,4,2,$214K,1.9%,1.9%,3183,-20.7%,-8.1%
+"Galveston, TX",August 2017,All Residential,Place/City,False,TX,0.951832194,-0.2%,-0.6%,103,-9.6%,-13.4%,607,-4.0%,-1.1%,47,-10,0,$210K,20.3%,11.4%,132,-29.8%,-9.6%
+"Galveston, TX",September 2017,All Residential,Place/City,False,TX,0.952670865,0.1%,0.2%,136,32.0%,29.5%,583,-4.0%,-4.9%,66,19,5,$238K,13.1%,8.8%,116,-12.1%,-23.2%
+"Sugar Land, TX",September 2017,All Residential,Place/City,False,TX,0.960299499,-1.0%,-0.9%,153,-5.0%,-5.6%,796,-8.3%,18.3%,45,16,8,$315K,1.6%,10.2%,167,-20.5%,-5.6%
+"Baytown, TX",March 2018,All Residential,Place/City,False,TX,0.982341803,2.1%,0.5%,92,10.8%,-17.9%,244,7.0%,15.6%,21,-8,-4,$183K,1.4%,8.0%,146,23.7%,21.7%
+"Friendswood, TX",May 2018,All Residential,Place/City,False,TX,0.974263086,-0.3%,-1.2%,101,-3.8%,34.7%,196,12.0%,-8.4%,14,-6,0,$247K,-13.3%,1.6%,143,30.0%,13.5%
+"Missouri City, TX",December 2018,All Residential,Place/City,False,TX,0.963523852,-1.0%,-0.5%,152,25.6%,4.8%,563,-6.3%,20.6%,76,32,-1,$268K,16.9%,10.8%,116,-23.2%,8.4%
+"Conroe, TX",January 2019,All Residential,Place/City,False,TX,0.965823512,-0.2%,-0.8%,100,-48.7%,-35.9%,759,4.7%,16.2%,58,-19,-20,$236K,-6.3%,-0.1%,269,99.3%,44.6%
+"Baytown, TX",March 2019,All Residential,Place/City,False,TX,0.983462825,-0.6%,0.1%,104,42.5%,13.0%,264,-8.3%,8.2%,28,-22,7,$197K,5.5%,8.1%,126,20.0%,-13.7%
+"Baytown, TX",August 2019,All Residential,Place/City,False,TX,0.976695130,-0.3%,0.0%,121,0.8%,-1.6%,330,2.5%,-0.9%,31,10,-1,$199K,0.2%,2.0%,151,2.7%,11.9%
+"Baytown, TX",December 2019,All Residential,Place/City,False,TX,0.982111832,-0.2%,-0.1%,108,17.4%,11.3%,308,-6.7%,5.8%,45,10,-2,$203K,0.7%,9.9%,82,-32.2%,28.1%
+"League City, TX",February 2020,All Residential,Place/City,False,TX,0.987087025,0.8%,0.8%,113,5.6%,-18.1%,350,5.1%,-23.2%,59,3,13,$277K,1.8%,-0.9%,188,22.1%,-1.1%
+"Friendswood, TX",June 2020,All Residential,Place/City,False,TX,0.985052489,0.5%,0.0%,68,-17.1%,-29.2%,124,-6.8%,-42.1%,15,-2,-8,$310K,1.7%,4.5%,105,28.0%,0.0%
+"Houston, TX",July 2020,All Residential,Place/City,False,TX,0.976216916,0.3%,0.3%,3579,23.2%,14.1%,8741,-5.0%,-22.6%,37,-6,7,$260K,4.6%,13.0%,4149,7.3%,1.8%
+"Friendswood, TX",August 2012,All Residential,Place/City,False,TX,0.963457558,0.4%,0.1%,85,9.0%,136.1%,262,-6.1%,-19.6%,52,7,-11,$185K,-1.3%,27.6%,74,-16.9%,10.4%
+"Galveston, TX",October 2013,All Residential,Place/City,False,TX,0.955595324,0.3%,1.5%,74,-6.3%,4.2%,606,1.2%,10.0%,63,-64,6,$170K,7.6%,11.9%,126,12.5%,22.3%
+"League City, TX",December 2013,All Residential,Place/City,False,TX,0.971637145,-0.5%,1.4%,170,20.6%,47.8%,431,-6.1%,-10.6%,61,11,-20,$190K,-3.3%,1.1%,107,-20.7%,9.2%
+"Houston, TX",March 2012,All Residential,Place/City,False,TX,0.962504746,0.4%,0.8%,2161,30.7%,6.9%,10076,-0.3%,-24.8%,70,-10,-19,$155K,14.7%,16.9%,3509,19.7%,-6.8%
+"Texas City, TX",March 2012,All Residential,Place/City,False,TX,0.984261234,4.5%,-14.4%,28,75.0%,1300.0%,215,-2.7%,28.0%,67,-47,-37,$76K,3.6%,169.6%,51,2.0%,96.2%
+"Baytown, TX",October 2012,All Residential,Place/City,False,TX,0.963670368,1.1%,1.4%,87,2.4%,29.9%,406,-0.2%,-7.3%,85,21,-20,$118K,-3.3%,24.3%,102,2.0%,7.4%
+"Friendswood, TX",December 2012,All Residential,Place/City,False,TX,0.945426079,-0.7%,-0.5%,57,-5.0%,171.4%,205,-13.5%,-32.6%,90,16,-22,$165K,1.2%,32.1%,37,-17.8%,-5.1%
+"Houston, TX",May 2013,All Residential,Place/City,False,TX,0.979843137,0.3%,1.0%,3053,8.4%,14.3%,6912,1.3%,-31.3%,25,-2,-19,$173K,-4.0%,8.0%,3771,2.4%,7.9%
+"Missouri City, TX",October 2013,All Residential,Place/City,False,TX,0.969713761,-0.3%,1.0%,123,-3.9%,23.0%,381,-2.3%,-25.4%,50,8,-7,$200K,-6.3%,15.2%,152,12.6%,4.1%
+"Conroe, TX",October 2013,All Residential,Place/City,False,TX,0.973697881,-0.1%,0.4%,132,-19.5%,10.9%,461,-7.4%,-13.2%,41,-3,-35,$171K,-7.8%,10.6%,151,-1.3%,15.3%
+"Texas City, TX",June 2015,All Residential,Place/City,False,TX,0.945620623,-4.2%,0.8%,36,-12.2%,-23.4%,145,2.8%,-4.6%,25,9,-6,$126K,-3.4%,42.3%,59,7.3%,-9.2%
+"Missouri City, TX",December 2015,All Residential,Place/City,False,TX,0.973478789,0.7%,0.2%,143,43.0%,2.1%,324,-10.5%,18.7%,38,2,6,$240K,6.7%,-2.0%,97,-17.1%,-10.2%
+"Houston, TX",December 2015,All Residential,Place/City,False,TX,0.968499173,-0.3%,-1.0%,2472,37.0%,-7.2%,7896,-6.4%,32.2%,38,4,10,$200K,11.0%,3.2%,2053,-20.3%,-3.5%
+"Pasadena, TX",July 2016,All Residential,Place/City,False,TX,0.982185516,-0.3%,0.0%,94,-11.3%,-6.0%,172,6.8%,-13.1%,14,-6,-2,$162K,8.0%,16.5%,125,9.6%,-12.6%
+"Missouri City, TX",October 2016,All Residential,Place/City,False,TX,0.982028839,0.6%,0.7%,117,-18.2%,-6.4%,488,-1.4%,25.4%,27,-8,-6,$230K,-1.3%,0.2%,165,19.6%,0.0%
+"League City, TX",September 2018,All Residential,Place/City,False,TX,0.972682102,-1.0%,-0.6%,165,-22.5%,-10.3%,534,-6.0%,16.1%,27,3,-4,$265K,0.8%,2.3%,152,-40.4%,-3.2%
+"Texas City, TX",June 2020,All Residential,Place/City,False,TX,0.977655539,0.7%,-0.3%,88,46.7%,-4.3%,215,-7.3%,2.9%,53,14,14,$214K,23.5%,13.7%,95,-6.9%,13.1%
+"Conroe, TX",September 2012,All Residential,Place/City,False,TX,0.951770556,-2.0%,-0.9%,126,-13.7%,27.3%,578,-0.7%,-8.1%,63,11,-6,$155K,-9.0%,-2.8%,144,-13.8%,-9.4%
+"Conroe, TX",June 2013,All Residential,Place/City,False,TX,0.972950990,-0.4%,1.8%,174,-10.3%,20.8%,480,4.1%,-22.3%,38,1,-25,$199K,20.2%,14.0%,215,2.4%,11.4%
+"Missouri City, TX",November 2013,All Residential,Place/City,False,TX,0.975625596,0.6%,0.4%,115,-6.5%,1.8%,360,-5.5%,-21.7%,47,-3,-24,$212K,5.5%,14.3%,122,-19.7%,0.8%
+"Pasadena, TX",March 2014,All Residential,Place/City,False,TX,0.975594984,0.9%,0.2%,66,6.5%,11.9%,236,-9.2%,-20.5%,52,6,0,$130K,9.7%,27.5%,110,25.0%,13.4%
+"Missouri City, TX",June 2014,All Residential,Place/City,False,TX,0.982949437,0.7%,0.0%,177,9.3%,-4.3%,380,8.9%,-13.2%,19,-13,-12,$250K,6.0%,14.2%,213,-1.4%,13.3%
+"Sugar Land, TX",July 2014,All Residential,Place/City,False,TX,0.984249309,-0.6%,0.4%,214,-16.7%,-23.3%,419,7.4%,4.5%,13,2,-1,$320K,-1.7%,13.7%,274,-5.2%,-9.6%
+"Baytown, TX",June 2015,All Residential,Place/City,False,TX,0.978889889,-0.1%,-0.7%,111,40.5%,14.4%,227,3.7%,-16.5%,17,-14,-18,$155K,3.7%,10.7%,125,2.5%,0.8%
+"Conroe, TX",August 2015,All Residential,Place/City,False,TX,0.977139111,0.3%,0.4%,173,-10.4%,-3.9%,703,-4.2%,32.6%,31,-5,-1,$229K,4.1%,2.9%,223,-14.2%,-0.9%
+"Baytown, TX",December 2015,All Residential,Place/City,False,TX,0.967271951,-0.9%,0.4%,78,5.4%,-8.2%,252,-8.4%,2.9%,34,1,-1,$153K,2.1%,0.2%,75,-8.5%,44.2%
+"Galveston, TX",June 2016,All Residential,Place/City,False,TX,0.954717506,0.6%,-1.0%,132,6.5%,3.9%,655,1.1%,17.4%,45,2,-20,$187K,-12.1%,17.6%,184,-1.6%,34.3%
+"Galveston, TX",November 2016,All Residential,Place/City,False,TX,0.955999978,1.3%,0.1%,68,-37.0%,-16.0%,594,-1.8%,9.4%,62,-12,6,$238K,13.5%,36.1%,112,-10.4%,4.7%
+"Missouri City, TX",February 2017,All Residential,Place/City,False,TX,0.969162288,0.0%,0.0%,102,15.9%,0.0%,428,-2.1%,19.2%,67,25,22,$256K,7.7%,6.0%,155,4.0%,0.0%
+"Conroe, TX",March 2017,All Residential,Place/City,False,TX,0.969595269,-0.4%,-0.2%,197,19.4%,14.5%,747,5.1%,0.1%,70,-8,21,$240K,8.1%,10.1%,310,23.5%,28.1%
+"Texas City, TX",August 2017,All Residential,Place/City,False,TX,0.966029519,-2.1%,1.0%,36,-39.0%,-42.9%,198,3.7%,125.0%,37,29,11,$169K,12.7%,33.6%,61,-29.1%,8.9%
+"Houston, TX",November 2017,All Residential,Place/City,False,TX,0.966022900,-0.2%,-0.3%,2410,-1.7%,5.2%,9085,-3.3%,3.1%,47,-1,8,$208K,0.0%,0.9%,2865,-10.4%,14.1%
+"Friendswood, TX",February 2018,All Residential,Place/City,False,TX,0.972588082,1.3%,0.1%,70,52.2%,27.3%,151,-7.4%,6.3%,50,32,14,$214K,-5.5%,-26.6%,76,-15.6%,20.6%
+"Texas City, TX",July 2018,All Residential,Place/City,False,TX,0.982897170,1.4%,-0.4%,85,9.0%,44.1%,225,5.6%,17.8%,28,0,20,$183K,7.8%,22.0%,85,-19.8%,-1.2%
+"Houston, TX",July 2018,All Residential,Place/City,False,TX,0.973495644,0.1%,-0.1%,2905,-9.7%,7.4%,10539,2.9%,-3.9%,29,2,1,$228K,0.0%,8.6%,4122,-1.3%,2.7%
+"Missouri City, TX",July 2018,All Residential,Place/City,False,TX,0.980542487,0.1%,0.9%,157,3.3%,-1.3%,599,1.5%,-6.0%,36,8,5,$258K,2.9%,9.2%,222,-5.5%,-0.4%
+"League City, TX",October 2018,All Residential,Place/City,False,TX,0.980836652,0.8%,-0.3%,172,4.2%,19.4%,480,-10.1%,13.5%,42,15,7,$270K,2.1%,-0.2%,167,9.9%,10.6%
+"Sugar Land, TX",March 2019,All Residential,Place/City,False,TX,0.960216755,-0.3%,-0.6%,153,50.0%,-10.0%,714,15.3%,8.8%,69,-9,-2,$320K,14.9%,-0.9%,302,57.3%,-1.6%
+"Baytown, TX",May 2019,All Residential,Place/City,False,TX,0.978940553,-0.1%,0.4%,109,0.9%,-1.8%,283,12.3%,1.1%,27,-7,0,$190K,-1.0%,2.2%,148,34.5%,-15.9%
+"Galveston, TX",July 2019,All Residential,Place/City,False,TX,0.963189671,0.9%,0.6%,141,6.0%,21.6%,615,-0.5%,-2.8%,53,-1,-14,$280K,23.9%,14.3%,177,-1.7%,9.3%
+"Baytown, TX",November 2019,All Residential,Place/City,False,TX,0.983620654,1.1%,1.6%,92,-14.8%,4.5%,330,0.9%,3.1%,35,2,1,$202K,-0.2%,12.9%,121,-4.0%,3.4%
+"Conroe, TX",June 2020,All Residential,Place/City,False,TX,0.977932800,-0.4%,0.4%,290,52.6%,7.8%,650,-9.5%,-20.1%,42,-1,-7,$265K,1.9%,3.9%,306,1.0%,3.0%
+"League City, TX",May 2013,All Residential,Place/City,False,TX,0.976456921,-0.5%,0.4%,196,19.5%,9.5%,480,1.9%,-18.2%,39,5,-32,$185K,-0.5%,0.0%,248,19.2%,20.4%
+"Friendswood, TX",June 2013,All Residential,Place/City,False,TX,0.976425530,0.1%,0.7%,102,6.3%,25.9%,214,-4.0%,-24.9%,49,6,-8,$201K,6.2%,-2.0%,98,-6.7%,14.0%
+"Friendswood, TX",March 2015,All Residential,Place/City,False,TX,0.974759686,0.7%,-0.8%,60,36.4%,13.2%,97,-2.0%,-40.5%,15,-30,-17,$209K,-15.2%,16.0%,71,16.4%,-17.4%
+"Sugar Land, TX",June 2015,All Residential,Place/City,False,TX,0.976725602,-0.4%,-1.3%,244,24.5%,-5.1%,549,13.4%,40.8%,15,-1,4,$329K,1.4%,1.3%,325,5.2%,12.5%
+"Houston, TX",February 2012,All Residential,Place/City,False,TX,0.958050137,0.0%,0.4%,1653,25.1%,11.5%,10105,-0.1%,-23.5%,80,-1,-15,$135K,12.5%,-2.5%,2931,3.4%,-1.6%
+"Pasadena, TX",April 2012,All Residential,Place/City,False,TX,0.963509740,-1.3%,0.4%,89,25.4%,39.1%,396,2.9%,-21.9%,57,-58,-17,$99K,-7.3%,-1.0%,123,-6.1%,-11.5%
+"Missouri City, TX",November 2012,All Residential,Place/City,False,TX,0.971518790,1.2%,2.5%,113,13.0%,34.5%,460,-10.0%,-19.4%,71,14,-34,$185K,6.3%,8.8%,121,-17.1%,19.8%
+"League City, TX",December 2012,All Residential,Place/City,False,TX,0.957797402,-1.5%,,115,-1.7%,,482,-8.0%,,81,10,,$188K,-2.1%,,98,-25.2%,
+"Missouri City, TX",February 2013,All Residential,Place/City,False,TX,0.962868102,0.6%,-0.3%,95,-1.0%,8.0%,436,1.4%,-11.7%,81,0,-24,$165K,3.6%,-10.8%,173,11.6%,12.3%
+"Sugar Land, TX",August 2013,All Residential,Place/City,False,TX,0.975963665,-0.5%,1.2%,256,-8.2%,19.6%,384,-4.2%,-38.2%,18,4,-24,$275K,-2.1%,24.4%,210,-30.7%,-1.4%
+"Sugar Land, TX",December 2013,All Residential,Place/City,False,TX,0.975956038,1.0%,2.8%,200,28.2%,0.0%,300,-13.3%,-20.6%,35,7,-36,$308K,8.4%,8.8%,124,-21.0%,29.2%
+"League City, TX",January 2014,All Residential,Place/City,False,TX,0.977927289,0.6%,0.6%,103,-39.4%,18.4%,401,-7.0%,-15.8%,63,2,4,$203K,6.8%,18.7%,146,36.4%,-5.8%
+"Galveston, TX",March 2014,All Residential,Place/City,False,TX,0.958875125,1.1%,1.5%,82,-2.4%,10.8%,650,7.1%,4.7%,91,-41,18,$188K,11.3%,12.0%,189,34.0%,21.2%
+"Missouri City, TX",April 2014,All Residential,Place/City,False,TX,0.977291731,0.4%,0.8%,158,16.2%,11.3%,333,-5.9%,-22.4%,31,5,-25,$221K,2.2%,1.9%,180,-2.2%,-4.8%
+"Galveston, TX",August 2014,All Residential,Place/City,False,TX,0.945432467,-0.4%,0.1%,124,0.8%,5.1%,610,-1.8%,-1.0%,80,-5,7,$181K,8.1%,-1.0%,124,-21.5%,-23.0%
+"Sugar Land, TX",November 2014,All Residential,Place/City,False,TX,0.976100387,-0.2%,1.0%,139,-14.7%,-10.9%,320,-6.2%,-7.5%,28,-4,0,$330K,3.1%,16.3%,171,-3.9%,8.9%
+"League City, TX",March 2015,All Residential,Place/City,False,TX,0.977424470,-0.1%,-0.3%,180,31.4%,7.1%,340,-7.6%,-12.4%,26,-22,-2,$234K,2.4%,17.5%,194,6.0%,6.6%
+"Baytown, TX",April 2015,All Residential,Place/City,False,TX,0.965022124,-1.2%,-0.2%,104,5.1%,6.1%,211,0.5%,-17.3%,46,-4,-7,$151K,-4.4%,10.3%,114,3.6%,-9.5%
+"Sugar Land, TX",May 2015,All Residential,Place/City,False,TX,0.981072685,-0.3%,-0.6%,196,32.4%,2.6%,484,11.0%,41.5%,16,-3,2,$325K,2.3%,3.1%,309,7.3%,-0.3%
+"Galveston, TX",May 2015,All Residential,Place/City,False,TX,0.950574625,-0.8%,0.2%,134,14.5%,1.5%,593,-0.2%,-9.7%,61,-20,-8,$176K,9.8%,-14.3%,161,5.2%,-6.9%
+"Baytown, TX",July 2015,All Residential,Place/City,False,TX,0.974476788,-0.4%,0.1%,111,0.0%,32.1%,248,9.3%,-20.0%,33,16,12,$157K,1.3%,10.2%,151,20.8%,11.0%
+"Missouri City, TX",January 2016,All Residential,Place/City,False,TX,0.969431294,-0.4%,-0.9%,92,-35.7%,-3.2%,354,9.3%,20.8%,47,9,5,$227K,-5.2%,1.5%,170,75.3%,4.3%
+"Conroe, TX",September 2016,All Residential,Place/City,False,TX,0.975043977,0.1%,0.7%,186,-17.7%,-8.4%,761,2.0%,7.6%,43,5,2,$216K,-7.6%,-1.1%,236,4.4%,6.3%
+"Galveston, TX",September 2016,All Residential,Place/City,False,TX,0.951035884,-0.7%,-0.2%,105,-11.8%,-0.9%,613,-0.2%,3.9%,61,14,7,$218K,15.8%,19.4%,151,3.4%,19.8%
+"Friendswood, TX",May 2017,All Residential,Place/City,False,TX,0.986443597,0.7%,0.5%,75,13.6%,-2.6%,214,17.6%,30.5%,14,-12,-4,$243K,-3.2%,-6.5%,126,27.3%,41.6%
+"Conroe, TX",September 2017,All Residential,Place/City,False,TX,0.968576305,-0.6%,-0.6%,191,-0.5%,2.7%,770,-5.8%,1.2%,47,-1,4,$229K,8.5%,6.3%,235,10.3%,-0.4%
+"Pasadena, TX",November 2017,All Residential,Place/City,False,TX,0.969887894,-0.3%,0.0%,79,6.8%,14.5%,149,-5.1%,-16.3%,32,8,9,$170K,4.1%,18.9%,76,-3.8%,-10.6%
+"Missouri City, TX",January 2018,All Residential,Place/City,False,TX,0.957988979,-1.1%,-1.1%,89,-38.6%,1.1%,441,-5.6%,0.9%,51,-26,9,$228K,-5.8%,-4.1%,123,15.0%,-17.4%
+"Houston, TX",April 2019,All Residential,Place/City,False,TX,0.972832277,0.2%,0.2%,2839,8.6%,3.9%,10358,3.4%,10.9%,35,-10,7,$230K,1.4%,4.5%,4384,6.1%,1.5%
+"Baytown, TX",February 2020,All Residential,Place/City,False,TX,0.973488286,2.4%,-1.6%,91,28.2%,24.7%,301,-9.6%,4.5%,55,-6,5,$200K,7.6%,7.0%,128,-10.5%,21.9%
+"Galveston, TX",January 2014,All Residential,Place/City,False,TX,0.939536116,-0.7%,0.9%,47,-24.2%,-13.0%,562,1.6%,0.7%,113,28,-4,$189K,-3.1%,45.7%,131,70.1%,-9.0%
+"Conroe, TX",January 2015,All Residential,Place/City,False,TX,0.977931782,0.5%,0.1%,102,-42.0%,9.7%,534,4.5%,34.2%,56,15,7,$195K,-9.1%,4.5%,200,61.3%,35.1%
+"League City, TX",June 2015,All Residential,Place/City,False,TX,0.986696442,0.1%,0.5%,199,9.9%,-6.6%,398,-0.5%,-2.2%,25,2,6,$238K,1.3%,10.7%,227,-9.2%,18.2%
+"League City, TX",December 2015,All Residential,Place/City,False,TX,0.975308539,-0.2%,-0.2%,176,61.5%,-1.1%,363,-2.4%,-0.3%,36,14,-8,$230K,0.6%,1.6%,113,-15.0%,-15.0%
+"Pasadena, TX",January 2016,All Residential,Place/City,False,TX,0.974358137,-0.5%,-0.8%,56,-32.5%,40.0%,181,7.7%,-0.5%,42,19,4,$124K,-16.8%,-4.5%,100,63.9%,17.6%
+"Friendswood, TX",February 2016,All Residential,Place/City,False,TX,0.969702445,-0.7%,0.2%,52,20.9%,18.2%,135,0.0%,36.4%,44,8,-1,$255K,-5.2%,3.6%,74,5.7%,21.3%
+"Galveston, TX",February 2016,All Residential,Place/City,False,TX,0.956888995,2.1%,-0.1%,58,-3.3%,-28.4%,539,8.7%,-6.1%,59,-31,-35,$168K,-4.5%,-0.7%,178,27.1%,17.9%
+"Pasadena, TX",October 2016,All Residential,Place/City,False,TX,0.976681169,0.5%,-0.9%,81,-20.6%,2.5%,185,6.9%,-4.6%,25,5,0,$140K,0.2%,1.5%,105,12.9%,19.3%
+"Baytown, TX",July 2017,All Residential,Place/City,False,TX,0.981781548,0.1%,-0.4%,97,-7.6%,-5.8%,310,23.0%,18.3%,16,-7,-5,$190K,4.4%,12.4%,173,21.0%,49.1%
+"Galveston, TX",October 2017,All Residential,Place/City,False,TX,0.944476509,-0.8%,0.2%,93,-31.6%,-13.9%,553,-5.1%,-8.6%,76,10,2,$257K,8.2%,22.4%,132,13.8%,5.6%
+"League City, TX",November 2017,All Residential,Place/City,False,TX,0.981229156,-0.3%,-0.2%,164,13.9%,10.8%,367,-13.2%,-8.3%,54,19,24,$260K,-4.1%,4.2%,141,-6.6%,0.0%
+"Baytown, TX",December 2017,All Residential,Place/City,False,TX,0.974496364,0.1%,0.1%,123,12.8%,48.2%,204,-13.2%,-12.8%,32,-21,-17,$191K,4.8%,11.2%,67,-35.0%,-13.0%
+"Conroe, TX",August 2018,All Residential,Place/City,False,TX,0.976078299,-0.3%,0.1%,233,2.6%,21.4%,851,-1.7%,4.2%,39,7,-9,$242K,1.5%,14.5%,259,-14.2%,21.6%
+"Texas City, TX",February 2020,All Residential,Place/City,False,TX,0.968331996,-1.4%,-1.5%,61,41.9%,-9.0%,255,1.2%,15.9%,70,24,-7,$165K,-17.1%,-5.7%,80,12.7%,8.1%
+"Missouri City, TX",July 2012,All Residential,Place/City,False,TX,0.972042563,0.5%,0.9%,136,-11.1%,33.3%,557,-1.8%,-23.3%,58,4,-19,$200K,6.9%,16.3%,169,-7.1%,-5.6%
+"Houston, TX",June 2013,All Residential,Place/City,False,TX,0.982590675,0.3%,1.1%,2846,-6.8%,5.6%,7057,2.1%,-29.6%,22,-3,-22,$180K,4.2%,13.3%,3672,-2.6%,5.6%
+"Conroe, TX",April 2015,All Residential,Place/City,False,TX,0.979575631,0.7%,0.6%,173,11.6%,17.7%,604,2.4%,50.2%,33,-7,-2,$200K,-8.3%,2.6%,247,2.1%,18.2%
+"Conroe, TX",April 2012,All Residential,Place/City,False,TX,0.962529692,-0.1%,0.5%,109,-3.5%,4.8%,587,2.8%,-10.1%,70,-5,-20,$160K,11.3%,-2.8%,196,7.1%,17.4%
+"Galveston, TX",June 2013,All Residential,Place/City,False,TX,0.942283923,0.1%,0.9%,104,-2.8%,13.0%,621,0.8%,5.3%,109,51,20,$192K,22.4%,23.6%,136,-8.7%,23.6%
+"Friendswood, TX",November 2013,All Residential,Place/City,False,TX,0.982440656,1.8%,3.0%,50,-26.5%,-16.7%,169,-5.6%,-28.7%,45,-4,-29,$174K,-19.9%,6.9%,54,-1.8%,20.0%
+"Baytown, TX",December 2013,All Residential,Place/City,False,TX,0.981780619,1.5%,2.3%,71,24.6%,16.4%,289,-11.3%,-23.9%,96,54,-6,$130K,-3.7%,8.3%,60,25.0%,0.0%
+"Missouri City, TX",May 2014,All Residential,Place/City,False,TX,0.975927233,-0.1%,0.4%,162,2.5%,-7.4%,349,4.8%,-22.4%,32,1,-9,$236K,6.6%,17.3%,216,20.0%,-11.8%
+"Pasadena, TX",September 2014,All Residential,Place/City,False,TX,0.965734280,-0.8%,-0.4%,81,-19.0%,1.3%,208,-7.1%,-30.7%,22,3,-32,$120K,-6.6%,8.4%,85,-8.6%,-12.4%
+"League City, TX",September 2014,All Residential,Place/City,False,TX,0.973479367,-0.8%,-0.4%,184,-18.6%,17.9%,432,-5.1%,-13.1%,28,3,-14,$213K,-3.2%,10.8%,168,-23.6%,-8.7%
+"Galveston, TX",December 2014,All Residential,Place/City,False,TX,0.945772485,0.0%,-0.1%,80,-7.0%,29.0%,510,-7.6%,-7.8%,128,48,43,$167K,-10.0%,-14.6%,62,-25.3%,-19.5%
+"League City, TX",May 2017,All Residential,Place/City,False,TX,0.986108056,0.2%,0.0%,214,39.9%,-5.3%,390,-2.7%,9.6%,23,3,8,$255K,-3.0%,5.8%,257,8.9%,20.7%
+"Missouri City, TX",November 2018,All Residential,Place/City,False,TX,0.973367927,-0.3%,0.8%,121,-12.9%,0.8%,601,-1.6%,16.5%,44,8,-15,$230K,-0.2%,-4.4%,151,-17.9%,12.7%
+"Houston, TX",August 2012,All Residential,Place/City,False,TX,0.969732184,0.0%,0.9%,2751,4.2%,19.0%,9367,-4.6%,-22.6%,46,0,-24,$153K,-1.6%,7.1%,2964,-6.0%,-1.1%
+"Houston, TX",December 2012,All Residential,Place/City,False,TX,0.968061563,0.1%,0.9%,2234,3.5%,13.5%,7213,-8.6%,-29.1%,56,3,-22,$165K,7.7%,10.1%,1823,-20.0%,-2.7%
+"Houston, TX",March 2014,All Residential,Place/City,False,TX,0.980279951,0.5%,0.7%,2537,21.0%,-0.5%,5698,-1.9%,-16.4%,26,-10,-13,$179K,5.0%,10.5%,3275,16.5%,-3.7%
+"Pasadena, TX",May 2014,All Residential,Place/City,False,TX,0.974158011,-0.7%,0.3%,91,-11.7%,5.8%,218,6.9%,-26.6%,56,22,-5,$124K,3.4%,-3.3%,116,28.9%,-11.5%
+"Houston, TX",September 2014,All Residential,Place/City,False,TX,0.980116154,-0.3%,0.1%,2654,-6.6%,5.4%,6544,-2.9%,-9.8%,23,4,-5,$180K,-3.3%,5.2%,2917,-15.2%,-1.9%
+"Pasadena, TX",October 2014,All Residential,Place/City,False,TX,0.978773399,1.3%,0.8%,95,17.3%,13.1%,201,-3.4%,-33.0%,32,10,-8,$115K,-4.2%,1.4%,96,12.9%,1.1%
+"Galveston, TX",July 2015,All Residential,Place/City,False,TX,0.948179792,-1.7%,-0.1%,117,-7.9%,-4.9%,563,0.9%,-9.3%,72,7,-13,$168K,6.1%,0.5%,151,10.2%,-4.4%
+"Friendswood, TX",August 2015,All Residential,Place/City,False,TX,0.985152438,-0.6%,0.2%,68,-20.9%,-19.0%,149,-3.9%,-14.9%,11,-3,-14,$232K,2.4%,-5.4%,77,-25.2%,-2.5%
+"Conroe, TX",November 2015,All Residential,Place/City,False,TX,0.980232917,1.2%,0.8%,119,-24.2%,-13.1%,696,-5.9%,28.9%,49,-3,3,$216K,-1.6%,15.5%,152,-30.3%,-10.1%
+"Texas City, TX",February 2016,All Residential,Place/City,False,TX,0.948891706,-1.5%,0.0%,42,13.5%,23.5%,88,-22.1%,-31.3%,39,7,-32,$120K,-3.2%,12.1%,38,-29.6%,-25.5%
+"Houston, TX",April 2016,All Residential,Place/City,False,TX,0.971767580,0.2%,-0.5%,2499,2.4%,-4.4%,9026,0.8%,25.5%,28,-6,5,$205K,1.5%,10.8%,3655,-7.3%,-1.7%
+"Houston, TX",December 2016,All Residential,Place/City,False,TX,0.967751830,-0.2%,-0.1%,2702,18.0%,9.3%,8060,-8.5%,2.1%,45,6,7,$215K,4.3%,7.5%,1963,-21.9%,-4.4%
+"Galveston, TX",December 2016,All Residential,Place/City,False,TX,0.958465681,0.2%,1.0%,85,25.0%,6.3%,537,-9.6%,10.0%,56,-6,-10,$200K,-16.1%,15.4%,69,-38.4%,-16.9%
+"Conroe, TX",May 2017,All Residential,Place/City,False,TX,0.980461560,0.6%,1.0%,245,29.6%,20.7%,807,0.5%,7.7%,42,-4,-1,$229K,4.1%,-0.4%,305,-2.6%,38.0%
+"Pasadena, TX",June 2017,All Residential,Place/City,False,TX,0.969051890,-0.6%,-1.6%,102,-2.9%,-3.8%,162,5.2%,0.6%,14,0,-6,$151K,-0.5%,0.8%,136,27.1%,19.3%
+"Friendswood, TX",October 2017,All Residential,Place/City,False,TX,0.974855709,-0.5%,-0.6%,71,-5.3%,29.1%,169,-11.1%,-4.5%,39,10,18,$270K,-1.8%,17.9%,76,15.2%,33.3%
+"Pasadena, TX",January 2018,All Residential,Place/City,False,TX,0.968147731,-1.3%,0.1%,51,-35.4%,-1.9%,122,-5.4%,-25.6%,18,-3,-32,$157K,-1.9%,16.3%,68,44.7%,-19.0%
+"Galveston, TX",July 2018,All Residential,Place/City,False,TX,0.956702734,-0.9%,0.3%,116,-25.6%,1.8%,633,-2.2%,0.2%,67,31,10,$245K,1.1%,40.4%,162,-16.1%,-13.8%
+"Pasadena, TX",August 2018,All Residential,Place/City,False,TX,0.981737251,0.1%,1.3%,95,0.0%,41.8%,206,9.6%,11.4%,15,1,-1,$173K,-1.7%,8.1%,139,31.1%,52.7%
+"Friendswood, TX",August 2019,All Residential,Place/City,False,TX,0.974581517,-1.0%,0.1%,94,4.4%,28.8%,183,-15.7%,-33.5%,28,10,3,$270K,0.2%,-5.2%,71,-33.0%,-34.3%
+"Pasadena, TX",June 2020,All Residential,Place/City,False,TX,0.982641373,1.0%,0.5%,108,40.3%,31.7%,165,-13.2%,-17.5%,34,2,15,$181K,-9.7%,3.3%,103,-1.9%,-13.4%
+"Sugar Land, TX",June 2020,All Residential,Place/City,False,TX,0.967771393,0.3%,0.2%,189,78.3%,6.2%,591,-8.7%,-28.0%,40,0,5,$320K,-3.0%,-4.8%,238,-9.8%,-16.5%
+"Texas City, TX",April 2012,All Residential,Place/City,False,TX,0.929774838,-5.4%,24.4%,24,-14.3%,2300.0%,229,6.5%,34.7%,70,3,-186,$69K,-9.2%,90.7%,59,15.7%,73.5%
+"Missouri City, TX",June 2012,All Residential,Place/City,False,TX,0.966970082,-0.5%,0.8%,153,33.0%,28.6%,567,4.6%,-19.9%,54,3,-32,$187K,2.2%,6.9%,182,9.0%,7.7%
+"Conroe, TX",August 2012,All Residential,Place/City,False,TX,0.971726109,0.5%,0.9%,146,-2.7%,21.7%,582,-4.0%,-7.9%,52,-12,-19,$170K,6.2%,11.4%,167,-10.2%,21.0%
+"Galveston, TX",April 2013,All Residential,Place/City,False,TX,0.944408125,0.1%,-0.4%,105,41.9%,31.3%,613,-1.3%,-2.5%,66,-7,4,$195K,16.5%,34.5%,150,-3.8%,2.0%
+"Galveston, TX",April 2014,All Residential,Place/City,False,TX,0.950475784,-0.8%,0.6%,112,36.6%,6.7%,669,2.9%,9.1%,64,-27,-2,$166K,-11.2%,-14.6%,175,-7.4%,16.7%
+"Pasadena, TX",January 2015,All Residential,Place/City,False,TX,0.982814814,0.8%,2.8%,40,-57.4%,-33.3%,182,6.4%,-29.5%,38,3,-35,$130K,0.5%,13.9%,85,41.7%,-7.6%
+"Missouri City, TX",June 2015,All Residential,Place/City,False,TX,0.988459381,0.5%,0.6%,188,30.6%,6.2%,357,13.0%,-6.1%,14,-6,-5,$237K,-3.0%,-5.1%,202,-7.8%,-5.2%
+"Galveston, TX",March 2016,All Residential,Place/City,False,TX,0.944222310,-1.3%,-1.5%,112,93.1%,24.4%,590,9.5%,-0.5%,59,0,15,$176K,5.0%,1.9%,225,26.4%,25.0%
+"Houston, TX",August 2016,All Residential,Place/City,False,TX,0.972102073,-0.2%,-0.6%,2987,9.8%,9.2%,9596,-1.2%,12.5%,30,1,5,$210K,-2.3%,7.1%,3462,-8.2%,-2.0%
+"Conroe, TX",February 2017,All Residential,Place/City,False,TX,0.974089027,0.8%,0.5%,165,58.7%,25.0%,711,3.3%,-0.4%,78,12,9,$222K,2.8%,6.0%,251,23.0%,5.9%
+"Pasadena, TX",December 2017,All Residential,Place/City,False,TX,0.981512054,1.2%,0.7%,79,0.0%,-14.1%,129,-13.4%,-23.7%,21,-11,-12,$160K,-5.9%,-2.4%,47,-38.2%,-25.4%
+"Galveston, TX",April 2012,All Residential,Place/City,False,TX,0.948684546,4.1%,4.7%,80,37.9%,1900.0%,629,0.0%,21.4%,62,-18,-120,$145K,7.4%,100.0%,147,-13.5%,88.5%
+"Conroe, TX",May 2012,All Residential,Place/City,False,TX,0.973254294,1.1%,2.1%,157,44.0%,67.0%,591,0.7%,-10.6%,62,-8,-12,$172K,7.3%,11.1%,183,-6.6%,15.1%
+"Friendswood, TX",June 2012,All Residential,Place/City,False,TX,0.968950525,0.5%,-0.4%,81,-2.4%,161.3%,285,-2.7%,-7.8%,57,-68,-3,$205K,-7.0%,43.4%,86,-16.5%,2.4%
+"Houston, TX",March 2013,All Residential,Place/City,False,TX,0.973300343,0.6%,1.1%,2551,32.9%,18.0%,6817,-2.0%,-32.3%,39,-13,-31,$162K,1.6%,4.3%,3402,12.1%,-3.0%
+"Sugar Land, TX",June 2013,All Residential,Place/City,False,TX,0.978401616,1.0%,1.3%,275,-1.4%,20.6%,397,7.3%,-37.4%,14,-8,-31,$273K,-14.3%,14.7%,300,-7.1%,5.3%
+"League City, TX",August 2013,All Residential,Place/City,False,TX,0.982296752,0.7%,0.8%,194,-19.5%,36.6%,492,-1.4%,-14.4%,30,1,-36,$191K,-2.8%,6.9%,201,-17.6%,13.6%
+"Missouri City, TX",February 2014,All Residential,Place/City,False,TX,0.968357893,-0.8%,0.5%,87,-17.9%,-8.4%,383,7.0%,-12.2%,61,15,-20,$179K,-5.5%,8.5%,184,26.9%,6.4%
+"Pasadena, TX",July 2014,All Residential,Place/City,False,TX,0.982903824,1.0%,-0.1%,95,-5.0%,4.4%,246,6.5%,-13.7%,20,-8,-20,$125K,-1.8%,3.7%,128,10.3%,17.4%
+"Conroe, TX",July 2014,All Residential,Place/City,False,TX,0.976500412,0.2%,0.1%,185,-2.1%,-5.1%,524,13.2%,5.6%,19,0,-24,$205K,10.8%,10.8%,245,1.2%,0.0%
+"Sugar Land, TX",October 2014,All Residential,Place/City,False,TX,0.978274429,-0.6%,0.6%,163,-28.2%,-7.9%,341,-3.7%,-7.3%,32,15,9,$320K,8.5%,23.1%,178,9.2%,-22.3%
+"Missouri City, TX",December 2014,All Residential,Place/City,False,TX,0.971686438,0.2%,0.3%,140,12.9%,20.7%,273,-7.1%,-21.8%,32,-3,-7,$245K,1.1%,6.9%,108,21.3%,0.0%
+"League City, TX",July 2015,All Residential,Place/City,False,TX,0.987127586,0.0%,0.5%,232,16.6%,22.8%,417,4.8%,-7.3%,16,-9,-5,$233K,-2.3%,8.1%,255,12.3%,-5.9%
+"Houston, TX",August 2015,All Residential,Place/City,False,TX,0.978572241,0.1%,-0.5%,2735,-11.0%,-3.8%,8531,2.5%,26.5%,25,4,6,$196K,-2.5%,5.4%,3534,-15.3%,2.8%
+"Baytown, TX",October 2015,All Residential,Place/City,False,TX,0.970638240,-0.9%,-1.2%,75,-21.1%,-26.5%,289,0.3%,1.8%,37,18,2,$150K,3.4%,3.4%,110,10.0%,2.8%
+"Pasadena, TX",April 2017,All Residential,Place/City,False,TX,0.973073559,-0.3%,-1.3%,78,-21.2%,-10.3%,160,-3.6%,-2.4%,21,2,6,$146K,4.3%,7.8%,105,-5.4%,-18.0%
+"Sugar Land, TX",June 2017,All Residential,Place/City,False,TX,0.966339812,-0.7%,-1.4%,235,-1.3%,15.8%,821,10.1%,18.6%,26,2,-2,$345K,5.9%,12.0%,332,-2.4%,5.7%
+"Pasadena, TX",August 2017,All Residential,Place/City,False,TX,0.968269983,-1.5%,-2.4%,67,-34.3%,-33.0%,185,3.9%,1.1%,16,0,2,$160K,-1.2%,10.7%,91,-15.0%,-14.2%
+"Baytown, TX",August 2017,All Residential,Place/City,False,TX,0.979146274,-0.3%,-0.9%,88,-9.3%,-27.9%,305,-1.6%,20.1%,19,3,-7,$174K,-8.6%,4.7%,129,-25.4%,2.4%
+"Missouri City, TX",September 2017,All Residential,Place/City,False,TX,0.969487856,-0.9%,-0.6%,139,46.3%,-2.8%,574,-5.9%,16.0%,54,27,19,$259K,9.7%,11.2%,140,-5.4%,1.4%
+"Baytown, TX",May 2018,All Residential,Place/City,False,TX,0.974975359,0.2%,-0.5%,111,0.0%,20.7%,280,9.4%,19.7%,27,1,4,$186K,-6.6%,3.0%,176,23.9%,44.3%
+"Baytown, TX",January 2019,All Residential,Place/City,False,TX,0.957529079,-2.6%,-0.9%,72,-25.8%,-8.9%,296,1.7%,39.6%,53,6,15,$164K,-11.5%,-9.9%,122,90.6%,11.9%
+"Pasadena, TX",May 2019,All Residential,Place/City,False,TX,0.987382280,1.3%,0.1%,98,5.4%,7.7%,209,16.1%,43.2%,24,-9,15,$175K,6.6%,5.9%,129,9.3%,9.3%
+"Conroe, TX",May 2019,All Residential,Place/City,False,TX,0.976632158,0.1%,0.0%,253,20.5%,1.6%,808,3.3%,0.5%,40,-15,4,$250K,0.0%,3.3%,336,4.3%,0.0%
+"Galveston, TX",December 2019,All Residential,Place/City,False,TX,0.955496108,0.5%,-0.2%,119,17.8%,45.1%,522,-5.3%,3.8%,61,-5,-15,$263K,1.7%,30.9%,88,-24.1%,-1.1%
+"Missouri City, TX",January 2020,All Residential,Place/City,False,TX,0.968448474,-0.3%,-0.3%,122,-29.5%,35.6%,461,-3.6%,-19.5%,55,4,3,$234K,-3.8%,0.1%,155,11.5%,-3.1%
+"Conroe, TX",January 2020,All Residential,Place/City,False,TX,0.966304790,-0.4%,0.0%,132,-41.6%,32.0%,747,9.2%,-1.6%,64,-2,6,$239K,-3.3%,1.5%,280,60.9%,4.1%
+"Galveston, TX",April 2020,All Residential,Place/City,False,TX,0.961445599,0.4%,0.2%,72,-31.4%,-49.3%,601,-5.4%,-4.6%,25,-11,-19,$230K,-2.1%,-8.0%,115,-44.4%,-42.8%
+"Baytown, TX",November 2013,All Residential,Place/City,False,TX,0.966833920,0.1%,0.0%,57,-18.6%,-10.9%,326,-9.4%,-15.8%,42,-27,-46,$135K,4.3%,2.1%,48,-55.6%,-36.8%
+"Sugar Land, TX",January 2014,All Residential,Place/City,False,TX,0.975288352,-0.1%,1.8%,110,-45.0%,-0.9%,300,0.0%,-23.7%,29,-6,-53,$297K,-3.6%,27.3%,173,39.5%,-10.8%
+"Galveston, TX",September 2014,All Residential,Place/City,False,TX,0.958190394,1.3%,0.6%,99,-20.2%,25.3%,608,-0.3%,1.5%,87,7,-40,$183K,0.8%,15.9%,134,8.1%,19.6%
+"League City, TX",November 2014,All Residential,Place/City,False,TX,0.980060611,0.3%,0.3%,152,-6.7%,7.8%,396,-8.1%,-13.7%,46,10,-4,$210K,3.3%,6.7%,136,-21.8%,0.7%
+"Pasadena, TX",July 2015,All Residential,Place/City,False,TX,0.982389990,-0.7%,-0.1%,100,12.4%,5.3%,198,7.6%,-19.5%,16,0,-4,$139K,1.1%,11.2%,143,18.2%,11.7%
+"Houston, TX",September 2015,All Residential,Place/City,False,TX,0.973765944,-0.5%,-0.6%,2613,-4.5%,-1.5%,8633,1.2%,31.9%,27,2,4,$190K,-3.1%,5.6%,3282,-7.1%,12.5%
+"Baytown, TX",November 2015,All Residential,Place/City,False,TX,0.976529193,0.6%,0.8%,74,-1.3%,-16.9%,275,-4.8%,0.0%,33,-4,-29,$150K,0.0%,-1.5%,82,-25.5%,-10.9%
+"Pasadena, TX",March 2016,All Residential,Place/City,False,TX,0.974850025,0.3%,0.4%,92,39.4%,8.2%,151,-13.7%,-3.2%,35,-12,0,$139K,6.9%,20.4%,99,10.0%,-10.0%
+"Conroe, TX",July 2016,All Residential,Place/City,False,TX,0.969602861,-0.5%,-0.4%,197,0.5%,2.1%,766,2.3%,4.4%,43,0,7,$235K,2.7%,6.8%,273,10.1%,5.0%
+"League City, TX",February 2017,All Residential,Place/City,False,TX,0.982932516,0.8%,0.8%,125,17.9%,-1.6%,369,0.8%,-4.4%,37,-13,-3,$245K,-3.9%,4.3%,191,17.9%,2.1%
+"Texas City, TX",March 2017,All Residential,Place/City,False,TX,0.977387320,3.0%,3.1%,41,36.7%,-21.2%,119,-15.0%,21.4%,37,17,-12,$155K,33.5%,22.8%,69,56.8%,0.0%
+"League City, TX",January 2018,All Residential,Place/City,False,TX,0.979748537,0.1%,0.5%,103,-39.1%,-2.8%,331,-4.3%,-9.6%,32,-17,-18,$265K,2.0%,3.9%,168,84.6%,3.7%
+"Missouri City, TX",May 2018,All Residential,Place/City,False,TX,0.973213867,0.3%,0.2%,180,36.4%,1.7%,536,6.6%,-5.5%,37,3,2,$267K,1.4%,2.7%,240,2.6%,-14.9%
+"Galveston, TX",September 2018,All Residential,Place/City,False,TX,0.956499481,0.6%,0.4%,115,-7.3%,-15.4%,586,-3.9%,0.5%,47,-10,-19,$218K,-0.9%,-8.4%,111,-27.0%,-4.3%
+"Texas City, TX",February 2019,All Residential,Place/City,False,TX,0.983241328,-1.3%,1.7%,67,91.4%,52.3%,220,-2.2%,29.4%,77,42,28,$175K,-11.2%,18.2%,74,0.0%,48.0%
+"Texas City, TX",September 2013,All Residential,Place/City,False,TX,0.946851365,-2.0%,3.0%,29,0.0%,7.4%,217,3.8%,-5.7%,72,-7,-18,$86K,6.2%,14.7%,50,2.0%,-9.1%
+"Friendswood, TX",February 2012,All Residential,Place/City,False,TX,0.945556659,-0.5%,-0.7%,36,-10.0%,140.0%,290,1.8%,13.3%,115,24,35,$226K,35.0%,80.8%,77,32.8%,60.4%
+"League City, TX",September 2012,All Residential,Place/City,False,TX,0.974662305,0.0%,-1.5%,136,-4.2%,4433.3%,544,-5.4%,-10.7%,69,3,-74,$185K,3.4%,-33.6%,138,-22.0%,36.6%
+"Texas City, TX",December 2012,All Residential,Place/City,False,TX,0.929240122,-1.3%,-2.3%,32,-3.0%,3100.0%,208,-6.3%,-4.6%,60,-24,54,$90K,-6.5%,52.8%,31,-32.6%,6.9%
+"Pasadena, TX",January 2013,All Residential,Place/City,False,TX,0.945116994,-2.5%,-3.2%,69,25.5%,46.8%,315,1.3%,-19.0%,87,31,6,$103K,20.6%,14.0%,107,94.5%,27.4%
+"Galveston, TX",May 2013,All Residential,Place/City,False,TX,0.941341381,-0.3%,0.5%,107,1.9%,10.3%,616,0.5%,-1.1%,58,-8,-19,$157K,-19.5%,13.4%,149,-0.7%,14.6%
+"Conroe, TX",January 2014,All Residential,Place/City,False,TX,0.977341120,1.2%,1.4%,93,-38.8%,10.7%,398,-0.7%,-10.2%,49,4,-33,$187K,4.5%,21.0%,148,51.0%,4.2%
+"Texas City, TX",March 2014,All Residential,Place/City,False,TX,0.947318091,-1.2%,0.0%,37,85.0%,12.1%,162,-4.7%,-17.3%,131,50,57,$87K,11.5%,20.8%,52,33.3%,4.0%
+"Texas City, TX",May 2014,All Residential,Place/City,False,TX,0.951122481,-0.9%,-2.1%,51,24.4%,10.9%,154,2.0%,-27.7%,76,0,3,$105K,13.5%,4.3%,54,17.4%,-19.4%
+"Friendswood, TX",June 2014,All Residential,Place/City,False,TX,0.980785218,0.2%,0.4%,89,-5.3%,-12.7%,172,13.2%,-19.6%,14,-4,-35,$239K,5.8%,18.7%,113,29.9%,15.3%
+"Baytown, TX",August 2014,All Residential,Place/City,False,TX,0.972727695,0.0%,0.7%,96,14.3%,5.5%,308,-0.6%,-13.5%,22,1,-29,$145K,1.8%,7.4%,131,-3.7%,23.6%
+"Baytown, TX",January 2015,All Residential,Place/City,False,TX,0.972930021,1.0%,1.7%,72,-15.3%,26.3%,244,-0.4%,-12.9%,47,12,-27,$130K,-15.0%,10.1%,101,94.2%,11.0%
+"Sugar Land, TX",April 2015,All Residential,Place/City,False,TX,0.984201758,0.4%,1.1%,148,-23.3%,-26.7%,436,8.2%,44.9%,19,4,2,$318K,-0.8%,4.1%,288,20.0%,12.5%
+"Houston, TX",June 2015,All Residential,Place/City,False,TX,0.981001523,0.1%,-0.5%,3002,12.8%,0.9%,7615,3.8%,23.2%,20,0,3,$205K,1.0%,2.3%,3740,2.2%,3.5%
+"Pasadena, TX",September 2015,All Residential,Place/City,False,TX,0.987174755,-0.4%,2.1%,90,-9.1%,11.1%,203,8.0%,-2.4%,17,-1,-5,$148K,-6.6%,22.9%,106,17.8%,24.7%
+"Friendswood, TX",November 2015,All Residential,Place/City,False,TX,0.984154698,0.1%,2.5%,43,-41.9%,-18.9%,144,-1.4%,10.8%,22,4,-29,$200K,-9.1%,-23.7%,44,-33.3%,-22.8%
+"Friendswood, TX",July 2016,All Residential,Place/City,False,TX,0.987848344,0.4%,-0.3%,78,-13.3%,-9.3%,200,2.6%,29.0%,11,-12,-3,$262K,-4.6%,15.6%,106,-2.8%,2.9%
+"Sugar Land, TX",August 2016,All Residential,Place/City,False,TX,0.974634828,-0.1%,-0.5%,208,-1.9%,-17.1%,707,-3.7%,26.5%,28,0,4,$306K,-16.0%,-5.4%,218,-25.9%,-1.4%
+"Houston, TX",November 2016,All Residential,Place/City,False,TX,0.969464555,-0.1%,-0.2%,2290,-1.8%,26.9%,8810,-5.2%,4.4%,39,-1,5,$206K,0.6%,14.5%,2512,-18.7%,-2.4%
+"Baytown, TX",February 2017,All Residential,Place/City,False,TX,0.975282861,1.3%,1.0%,84,20.0%,10.5%,215,-0.5%,-13.7%,53,3,5,$166K,7.8%,9.8%,108,11.3%,-9.2%
+"League City, TX",June 2017,All Residential,Place/City,False,TX,0.981938977,-0.4%,-0.8%,232,8.4%,6.4%,442,13.3%,9.4%,23,0,-4,$253K,-0.8%,3.3%,274,6.6%,2.6%
+"Missouri City, TX",October 2017,All Residential,Place/City,False,TX,0.970746588,0.1%,-1.1%,128,-7.9%,9.4%,531,-7.5%,8.8%,48,-6,21,$230K,-11.2%,0.0%,150,7.1%,-9.1%
+"Sugar Land, TX",November 2018,All Residential,Place/City,False,TX,0.967379295,0.1%,0.9%,116,-26.6%,-29.3%,721,-5.5%,-0.3%,44,-7,-30,$288K,-6.5%,-10.4%,155,-19.7%,-1.3%
+"Missouri City, TX",February 2019,All Residential,Place/City,False,TX,0.966485473,-0.5%,-0.5%,115,27.8%,13.9%,548,-4.4%,24.5%,73,21,25,$231K,-1.3%,-1.1%,164,2.5%,1.2%
+"Missouri City, TX",September 2019,All Residential,Place/City,False,TX,0.973528370,0.3%,0.0%,146,-24.4%,16.8%,587,-5.3%,-5.5%,49,2,-2,$248K,-6.2%,0.2%,175,-11.6%,-7.4%
+"Missouri City, TX",October 2019,All Residential,Place/City,False,TX,0.970399193,-0.3%,-0.6%,175,19.9%,25.9%,571,-2.7%,-6.5%,50,1,14,$227K,-8.3%,-1.3%,185,5.7%,0.5%
+"Texas City, TX",November 2019,All Residential,Place/City,False,TX,0.972289336,0.3%,-1.0%,57,-26.9%,-3.4%,255,2.8%,8.1%,39,-4,4,$190K,0.0%,7.6%,73,-20.7%,0.0%
+"League City, TX",April 2020,All Residential,Place/City,False,TX,0.985460900,-0.3%,0.2%,147,-8.1%,-20.5%,359,-7.2%,-21.6%,17,-16,-13,$280K,-0.4%,6.2%,163,-33.5%,-32.9%
+"Missouri City, TX",May 2020,All Residential,Place/City,False,TX,0.982303077,0.6%,0.5%,126,-6.7%,-33.7%,412,-11.2%,-37.6%,38,-14,1,$264K,2.1%,7.2%,180,22.4%,-31.8%
+"Baytown, TX",March 2013,All Residential,Place/City,False,TX,0.955171511,1.1%,-1.1%,94,38.2%,64.9%,347,-0.6%,-4.9%,83,-4,3,$121K,37.0%,14.9%,102,25.9%,-5.6%
+"Houston, TX",November 2013,All Residential,Place/City,False,TX,0.975453773,0.0%,0.9%,2190,-15.3%,1.5%,6685,-5.2%,-15.3%,32,0,-21,$170K,4.3%,10.9%,2336,-19.4%,2.5%
+"Galveston, TX",May 2014,All Residential,Place/City,False,TX,0.948481960,-0.2%,0.7%,132,17.9%,23.4%,657,-1.8%,6.7%,69,5,11,$205K,23.1%,30.6%,173,-1.1%,16.1%
+"Pasadena, TX",May 2016,All Residential,Place/City,False,TX,0.977985879,-0.8%,0.4%,95,9.2%,0.0%,137,-16.5%,-18.0%,17,2,-3,$156K,14.8%,12.7%,109,-14.8%,9.0%
+"Conroe, TX",January 2017,All Residential,Place/City,False,TX,0.966388992,0.3%,-0.7%,104,-44.4%,9.5%,688,-0.3%,-1.4%,66,4,-4,$216K,-2.3%,-0.7%,204,43.7%,-5.6%
+"Galveston, TX",February 2017,All Residential,Place/City,False,TX,0.950951455,-0.4%,-0.6%,81,32.8%,39.7%,619,5.8%,14.8%,97,3,38,$215K,14.4%,28.1%,169,-1.2%,-5.1%
+"Pasadena, TX",March 2017,All Residential,Place/City,False,TX,0.976226105,0.4%,0.1%,99,47.8%,7.6%,166,7.8%,9.9%,19,-8,-16,$140K,-9.7%,1.1%,111,16.8%,12.1%
+"Galveston, TX",March 2017,All Residential,Place/City,False,TX,0.952389432,0.1%,0.8%,118,45.7%,5.4%,641,3.6%,8.6%,48,-49,-11,$222K,3.4%,26.1%,204,20.7%,-9.3%
+"Pasadena, TX",March 2019,All Residential,Place/City,False,TX,0.977756782,-0.7%,0.7%,95,28.4%,30.1%,185,-7.0%,44.5%,30,6,17,$159K,-7.6%,-6.8%,96,10.3%,-22.0%
+"Texas City, TX",March 2020,All Residential,Place/City,False,TX,0.965272254,-0.3%,-0.4%,59,-3.3%,-14.5%,262,2.7%,21.3%,53,-17,4,$189K,14.5%,0.0%,96,20.0%,26.3%
+"Conroe, TX",July 2020,All Residential,Place/City,False,TX,0.980925103,0.3%,0.7%,336,15.9%,22.6%,623,-4.2%,-20.2%,55,13,14,$260K,-1.9%,3.7%,360,17.6%,18.0%
+"Pasadena, TX",December 2012,All Residential,Place/City,False,TX,0.969953817,-1.1%,0.4%,55,3.8%,0.0%,311,-6.9%,-24.3%,56,-11,-43,$85K,-21.3%,-22.0%,55,-17.9%,10.0%
+"Texas City, TX",January 2013,All Residential,Place/City,False,TX,0.925659085,-0.4%,-1.8%,26,-18.8%,44.4%,208,0.0%,-5.9%,123,63,51,$82K,-8.6%,10.4%,49,58.1%,2.1%
+"Sugar Land, TX",May 2013,All Residential,Place/City,False,TX,0.968004028,0.2%,0.0%,279,38.8%,29.8%,370,9.5%,-39.2%,22,1,-9,$319K,31.6%,41.6%,323,29.7%,17.0%
+"Friendswood, TX",September 2013,All Residential,Place/City,False,TX,0.971971791,-0.3%,1.4%,61,-34.4%,-3.2%,191,-3.5%,-24.8%,38,1,-16,$190K,-15.9%,5.6%,70,-23.9%,2.9%
+"Baytown, TX",April 2012,All Residential,Place/City,False,TX,0.955928524,-1.0%,2.0%,78,36.8%,18.2%,412,12.9%,-22.1%,64,-16,3,$115K,9.0%,4.4%,136,25.9%,28.3%
+"Galveston, TX",July 2012,All Residential,Place/City,False,TX,0.935531056,0.2%,8.2%,86,-6.5%,2766.7%,595,0.8%,9.2%,76,-13,-134,$177K,13.8%,268.8%,126,14.5%,65.8%
+"Missouri City, TX",August 2012,All Residential,Place/City,False,TX,0.965879616,-0.6%,1.3%,138,1.5%,12.2%,540,-3.1%,-22.1%,54,-4,-43,$175K,-12.5%,0.3%,166,-1.8%,0.0%
+"League City, TX",February 2013,All Residential,Place/City,False,TX,0.964802813,-0.7%,-0.6%,109,25.3%,-11.4%,476,0.0%,-17.8%,70,11,-23,$202K,18.1%,26.3%,193,24.5%,10.9%
+"Pasadena, TX",June 2013,All Residential,Place/City,False,TX,0.976208949,0.5%,-1.0%,93,8.1%,1.1%,290,-2.4%,-24.7%,41,-20,10,$111K,-13.5%,11.1%,98,-25.2%,-13.3%
+"Missouri City, TX",July 2013,All Residential,Place/City,False,TX,0.976973136,-0.6%,0.5%,172,-7.0%,26.5%,422,-3.7%,-24.2%,34,3,-24,$201K,-8.1%,0.7%,214,13.8%,26.6%
+"Sugar Land, TX",March 2014,All Residential,Place/City,False,TX,0.985030670,1.5%,2.6%,189,46.5%,9.9%,304,0.7%,-17.4%,16,-13,-13,$314K,12.1%,21.9%,239,29.2%,3.0%
+"Friendswood, TX",May 2015,All Residential,Place/City,False,TX,0.980569171,1.4%,0.2%,65,1.6%,-30.9%,125,13.6%,-17.8%,12,-2,-6,$197K,-14.3%,-12.6%,92,5.7%,5.7%
+"Pasadena, TX",February 2016,All Residential,Place/City,False,TX,0.971912946,-0.2%,-0.1%,66,17.9%,-7.0%,175,-3.3%,8.0%,47,5,11,$130K,4.4%,23.3%,90,-10.0%,-3.2%
+"Sugar Land, TX",February 2016,All Residential,Place/City,False,TX,0.967499883,1.1%,-0.6%,117,42.7%,0.9%,530,0.4%,34.5%,45,-22,19,$265K,-21.5%,-13.1%,191,5.5%,-10.3%
+"Missouri City, TX",August 2017,All Residential,Place/City,False,TX,0.978188105,0.6%,0.8%,95,-40.3%,-39.1%,610,-4.2%,16.6%,27,-4,-5,$236K,-0.2%,-4.0%,148,-33.6%,-22.1%
+"Baytown, TX",September 2017,All Residential,Place/City,False,TX,0.980259460,0.1%,0.6%,89,1.1%,-15.2%,279,-8.5%,5.3%,16,-3,-14,$173K,-0.7%,-1.4%,100,-22.5%,-15.3%
+"Pasadena, TX",March 2018,All Residential,Place/City,False,TX,0.970357232,-0.6%,-0.6%,73,19.7%,-26.3%,128,12.3%,-22.9%,13,-16,-6,$170K,10.0%,21.4%,123,59.7%,10.8%
+"Sugar Land, TX",January 2019,All Residential,Place/City,False,TX,0.962891424,0.3%,0.3%,96,-36.8%,0.0%,618,-2.5%,4.4%,62,-19,-19,$274K,-10.8%,-3.7%,172,81.1%,-3.9%
+"Baytown, TX",February 2019,All Residential,Place/City,False,TX,0.989345576,3.2%,2.8%,73,1.4%,-12.0%,288,-2.7%,26.3%,50,-3,21,$187K,14.2%,3.9%,105,-13.9%,-11.0%
+"Sugar Land, TX",May 2019,All Residential,Place/City,False,TX,0.966846955,-0.5%,0.0%,208,25.3%,-6.7%,818,7.2%,3.9%,36,-4,9,$360K,16.3%,15.0%,314,8.7%,-14.9%
+"Galveston, TX",May 2019,All Residential,Place/City,False,TX,0.959982189,0.1%,0.8%,153,7.7%,9.3%,612,-2.9%,-2.1%,46,2,4,$221K,-11.7%,13.3%,183,-9.0%,-3.2%
+"League City, TX",August 2019,All Residential,Place/City,False,TX,0.981057459,-0.3%,-0.1%,233,5.4%,9.4%,492,-4.7%,-13.4%,31,5,7,$274K,-4.0%,4.0%,207,-28.4%,-18.8%
+"Galveston, TX",August 2019,All Residential,Place/City,False,TX,0.954972034,-0.8%,0.4%,128,-9.2%,3.2%,609,-1.0%,-0.2%,60,7,3,$240K,-14.3%,9.3%,175,-1.1%,15.1%
+"Houston, TX",January 2020,All Residential,Place/City,False,TX,0.967672563,-0.3%,0.2%,1766,-38.5%,11.9%,9406,1.7%,-0.7%,58,5,7,$210K,-15.3%,5.0%,3461,63.4%,3.7%
+"League City, TX",June 2020,All Residential,Place/City,False,TX,0.985653057,-0.2%,0.1%,237,80.9%,16.2%,337,-6.9%,-31.6%,18,-8,-9,$295K,11.3%,8.9%,221,-15.0%,-7.5%
+"Galveston, TX",September 2012,All Residential,Place/City,False,TX,0.932313193,-2.1%,-1.0%,49,-44.9%,4800.0%,558,-4.9%,4.7%,87,8,54,$167K,22.1%,294.8%,88,-20.0%,15.8%
+"Houston, TX",April 2013,All Residential,Place/City,False,TX,0.976903276,0.4%,0.9%,2817,10.4%,25.1%,6826,0.1%,-32.2%,27,-12,-27,$180K,11.5%,19.2%,3682,8.2%,7.3%
+"Baytown, TX",April 2013,All Residential,Place/City,False,TX,0.961093216,0.6%,0.5%,66,-29.8%,-15.4%,326,-6.1%,-20.9%,146,63,82,$116K,-4.2%,1.1%,103,1.0%,-24.3%
+"Houston, TX",May 2015,All Residential,Place/City,False,TX,0.980419354,0.3%,-0.6%,2661,1.8%,-9.6%,7336,2.0%,22.9%,20,-3,1,$203K,9.4%,6.6%,3660,-1.5%,-5.7%
+"Pasadena, TX",August 2015,All Residential,Place/City,False,TX,0.991647311,0.9%,1.7%,99,-1.0%,-1.0%,188,-5.1%,-16.1%,18,2,-1,$158K,13.7%,23.0%,90,-37.1%,-3.2%
+"Texas City, TX",June 2016,All Residential,Place/City,False,TX,0.940789738,-5.2%,-0.5%,60,15.4%,66.7%,113,22.8%,-22.1%,24,1,-1,$125K,-5.5%,-1.3%,78,39.3%,32.2%
+"Sugar Land, TX",February 2017,All Residential,Place/City,False,TX,0.964281979,0.0%,-0.3%,127,14.4%,8.5%,529,6.9%,-0.2%,70,5,25,$314K,1.4%,18.6%,230,32.2%,20.4%
+"Friendswood, TX",August 2017,All Residential,Place/City,False,TX,0.979875867,-0.2%,0.0%,70,-9.1%,-21.3%,215,-6.5%,10.8%,19,-5,5,$308K,-6.8%,29.2%,80,-22.3%,-5.9%
+"Missouri City, TX",November 2017,All Residential,Place/City,False,TX,0.965256826,-0.5%,-0.7%,120,-6.3%,15.4%,516,-2.8%,11.4%,59,11,14,$240K,4.3%,-4.6%,134,-10.7%,8.1%
+"League City, TX",December 2017,All Residential,Place/City,False,TX,0.978433784,-0.3%,-0.2%,169,3.0%,5.6%,346,-5.7%,-6.0%,49,-5,9,$260K,0.0%,0.5%,91,-35.5%,-9.0%
+"Houston, TX",January 2018,All Residential,Place/City,False,TX,0.964116427,-0.1%,0.0%,1797,-32.8%,3.3%,8193,-0.4%,0.2%,48,4,-1,$194K,-10.5%,3.8%,3077,44.7%,-6.9%
+"Sugar Land, TX",January 2018,All Residential,Place/City,False,TX,0.960072250,-0.4%,-0.5%,96,-38.1%,-13.5%,592,-6.8%,19.6%,81,8,16,$284K,-0.4%,-8.4%,179,61.3%,2.9%
+"Conroe, TX",May 2018,All Residential,Place/City,False,TX,0.977112469,0.0%,-0.3%,249,31.7%,1.6%,804,6.1%,-0.4%,36,4,-6,$242K,2.1%,5.7%,336,9.4%,10.2%
+"Sugar Land, TX",May 2018,All Residential,Place/City,False,TX,0.967335103,-0.3%,-0.6%,223,16.8%,-6.3%,787,15.9%,5.5%,27,-8,3,$313K,0.6%,-3.9%,369,23.0%,8.5%
+"Sugar Land, TX",September 2018,All Residential,Place/City,False,TX,0.965007552,0.1%,0.5%,136,-43.1%,-11.1%,771,-2.5%,-3.1%,59,11,14,$305K,-6.8%,-3.2%,203,-6.9%,21.6%
+"Missouri City, TX",October 2018,All Residential,Place/City,False,TX,0.976473441,0.2%,0.6%,139,11.2%,8.6%,611,-1.6%,15.1%,36,-15,-12,$230K,-6.9%,0.0%,184,-2.6%,22.7%
+"Friendswood, TX",November 2019,All Residential,Place/City,False,TX,0.976226048,-1.0%,0.9%,75,8.7%,25.0%,148,-9.8%,-40.8%,40,6,-23,$270K,-7.6%,2.7%,50,-19.4%,-16.7%
+"Conroe, TX",February 2014,All Residential,Place/City,False,TX,0.971114790,-0.6%,0.8%,111,19.4%,4.7%,412,3.5%,-5.9%,64,15,5,$191K,2.1%,20.8%,170,14.9%,6.3%
+"Houston, TX",August 2014,All Residential,Place/City,False,TX,0.983563254,-0.1%,0.2%,2842,-7.0%,-5.4%,6742,0.9%,-6.3%,19,3,-4,$186K,-3.7%,3.9%,3439,-7.4%,0.6%
+"Texas City, TX",April 2015,All Residential,Place/City,False,TX,0.970008563,-0.2%,1.0%,42,-2.3%,2.4%,137,9.6%,-9.3%,35,-8,-41,$95K,-17.2%,3.0%,65,32.7%,41.3%
+"Missouri City, TX",February 2016,All Residential,Place/City,False,TX,0.969122526,0.0%,-1.8%,102,10.9%,-2.9%,359,1.4%,22.1%,45,-2,9,$242K,6.2%,14.2%,155,-8.8%,14.0%
+"Friendswood, TX",March 2016,All Residential,Place/City,False,TX,0.978342935,0.9%,0.4%,74,42.3%,23.3%,152,12.6%,56.7%,26,-18,11,$238K,-6.9%,13.8%,87,17.6%,22.5%
+"League City, TX",February 2012,All Residential,Place/City,False,TX,0.970863426,1.6%,2.6%,123,75.7%,12200.0%,579,-4.5%,24.8%,93,-12,58,$160K,-9.6%,137.0%,174,30.8%,126.0%
+"Texas City, TX",June 2012,All Residential,Place/City,False,TX,0.889937715,-6.0%,,30,0.0%,,234,7.3%,,65,4,,$58K,-31.3%,,65,51.2%,
+"Texas City, TX",July 2012,All Residential,Place/City,False,TX,0.947664931,5.8%,9.2%,31,3.3%,3000.0%,226,-3.4%,18.3%,88,23,-661,$91K,56.4%,-77.4%,51,-21.5%,50.0%
+"Sugar Land, TX",October 2012,All Residential,Place/City,False,TX,0.965250810,-0.1%,1.8%,163,14.0%,37.0%,530,-8.9%,-24.2%,47,1,-50,$233K,8.4%,3.1%,193,-24.3%,15.6%
+"Conroe, TX",December 2012,All Residential,Place/City,False,TX,0.962428897,0.4%,1.2%,119,-4.8%,21.4%,465,-10.2%,-15.6%,79,8,-15,$156K,-10.8%,5.5%,79,-37.8%,5.3%
+"Sugar Land, TX",April 2013,All Residential,Place/City,False,TX,0.966106900,0.7%,0.2%,201,16.9%,26.4%,338,-8.2%,-43.9%,21,-8,-13,$242K,-6.0%,-8.0%,249,7.3%,-4.2%
+"Sugar Land, TX",September 2013,All Residential,Place/City,False,TX,0.971043314,-0.5%,0.4%,179,-30.1%,25.2%,369,-3.9%,-36.6%,23,5,-23,$285K,3.6%,32.6%,186,-11.4%,-27.1%
+"Texas City, TX",December 2013,All Residential,Place/City,False,TX,0.936019854,-0.5%,0.7%,34,6.3%,6.3%,182,-10.3%,-12.5%,91,-24,31,$117K,26.6%,29.4%,25,-26.5%,-19.4%
+"Baytown, TX",March 2014,All Residential,Place/City,False,TX,0.975559547,0.3%,2.0%,80,11.1%,-14.9%,260,-8.8%,-25.1%,52,-33,-31,$114K,-2.6%,-6.4%,112,0.9%,9.8%
+"Baytown, TX",November 2014,All Residential,Place/City,False,TX,0.968742260,-1.4%,0.2%,89,-12.7%,56.1%,275,-3.2%,-15.6%,62,27,20,$152K,5.0%,12.7%,92,-14.0%,91.7%
+"Galveston, TX",November 2014,All Residential,Place/City,False,TX,0.945866092,-2.0%,2.5%,86,-4.4%,62.3%,552,-2.1%,-1.8%,80,8,-7,$185K,9.6%,15.6%,83,-19.4%,0.0%
+"Pasadena, TX",December 2014,All Residential,Place/City,False,TX,0.974409024,-0.5%,1.4%,94,74.1%,10.6%,171,-6.0%,-36.0%,35,10,-34,$129K,3.4%,3.4%,60,-7.7%,9.1%
+"Texas City, TX",December 2014,All Residential,Place/City,False,TX,0.949860650,-0.7%,1.4%,40,33.3%,17.6%,138,-8.6%,-24.2%,51,12,-40,$100K,-4.3%,-13.8%,34,-17.1%,36.0%
+"Friendswood, TX",February 2015,All Residential,Place/City,False,TX,0.968181488,0.0%,-0.4%,44,-4.3%,-24.1%,99,-6.6%,-35.7%,45,16,5,$246K,40.8%,39.7%,61,0.0%,-19.7%
+"Baytown, TX",February 2015,All Residential,Place/City,False,TX,0.978501435,0.6%,0.5%,69,-4.2%,-4.2%,229,-6.1%,-19.6%,77,30,-8,$155K,19.3%,33.0%,91,-9.9%,-18.0%
+"Pasadena, TX",March 2015,All Residential,Place/City,False,TX,0.970927013,-0.2%,-0.5%,85,19.7%,28.8%,156,-3.7%,-33.9%,35,-1,-17,$115K,9.5%,-11.5%,110,18.3%,0.0%
+"League City, TX",August 2015,All Residential,Place/City,False,TX,0.982917776,-0.4%,0.1%,203,-12.5%,-10.2%,405,-2.9%,-11.0%,16,0,-9,$232K,-0.2%,5.6%,204,-20.0%,-7.3%
+"League City, TX",February 2016,All Residential,Place/City,False,TX,0.975157477,-0.2%,-0.3%,127,28.3%,-7.3%,386,-3.5%,4.9%,40,2,-8,$235K,-0.5%,3.0%,187,-0.5%,2.2%
+"Baytown, TX",August 2016,All Residential,Place/City,False,TX,0.987720236,0.2%,1.9%,122,18.4%,18.4%,254,-3.1%,-11.2%,26,5,-1,$166K,-1.8%,10.7%,126,8.6%,-13.7%
+"Missouri City, TX",June 2017,All Residential,Place/City,False,TX,0.973362612,0.2%,-0.6%,183,3.4%,10.9%,599,5.6%,30.5%,27,-8,6,$255K,-1.8%,6.4%,252,-10.6%,26.6%
+"Houston, TX",April 2018,All Residential,Place/City,False,TX,0.971143359,0.2%,-0.2%,2733,1.0%,3.9%,9337,6.3%,-1.7%,28,-9,-2,$220K,1.1%,2.8%,4321,4.7%,6.0%
+"Sugar Land, TX",June 2018,All Residential,Place/City,False,TX,0.975270450,0.8%,0.9%,234,4.9%,-0.4%,868,10.3%,5.7%,26,-1,0,$347K,11.0%,0.7%,330,-10.6%,-0.6%
+"League City, TX",July 2018,All Residential,Place/City,False,TX,0.985404512,-0.1%,-0.1%,189,-4.5%,-2.1%,562,10.0%,14.9%,19,1,2,$272K,1.8%,2.8%,269,-1.1%,-1.8%
+"Conroe, TX",October 2019,All Residential,Place/City,False,TX,0.977052609,0.7%,0.3%,192,-10.7%,-3.0%,756,-3.6%,-7.5%,54,10,-1,$250K,-1.7%,3.1%,237,3.5%,-3.7%
+"League City, TX",May 2020,All Residential,Place/City,False,TX,0.987520191,0.2%,0.0%,131,-10.9%,-38.2%,362,0.8%,-27.3%,26,9,-7,$265K,-5.4%,-1.8%,260,59.5%,-5.5%
+"Missouri City, TX",June 2020,All Residential,Place/City,False,TX,0.977545415,-0.5%,-0.1%,202,60.3%,36.5%,368,-10.7%,-45.1%,55,17,13,$275K,4.0%,7.6%,202,12.2%,-14.4%
+"Texas City, TX",November 2012,All Residential,Place/City,False,TX,0.941920415,2.9%,,33,3.1%,,222,-2.2%,,84,15,,$96K,74.8%,,46,-14.8%,
+"Friendswood, TX",February 2013,All Residential,Place/City,False,TX,0.950292612,-2.0%,0.5%,43,4.9%,19.4%,229,5.5%,-21.0%,87,10,-28,$160K,3.3%,-29.2%,81,8.0%,5.2%
+"Missouri City, TX",January 2015,All Residential,Place/City,False,TX,0.978811771,0.7%,0.2%,95,-32.1%,-10.4%,293,7.3%,-18.2%,42,10,-4,$224K,-8.6%,18.2%,163,50.9%,12.4%
+"Houston, TX",May 2016,All Residential,Place/City,False,TX,0.973531478,0.2%,-0.7%,2784,11.4%,4.6%,9258,2.6%,26.2%,28,0,8,$214K,4.1%,5.4%,3800,4.0%,3.8%
+"Texas City, TX",June 2018,All Residential,Place/City,False,TX,0.969327421,0.6%,-1.0%,78,21.9%,41.8%,213,7.0%,38.3%,28,3,0,$170K,6.1%,20.0%,106,16.5%,7.1%
+"League City, TX",October 2019,All Residential,Place/City,False,TX,0.978614282,-0.2%,-0.2%,169,2.4%,-1.7%,439,-7.0%,-8.5%,40,7,-2,$274K,-2.1%,1.3%,179,2.3%,7.2%
+"Missouri City, TX",December 2019,All Residential,Place/City,False,TX,0.971559802,-0.1%,0.8%,173,51.8%,13.8%,478,-9.8%,-15.1%,51,-24,-25,$244K,1.5%,-9.2%,139,8.6%,19.8%
+"Pasadena, TX",February 2020,All Residential,Place/City,False,TX,0.982019344,1.1%,-0.3%,80,31.1%,8.1%,203,3.0%,2.0%,42,2,18,$173K,2.3%,0.8%,104,23.8%,19.5%
+"Friendswood, TX",April 2020,All Residential,Place/City,False,TX,0.979638641,0.1%,-0.5%,54,-21.7%,-23.9%,135,-1.5%,-36.3%,24,0,-6,$258K,-19.3%,-3.5%,88,7.3%,-21.4%
+"Missouri City, TX",March 2014,All Residential,Place/City,False,TX,0.973673975,0.5%,1.2%,136,56.3%,-6.2%,354,-7.6%,-21.2%,26,-35,-39,$217K,21.0%,20.2%,184,0.0%,-5.6%
+"Texas City, TX",March 2016,All Residential,Place/City,False,TX,0.946703264,-0.2%,-2.6%,52,23.8%,20.9%,98,11.4%,-21.6%,49,10,6,$126K,5.2%,9.8%,69,81.6%,40.8%
+"Sugar Land, TX",April 2019,All Residential,Place/City,False,TX,0.971752477,1.2%,0.1%,166,8.5%,-13.1%,763,6.9%,12.4%,40,-29,5,$310K,-3.3%,-0.5%,289,-4.3%,-3.7%
+"Pasadena, TX",April 2018,All Residential,Place/City,False,TX,0.974617058,0.4%,0.2%,93,27.4%,19.2%,136,6.3%,-15.0%,9,-4,-12,$160K,-5.9%,9.5%,110,-10.6%,4.8%
+"League City, TX",March 2012,All Residential,Place/City,False,TX,0.965159783,-0.6%,1.0%,140,13.8%,4566.7%,593,2.4%,21.0%,104,11,4,$176K,9.8%,-34.4%,203,16.7%,82.9%
+"Conroe, TX",March 2012,All Residential,Place/City,False,TX,0.963620806,1.0%,0.0%,113,37.8%,13.0%,571,1.4%,-11.9%,75,-28,-10,$144K,8.7%,3.3%,183,24.5%,7.6%
+"Missouri City, TX",April 2012,All Residential,Place/City,False,TX,0.965299680,1.1%,1.7%,115,-3.4%,15.0%,555,9.0%,-22.7%,55,-24,-81,$173K,-0.1%,11.5%,201,4.1%,5.2%
+"Houston, TX",October 2012,All Residential,Place/City,False,TX,0.966003564,-0.2%,0.7%,2288,6.2%,32.2%,8303,-6.3%,-27.5%,53,5,-17,$155K,3.8%,14.6%,2625,3.1%,1.1%
+"Missouri City, TX",October 2015,All Residential,Place/City,False,TX,0.974682949,-0.2%,0.8%,125,-3.8%,-18.8%,389,-1.3%,15.1%,33,7,1,$230K,-9.8%,6.7%,165,18.7%,18.7%
+"Conroe, TX",June 2016,All Residential,Place/City,False,TX,0.974133563,0.4%,-0.2%,196,-3.4%,-12.1%,749,0.0%,9.2%,43,0,15,$229K,-0.5%,6.4%,248,12.2%,-9.2%
+"Missouri City, TX",November 2016,All Residential,Place/City,False,TX,0.972577618,-0.9%,0.6%,104,-11.1%,4.0%,463,-5.1%,27.9%,45,18,9,$252K,9.3%,11.8%,124,-24.8%,6.0%
+"Conroe, TX",July 2018,All Residential,Place/City,False,TX,0.979392624,-0.4%,0.6%,227,-7.3%,0.0%,866,3.7%,4.1%,32,3,-9,$238K,-0.4%,4.4%,302,1.7%,12.7%
+"Houston, TX",November 2019,All Residential,Place/City,False,TX,0.971071697,0.2%,0.1%,2315,-9.3%,-5.1%,10094,-5.8%,1.0%,45,0,1,$222K,-0.9%,2.1%,2724,-20.3%,-1.4%
+"Pasadena, TX",January 2020,All Residential,Place/City,False,TX,0.970783800,-0.9%,0.0%,61,-35.8%,3.4%,197,-1.5%,-7.1%,40,9,0,$169K,-10.6%,7.6%,84,6.3%,-12.5%
+"Houston, TX",February 2020,All Residential,Place/City,False,TX,0.968842385,0.1%,0.0%,2192,24.1%,9.1%,9759,3.8%,1.2%,55,-3,6,$234K,11.2%,11.2%,3682,6.4%,9.2%
+"Missouri City, TX",April 2020,All Residential,Place/City,False,TX,0.976065164,0.0%,1.0%,135,-21.5%,-16.7%,464,-5.9%,-20.3%,52,-9,6,$259K,5.1%,-1.0%,147,-25.4%,-42.4%
+"Sugar Land, TX",October 2013,All Residential,Place/City,False,TX,0.972542088,0.1%,0.7%,177,-1.1%,8.6%,368,-0.3%,-30.6%,23,0,-24,$260K,-8.8%,11.6%,229,23.1%,18.7%
+"Conroe, TX",January 2016,All Residential,Place/City,False,TX,0.973345702,-0.2%,-0.5%,95,-48.6%,-6.9%,698,5.0%,30.7%,70,14,14,$217K,-1.6%,11.3%,216,74.2%,8.0%
+"Conroe, TX",August 2016,All Residential,Place/City,False,TX,0.973959442,0.4%,-0.3%,226,14.7%,30.6%,746,-2.6%,6.1%,38,-5,7,$233K,-0.7%,1.9%,226,-17.2%,1.3%
+"Friendswood, TX",March 2019,All Residential,Place/City,False,TX,0.967590704,0.0%,-1.5%,75,50.0%,10.3%,217,6.9%,31.5%,45,-17,32,$290K,18.4%,18.6%,106,68.3%,-18.5%
+"Galveston, TX",October 2019,All Residential,Place/City,False,TX,0.961607809,0.5%,1.2%,96,-17.2%,-11.9%,570,-3.1%,-1.4%,60,5,-19,$244K,3.8%,-7.9%,145,14.2%,2.1%
+"League City, TX",November 2019,All Residential,Place/City,False,TX,0.982823218,0.4%,0.5%,158,-6.5%,-6.5%,396,-9.8%,-18.9%,35,-5,-10,$265K,-3.3%,1.9%,136,-24.0%,-19.5%
+"League City, TX",January 2020,All Residential,Place/City,False,TX,0.978963753,0.2%,0.1%,107,-32.7%,18.9%,333,-2.3%,-28.7%,56,5,2,$272K,0.7%,5.4%,154,111.0%,-19.8%
+"Pasadena, TX",March 2020,All Residential,Place/City,False,TX,0.980627159,-0.1%,0.3%,72,-10.0%,-24.2%,215,5.9%,16.2%,21,-21,-9,$179K,3.8%,13.2%,95,-8.7%,-1.0%
+"Sugar Land, TX",November 2012,All Residential,Place/City,False,TX,0.968708585,0.3%,0.9%,150,-8.0%,23.0%,469,-11.5%,-29.8%,69,22,-11,$238K,2.3%,-0.2%,123,-36.3%,-13.4%
+"Baytown, TX",October 2014,All Residential,Place/City,False,TX,0.982697855,0.5%,1.7%,102,8.5%,45.7%,284,-8.1%,-21.1%,35,0,-34,$145K,-3.1%,12.1%,107,-4.5%,-0.9%
+"League City, TX",January 2016,All Residential,Place/City,False,TX,0.977103794,0.2%,-0.4%,99,-43.8%,-8.3%,400,10.2%,9.6%,38,2,1,$236K,2.5%,8.4%,188,66.4%,13.9%
+"Conroe, TX",May 2014,All Residential,Place/City,False,TX,0.979427103,0.6%,0.2%,177,20.4%,-8.8%,413,2.7%,-10.4%,25,-10,-12,$215K,10.3%,29.9%,225,7.7%,7.1%
+"Pasadena, TX",October 2017,All Residential,Place/City,False,TX,0.972778279,-0.2%,-0.4%,74,-9.8%,-8.6%,157,-10.8%,-15.1%,24,3,-1,$163K,4.6%,16.6%,79,-11.2%,-24.8%
+"League City, TX",July 2012,All Residential,Place/City,False,TX,0.970763133,-0.7%,,171,11.8%,,605,3.4%,,51,2,,$188K,1.2%,,192,-5.4%,
+"Texas City, TX",July 2015,All Residential,Place/City,False,TX,0.950457903,0.5%,1.8%,57,58.3%,42.5%,142,-2.1%,-17.4%,54,29,5,$121K,-4.3%,74.1%,57,-3.4%,-18.6%
+"Texas City, TX",January 2016,All Residential,Place/City,False,TX,0.964116100,-0.9%,1.0%,37,-7.5%,12.1%,113,13.0%,-8.9%,32,-12,-27,$124K,9.3%,52.1%,54,80.0%,22.7%
+"Missouri City, TX",December 2016,All Residential,Place/City,False,TX,0.977191948,0.5%,0.4%,141,35.6%,-1.4%,435,-6.0%,34.3%,54,9,16,$240K,-4.6%,0.0%,111,-10.5%,14.4%
+"Galveston, TX",August 2016,All Residential,Place/City,False,TX,0.957956176,0.6%,1.2%,119,-10.5%,5.3%,614,-6.0%,-2.7%,47,-8,-18,$189K,17.8%,9.1%,146,-12.0%,-38.1%
+"Galveston, TX",June 2017,All Residential,Place/City,False,TX,0.944324009,-0.1%,-1.0%,148,-3.3%,12.1%,644,-2.6%,-1.7%,54,-8,9,$203K,-13.8%,8.6%,163,-20.1%,-11.4%
+"Sugar Land, TX",October 2018,All Residential,Place/City,False,TX,0.966670821,0.2%,-0.2%,158,16.2%,3.9%,763,-1.0%,1.1%,51,-8,6,$308K,1.0%,-0.6%,193,-4.9%,-4.5%
+"Baytown, TX",December 2018,All Residential,Place/City,False,TX,0.983317207,1.5%,0.9%,97,10.2%,-21.1%,291,-9.1%,42.6%,47,13,15,$185K,3.4%,-3.2%,64,-45.3%,-4.5%
+"Sugar Land, TX",May 2020,All Residential,Place/City,False,TX,0.964950584,0.0%,-0.2%,106,-15.2%,-49.0%,647,0.8%,-20.9%,40,-6,4,$330K,0.0%,-8.3%,264,56.2%,-15.9%
+"Sugar Land, TX",March 2012,All Residential,Place/City,False,TX,0.956624860,0.5%,1.0%,130,15.0%,-10.3%,613,8.9%,-26.4%,66,-22,-30,$256K,16.6%,0.4%,283,54.6%,3.3%
+"Conroe, TX",October 2012,All Residential,Place/City,False,TX,0.969492760,1.8%,0.3%,119,-5.6%,10.2%,531,-8.1%,-10.2%,76,13,-4,$155K,0.3%,-0.6%,131,-9.0%,-3.0%
+"Texas City, TX",February 2014,All Residential,Place/City,False,TX,0.959457043,2.7%,-0.1%,20,-9.1%,-28.6%,170,-4.0%,-11.9%,81,-19,24,$78K,-4.5%,10.2%,39,-13.3%,18.2%
+"Baytown, TX",May 2016,All Residential,Place/City,False,TX,0.980456650,-0.8%,0.1%,106,9.3%,34.2%,249,0.4%,13.7%,33,0,2,$168K,3.1%,12.0%,115,6.5%,-5.7%
+"Baytown, TX",March 2017,All Residential,Place/City,False,TX,0.977801010,0.3%,-0.4%,112,33.3%,-5.1%,211,-1.9%,-18.8%,25,-28,-19,$169K,1.7%,4.4%,120,11.1%,-7.7%
+"Houston, TX",February 2019,All Residential,Place/City,False,TX,0.968514871,0.3%,0.3%,2010,27.4%,-4.5%,9645,1.8%,16.4%,49,-2,0,$210K,5.0%,-2.3%,3372,1.1%,4.2%
+"Texas City, TX",April 2019,All Residential,Place/City,False,TX,0.968310406,-0.1%,-2.3%,72,4.3%,0.0%,215,-0.5%,10.8%,51,2,19,$199K,5.3%,22.5%,83,9.2%,-16.2%
+"Sugar Land, TX",December 2019,All Residential,Place/City,False,TX,0.959578719,-0.4%,0.0%,166,23.0%,9.2%,622,-11.0%,-1.9%,76,12,-5,$309K,8.2%,0.7%,102,-32.5%,7.4%
+"Friendswood, TX",March 2012,All Residential,Place/City,False,TX,0.946719047,0.1%,-2.9%,60,66.7%,130.8%,291,0.3%,11.1%,98,-17,6,$191K,-15.6%,33.9%,98,27.3%,44.1%
+"Houston, TX",June 2012,All Residential,Place/City,False,TX,0.971947676,0.3%,1.3%,2694,0.8%,12.2%,10020,-0.4%,-23.5%,44,0,-19,$159K,-0.7%,7.3%,3476,-0.6%,3.1%
+"Conroe, TX",August 2013,All Residential,Place/City,False,TX,0.975123674,0.0%,0.3%,162,-16.9%,11.0%,505,1.8%,-13.2%,33,-10,-19,$166K,-10.5%,-2.5%,209,-14.7%,25.1%
+"Houston, TX",February 2014,All Residential,Place/City,False,TX,0.974931002,0.2%,0.8%,2096,19.2%,9.2%,5807,-2.3%,-16.5%,36,-6,-16,$170K,8.0%,6.9%,2812,-1.8%,-7.3%
+"Houston, TX",July 2014,All Residential,Place/City,False,TX,0.984240222,-0.1%,0.3%,3057,2.8%,-0.8%,6683,8.1%,-7.0%,16,-1,-6,$193K,-3.4%,7.5%,3712,2.7%,-0.3%
+"Missouri City, TX",July 2014,All Residential,Place/City,False,TX,0.983546567,0.1%,0.7%,163,-7.9%,-5.2%,386,1.6%,-8.5%,22,3,-12,$245K,-2.0%,21.7%,192,-9.9%,-10.3%
+"Texas City, TX",March 2015,All Residential,Place/City,False,TX,0.972397367,2.3%,2.5%,43,26.5%,16.2%,125,-2.3%,-22.8%,43,-28,-88,$115K,7.5%,32.2%,49,-3.9%,-5.8%
+"Baytown, TX",May 2017,All Residential,Place/City,False,TX,0.980375259,0.0%,0.0%,92,5.7%,-13.2%,234,3.5%,-6.0%,23,-3,-10,$181K,6.2%,7.8%,122,4.3%,6.1%
+"Sugar Land, TX",July 2017,All Residential,Place/City,False,TX,0.972099474,0.6%,-0.4%,203,-13.6%,-4.2%,899,9.5%,22.5%,31,5,3,$351K,1.7%,-3.5%,303,-8.7%,3.1%
+"Pasadena, TX",April 2020,All Residential,Place/City,False,TX,0.974661195,-0.6%,0.0%,63,-12.5%,-32.3%,209,-2.8%,16.1%,19,-2,-14,$182K,1.4%,11.0%,83,-12.6%,-29.7%
+"Baytown, TX",May 2013,All Residential,Place/City,False,TX,0.973733489,1.3%,0.2%,106,60.6%,63.1%,360,10.4%,-14.1%,68,-78,8,$120K,3.3%,-2.4%,135,31.1%,13.4%
+"Sugar Land, TX",August 2014,All Residential,Place/City,False,TX,0.981342807,-0.3%,0.5%,240,12.1%,-6.3%,397,-5.3%,3.4%,17,4,-1,$305K,-4.5%,10.9%,231,-15.7%,10.0%
+"Conroe, TX",August 2014,All Residential,Place/City,False,TX,0.973118208,-0.3%,-0.2%,180,-2.7%,11.1%,530,1.1%,5.0%,32,13,-1,$223K,8.5%,34.3%,225,-8.2%,7.7%
+"Friendswood, TX",August 2018,All Residential,Place/City,False,TX,0.973461911,-0.1%,-0.6%,73,-17.0%,4.3%,275,3.4%,27.9%,25,10,6,$285K,4.0%,-7.3%,108,-10.7%,35.0%
+"Baytown, TX",October 2019,All Residential,Place/City,False,TX,0.972691362,0.3%,0.7%,108,8.0%,16.1%,327,0.9%,7.9%,33,1,-4,$203K,4.7%,9.5%,126,8.6%,12.5%
+"Houston, TX",May 2012,All Residential,Place/City,False,TX,0.969364624,0.1%,1.0%,2672,18.7%,21.7%,10057,-0.1%,-24.3%,44,-10,-21,$160K,5.9%,10.3%,3496,1.8%,5.2%
+"Houston, TX",January 2013,All Residential,Place/City,False,TX,0.968370882,0.0%,1.0%,1712,-23.4%,29.6%,7103,-1.5%,-29.7%,56,0,-25,$137K,-17.3%,13.8%,2814,54.4%,-0.7%
+"Baytown, TX",February 2012,All Residential,Place/City,False,TX,0.962269846,-1.4%,0.4%,59,28.3%,34.1%,392,0.8%,-20.8%,89,5,12,$99K,-8.2%,-10.7%,92,8.2%,-19.3%
+"League City, TX",April 2012,All Residential,Place/City,False,TX,0.972889868,0.8%,13.1%,139,-0.7%,4533.3%,599,1.0%,14.1%,79,-25,-93,$194K,10.4%,6.8%,217,6.9%,87.1%
+"Friendswood, TX",July 2012,All Residential,Place/City,False,TX,0.959821186,-0.9%,0.3%,78,-3.7%,254.5%,279,-2.1%,-14.4%,45,-12,-11,$188K,-8.5%,28.7%,89,3.5%,17.1%
+"Baytown, TX",July 2012,All Residential,Place/City,False,TX,0.981481692,1.2%,0.6%,82,-10.9%,10.8%,438,-2.0%,-14.3%,69,12,5,$120K,0.6%,8.1%,110,-22.0%,23.6%
+"Galveston, TX",August 2012,All Residential,Place/City,False,TX,0.953077070,1.8%,18.1%,89,3.5%,2866.7%,587,-1.3%,9.1%,79,3,54,$137K,-22.7%,469.8%,110,-12.7%,39.2%
+"Pasadena, TX",October 2012,All Residential,Place/City,False,TX,0.953057256,-2.9%,0.2%,76,33.3%,49.0%,345,-3.9%,-25.6%,67,2,-14,$102K,-9.4%,20.8%,92,12.2%,3.4%
+"Baytown, TX",November 2012,All Residential,Place/City,False,TX,0.967323130,0.4%,-0.6%,64,-26.4%,-4.5%,387,-4.7%,-6.1%,88,3,15,$132K,12.1%,32.3%,76,-25.5%,-1.3%
+"Sugar Land, TX",February 2013,All Residential,Place/City,False,TX,0.956721792,0.0%,0.5%,134,20.7%,18.6%,389,-1.0%,-30.9%,63,-19,-25,$229K,-1.6%,4.4%,182,-6.2%,-0.5%
+"League City, TX",March 2013,All Residential,Place/City,False,TX,0.969883416,0.5%,0.5%,164,50.5%,17.1%,481,1.1%,-18.9%,62,-8,-42,$186K,-7.9%,5.9%,211,9.3%,3.9%
+"Texas City, TX",August 2013,All Residential,Place/City,False,TX,0.966645772,2.3%,2.0%,29,-17.1%,-27.5%,209,-2.3%,-8.7%,79,27,6,$81K,-3.6%,10.4%,49,-7.5%,-10.9%
+"Baytown, TX",October 2013,All Residential,Place/City,False,TX,0.965370378,-0.1%,0.2%,70,-6.7%,-19.5%,360,0.0%,-11.3%,69,22,-16,$129K,3.5%,9.7%,108,0.9%,5.9%
+"Texas City, TX",November 2013,All Residential,Place/City,False,TX,0.941019041,-1.7%,-0.1%,32,23.1%,-3.0%,203,-5.6%,-8.6%,115,50,31,$92K,30.5%,-4.4%,34,-35.8%,-26.1%
+"Friendswood, TX",March 2014,All Residential,Place/City,False,TX,0.982335832,1.0%,1.2%,53,-8.6%,6.0%,163,5.8%,-34.5%,32,-8,-13,$180K,2.1%,-5.8%,86,13.2%,-21.1%
+"Pasadena, TX",April 2014,All Residential,Place/City,False,TX,0.981604269,0.6%,0.4%,103,56.1%,37.3%,204,-13.6%,-32.9%,34,-18,-8,$120K,-7.8%,4.4%,90,-18.2%,-18.9%
+"League City, TX",June 2014,All Residential,Place/City,False,TX,0.982181035,-0.1%,0.4%,213,23.8%,15.1%,407,-2.2%,-13.6%,19,-5,-13,$215K,7.0%,7.6%,192,-23.8%,-12.7%
+"Galveston, TX",June 2014,All Residential,Place/City,False,TX,0.942945517,-0.6%,0.1%,127,-3.8%,22.1%,627,-4.6%,1.0%,69,0,-40,$170K,-17.1%,-11.6%,150,-13.3%,10.3%
+"Missouri City, TX",May 2015,All Residential,Place/City,False,TX,0.983256913,0.2%,0.7%,144,0.7%,-11.1%,316,2.3%,-9.5%,20,-6,-12,$245K,-4.8%,3.8%,219,5.3%,1.4%
+"Missouri City, TX",September 2015,All Residential,Place/City,False,TX,0.976351848,0.1%,-0.4%,130,-22.6%,8.3%,394,-2.7%,4.2%,26,2,8,$254K,7.4%,18.4%,139,-28.0%,-14.2%
+"Missouri City, TX",November 2015,All Residential,Place/City,False,TX,0.966534569,-0.8%,-0.3%,100,-20.0%,-19.4%,362,-6.9%,23.1%,36,3,1,$225K,-2.0%,-7.2%,117,-29.1%,31.5%
+"Texas City, TX",May 2016,All Residential,Place/City,False,TX,0.992812890,5.3%,0.5%,52,-3.7%,26.8%,92,-16.4%,-34.8%,23,-9,7,$132K,21.4%,0.8%,56,-21.1%,1.8%
+"Texas City, TX",January 2017,All Residential,Place/City,False,TX,0.977737682,-0.9%,1.4%,29,-27.5%,-21.6%,133,17.7%,17.7%,29,11,-3,$139K,-6.6%,12.1%,61,74.3%,13.0%
+"Friendswood, TX",February 2017,All Residential,Place/City,False,TX,0.971353137,-0.1%,0.2%,55,71.9%,5.8%,142,-16.5%,5.2%,36,3,-8,$292K,31.6%,14.3%,63,-16.0%,-14.9%
+"Texas City, TX",February 2017,All Residential,Place/City,False,TX,0.947131218,-3.1%,-0.2%,30,3.4%,-28.6%,140,5.3%,59.1%,20,-9,-19,$116K,-16.5%,-3.2%,44,-27.9%,15.8%
+"Conroe, TX",April 2017,All Residential,Place/City,False,TX,0.974359973,0.5%,0.1%,189,-4.1%,14.5%,803,7.5%,6.5%,46,-24,-6,$220K,-8.3%,-1.1%,313,1.0%,24.2%
+"Pasadena, TX",July 2017,All Residential,Place/City,False,TX,0.983339066,1.4%,0.1%,102,0.0%,8.5%,178,9.9%,3.5%,16,2,2,$162K,7.1%,0.0%,107,-21.3%,-14.4%
+"Texas City, TX",October 2017,All Residential,Place/City,False,TX,0.981835182,1.4%,-2.5%,50,8.7%,-3.8%,198,6.5%,72.2%,30,-13,8,$125K,-25.7%,-1.2%,75,27.1%,25.0%
+"Conroe, TX",November 2017,All Residential,Place/City,False,TX,0.970884595,-0.1%,-1.0%,186,-7.5%,24.8%,733,-0.5%,0.1%,46,-10,-3,$219K,-1.1%,9.2%,205,-12.0%,7.9%
+"Friendswood, TX",January 2018,All Residential,Place/City,False,TX,0.959473542,-1.5%,-1.3%,46,-22.0%,43.8%,163,0.6%,-4.1%,18,-20,-15,$227K,-11.5%,2.3%,90,83.7%,20.0%
+"Friendswood, TX",June 2018,All Residential,Place/City,False,TX,0.977130799,0.3%,-0.8%,119,17.8%,38.4%,244,24.5%,5.2%,14,0,2,$280K,13.3%,10.9%,140,-2.1%,16.7%
+"League City, TX",November 2018,All Residential,Place/City,False,TX,0.977674228,-0.3%,-0.4%,169,-1.7%,3.0%,488,1.7%,33.0%,45,3,-9,$260K,-3.9%,0.0%,169,1.2%,19.9%
+"Houston, TX",November 2018,All Residential,Place/City,False,TX,0.969670425,0.1%,0.4%,2439,-4.4%,1.2%,9997,-3.1%,10.0%,44,4,-3,$218K,1.6%,4.6%,2762,-17.4%,-3.6%
+"League City, TX",March 2019,All Residential,Place/City,False,TX,0.974962789,-0.4%,-1.1%,183,32.6%,7.0%,447,-2.0%,38.8%,44,-2,13,$270K,-3.5%,-1.9%,217,14.2%,5.3%
+"Galveston, TX",March 2019,All Residential,Place/City,False,TX,0.967930032,2.9%,2.1%,107,20.2%,-7.8%,617,8.6%,4.0%,68,-15,-15,$270K,28.0%,17.6%,231,24.2%,3.6%
+"Missouri City, TX",April 2019,All Residential,Place/City,False,TX,0.966058062,-0.5%,-0.4%,162,15.7%,22.7%,582,2.1%,15.7%,46,-16,12,$262K,2.6%,-0.6%,255,13.3%,9.0%
+"Galveston, TX",April 2019,All Residential,Place/City,False,TX,0.958957584,-0.9%,-0.1%,142,32.7%,-1.4%,630,2.1%,2.8%,44,-24,3,$250K,-7.4%,4.4%,201,-13.0%,-2.0%
+"Conroe, TX",July 2019,All Residential,Place/City,False,TX,0.973467398,0.0%,-0.6%,274,1.9%,20.7%,781,-4.1%,-9.8%,41,-8,9,$251K,-1.8%,5.3%,305,2.7%,1.0%
+"Missouri City, TX",July 2019,All Residential,Place/City,False,TX,0.974386531,-0.4%,-0.6%,204,37.8%,29.9%,637,-4.9%,6.3%,33,-9,-3,$255K,-0.4%,-1.5%,222,-5.9%,0.0%
+"Texas City, TX",September 2019,All Residential,Place/City,False,TX,0.969083842,0.0%,0.6%,63,-4.5%,-3.1%,251,3.3%,6.4%,30,-19,-8,$185K,3.4%,33.1%,88,-10.2%,15.8%
+"Galveston, TX",September 2019,All Residential,Place/City,False,TX,0.956155362,0.1%,0.0%,116,-9.4%,0.9%,588,-3.4%,0.3%,55,-5,8,$235K,-2.1%,8.0%,127,-27.4%,14.4%
+"Pasadena, TX",January 2014,All Residential,Place/City,False,TX,0.955143201,-0.5%,1.0%,60,-29.4%,-13.0%,258,-3.4%,-18.1%,73,4,-14,$114K,-8.7%,11.2%,92,67.3%,-14.0%
+"Pasadena, TX",February 2014,All Residential,Place/City,False,TX,0.966268406,1.1%,2.3%,62,3.3%,-21.5%,260,0.8%,-11.3%,46,-27,-70,$119K,3.9%,28.1%,88,-4.3%,1.1%
+"Galveston, TX",March 2015,All Residential,Place/City,False,TX,0.959131170,0.2%,0.0%,90,11.1%,9.8%,593,3.3%,-8.8%,44,-50,-47,$173K,2.4%,-7.7%,180,19.2%,-4.8%
+"Sugar Land, TX",May 2016,All Residential,Place/City,False,TX,0.967909442,-0.3%,-1.3%,186,5.1%,-5.1%,623,5.1%,28.7%,32,-2,16,$334K,5.7%,2.9%,282,8.0%,-8.7%
+"Baytown, TX",September 2016,All Residential,Place/City,False,TX,0.974689187,-1.3%,-0.5%,105,-13.9%,10.5%,265,4.3%,-8.0%,30,4,11,$175K,5.4%,20.7%,118,-6.3%,18.0%
+"Galveston, TX",July 2017,All Residential,Place/City,False,TX,0.953795540,0.9%,0.2%,114,-23.0%,-14.3%,632,-1.9%,-3.2%,57,3,2,$175K,-13.8%,9.1%,188,15.3%,13.3%
+"Sugar Land, TX",August 2017,All Residential,Place/City,False,TX,0.970449542,-0.2%,-0.4%,161,-20.7%,-22.6%,868,-3.4%,22.8%,29,-2,1,$310K,-11.7%,1.5%,210,-30.7%,-3.7%
+"Pasadena, TX",September 2013,All Residential,Place/City,False,TX,0.969273536,-0.3%,-1.2%,80,-16.7%,40.4%,300,5.3%,-16.4%,54,0,-11,$111K,2.6%,-1.1%,97,-10.2%,18.3%
+"Missouri City, TX",November 2014,All Residential,Place/City,False,TX,0.969785792,0.3%,-0.6%,124,-19.5%,7.8%,294,-13.0%,-18.3%,35,3,-12,$242K,12.7%,14.6%,89,-36.0%,-27.0%
+"Sugar Land, TX",June 2016,All Residential,Place/City,False,TX,0.980611235,1.3%,0.4%,203,9.1%,-16.8%,692,11.1%,26.0%,28,-4,13,$308K,-7.8%,-6.5%,314,11.3%,-3.4%
+"Conroe, TX",September 2019,All Residential,Place/City,False,TX,0.970360970,-0.1%,0.4%,215,-18.9%,15.6%,784,-2.2%,-6.4%,44,4,-10,$254K,2.3%,7.7%,229,-19.4%,5.0%
+"Pasadena, TX",November 2019,All Residential,Place/City,False,TX,0.975517850,-0.4%,0.7%,84,-10.6%,37.7%,216,9.1%,1.9%,25,3,6,$173K,-1.1%,-0.6%,101,-1.9%,18.8%
+"Friendswood, TX",January 2020,All Residential,Place/City,False,TX,0.954512125,-2.2%,-1.2%,38,-33.3%,-13.6%,136,4.6%,-34.0%,41,-18,-46,$226K,-16.5%,-16.9%,65,71.1%,-16.7%
+"Texas City, TX",April 2020,All Residential,Place/City,False,TX,0.985072721,2.0%,1.7%,53,-10.2%,-26.4%,239,-8.8%,11.2%,64,11,13,$204K,8.1%,2.7%,70,-27.1%,-15.7%
+"Houston, TX",February 2013,All Residential,Place/City,False,TX,0.966810974,-0.2%,0.9%,1920,12.1%,16.2%,6953,-2.1%,-31.2%,52,-4,-28,$159K,16.5%,17.8%,3034,7.8%,3.5%
+"League City, TX",January 2017,All Residential,Place/City,False,TX,0.975134024,-0.6%,-0.2%,106,-33.8%,7.1%,366,-0.5%,-8.5%,50,10,12,$255K,-1.4%,8.1%,162,62.0%,-13.8%
+"Houston, TX",July 2015,All Residential,Place/City,False,TX,0.977897765,-0.3%,-0.6%,3072,2.3%,0.5%,8322,9.3%,24.5%,21,1,5,$201K,-1.7%,4.0%,4172,11.6%,12.4%
+"Texas City, TX",May 2018,All Residential,Place/City,False,TX,0.963447389,-2.8%,2.2%,64,-11.1%,4.9%,199,2.6%,43.2%,25,-7,4,$160K,-1.5%,33.4%,91,-8.1%,18.2%
+"Houston, TX",June 2016,All Residential,Place/City,False,TX,0.977134773,0.4%,-0.4%,2999,7.7%,-0.1%,9500,2.6%,24.8%,29,1,9,$215K,0.7%,5.1%,3926,3.3%,5.0%
+"League City, TX",July 2016,All Residential,Place/City,False,TX,0.989923454,0.0%,0.3%,201,-7.8%,-13.4%,403,-0.2%,-3.4%,13,-14,-3,$244K,-0.6%,4.8%,226,-15.4%,-11.4%
+"Texas City, TX",August 2016,All Residential,Place/City,False,TX,0.956313065,-3.4%,0.6%,63,31.3%,46.5%,88,-16.2%,-38.0%,26,7,2,$127K,6.8%,8.1%,56,12.0%,-5.1%
+"Texas City, TX",December 2016,All Residential,Place/City,False,TX,0.986879823,-1.1%,1.4%,40,-7.0%,0.0%,113,8.7%,13.0%,18,5,-26,$149K,-0.8%,31.1%,35,-12.5%,16.7%
+"Baytown, TX",December 2016,All Residential,Place/City,False,TX,0.973359656,0.1%,0.6%,83,1.2%,6.4%,234,-5.3%,-7.1%,49,13,15,$172K,-0.7%,12.3%,77,-9.4%,2.7%
+"Sugar Land, TX",January 2017,All Residential,Place/City,False,TX,0.964656784,-0.2%,0.8%,111,-37.3%,35.4%,495,-4.8%,-6.3%,65,10,-2,$310K,-3.9%,-8.2%,174,58.2%,-3.9%
+"Galveston, TX",April 2017,All Residential,Place/City,False,TX,0.955495437,0.3%,0.2%,116,-1.7%,-1.7%,631,-1.6%,2.9%,48,0,9,$185K,-16.6%,-6.9%,169,-17.2%,-1.2%
+"Friendswood, TX",July 2017,All Residential,Place/City,False,TX,0.981644703,-0.3%,-0.6%,77,-10.5%,-1.3%,230,-0.9%,15.0%,24,12,13,$330K,30.7%,26.1%,103,-14.2%,-2.8%
+"Galveston, TX",January 2018,All Residential,Place/City,False,TX,0.943268194,-0.6%,-1.1%,64,-41.8%,4.9%,543,3.4%,-7.2%,103,28,9,$180K,-3.7%,-4.3%,146,30.4%,-14.6%
+"League City, TX",June 2018,All Residential,Place/City,False,TX,0.986466681,0.5%,0.5%,198,-6.2%,-14.7%,511,15.6%,15.6%,18,4,-5,$268K,0.9%,5.7%,272,-5.9%,-0.7%
+"Missouri City, TX",August 2018,All Residential,Place/City,False,TX,0.974232778,-0.6%,-0.4%,175,11.5%,84.2%,626,4.5%,2.6%,34,-2,7,$239K,-7.5%,1.3%,199,-10.4%,34.5%
+"Texas City, TX",September 2018,All Residential,Place/City,False,TX,0.962796808,-1.4%,-0.5%,65,-14.5%,41.3%,236,2.6%,26.9%,38,3,-5,$139K,-21.4%,-17.4%,76,-13.6%,28.8%
+"Texas City, TX",October 2018,All Residential,Place/City,False,TX,0.966497358,0.4%,-1.5%,69,6.2%,38.0%,242,2.5%,22.2%,34,-4,4,$170K,22.3%,36.0%,106,39.5%,41.3%
+"Pasadena, TX",August 2019,All Residential,Place/City,False,TX,0.963068053,-1.7%,-1.9%,108,-12.9%,13.7%,213,2.9%,3.4%,17,2,2,$168K,-2.0%,-2.9%,135,12.5%,-2.9%
+"Texas City, TX",October 2019,All Residential,Place/City,False,TX,0.968922924,0.0%,0.2%,78,23.8%,13.0%,248,-1.2%,2.5%,43,13,9,$190K,2.6%,11.7%,92,4.5%,-13.2%
+"Houston, TX",December 2019,All Residential,Place/City,False,TX,0.970507666,-0.1%,0.1%,2871,24.0%,14.9%,9252,-8.3%,0.0%,53,8,2,$248K,11.7%,14.0%,2118,-22.2%,-2.1%
+"Friendswood, TX",May 2020,All Residential,Place/City,False,TX,0.980263123,0.1%,-0.2%,82,51.9%,-21.9%,133,-1.5%,-38.4%,17,-7,-7,$305K,18.0%,-5.7%,82,-6.8%,-26.8%
+"Galveston, TX",August 2013,All Residential,Place/City,False,TX,0.944103557,-1.1%,-0.9%,118,11.3%,32.6%,616,6.0%,4.9%,73,-15,-6,$183K,6.8%,33.7%,161,54.8%,46.4%
+"Texas City, TX",August 2014,All Residential,Place/City,False,TX,0.952882230,2.0%,-1.4%,44,10.0%,51.7%,173,0.6%,-17.2%,59,10,-20,$99K,42.8%,22.5%,59,-15.7%,20.4%
+"Texas City, TX",February 2015,All Residential,Place/City,False,TX,0.949198321,-0.5%,-1.0%,34,3.0%,70.0%,128,3.2%,-24.7%,71,12,-10,$107K,31.3%,37.2%,51,15.9%,30.8%
+"Houston, TX",November 2015,All Residential,Place/City,False,TX,0.971317239,-0.1%,-0.5%,1805,-22.7%,-17.4%,8440,-3.0%,33.8%,34,1,5,$180K,-2.6%,0.1%,2575,-19.5%,4.4%
+"Houston, TX",May 2018,All Residential,Place/City,False,TX,0.973303342,0.2%,-0.2%,3154,15.4%,0.4%,9821,5.2%,-2.5%,25,-3,0,$223K,1.4%,5.2%,4528,4.8%,2.9%
+"Sugar Land, TX",August 2019,All Residential,Place/City,False,TX,0.963846128,-0.2%,0.0%,203,0.5%,-15.1%,834,-2.6%,5.4%,50,11,2,$313K,-7.1%,-4.4%,225,-25.2%,3.2%
+"Friendswood, TX",October 2019,All Residential,Place/City,False,TX,0.986114160,1.2%,2.1%,69,-12.7%,-6.8%,164,-6.3%,-38.8%,34,-12,-7,$292K,-4.5%,15.1%,62,-4.6%,-21.5%
+"Pasadena, TX",December 2019,All Residential,Place/City,False,TX,0.979365421,0.4%,0.2%,95,13.1%,21.8%,200,-7.4%,-7.4%,31,6,3,$189K,9.2%,12.5%,79,-21.8%,31.7%
+"Baytown, TX",August 2013,All Residential,Place/City,False,TX,0.965958727,-1.8%,-0.2%,91,23.0%,4.6%,356,4.1%,-16.2%,51,-4,-16,$135K,3.3%,17.5%,106,2.9%,9.3%
+"Sugar Land, TX",February 2014,All Residential,Place/City,False,TX,0.970045274,-0.5%,1.3%,129,17.3%,-3.7%,302,0.7%,-22.4%,29,0,-34,$280K,-5.6%,22.1%,185,6.9%,1.6%
+"Sugar Land, TX",December 2015,All Residential,Place/City,False,TX,0.963377639,-0.4%,-1.3%,171,44.9%,-24.3%,504,-7.5%,62.1%,54,4,24,$315K,-9.3%,-19.0%,115,-24.3%,-26.8%
+"Houston, TX",July 2016,All Residential,Place/City,False,TX,0.974366984,-0.3%,-0.4%,2720,-9.3%,-11.5%,9710,2.2%,16.7%,29,0,8,$215K,0.0%,7.0%,3773,-3.9%,-9.6%
+"Texas City, TX",November 2016,All Residential,Place/City,False,TX,0.997571637,-0.9%,6.0%,43,-17.3%,13.2%,104,-9.6%,-9.6%,13,-9,-46,$150K,18.5%,41.3%,40,-33.3%,-9.1%
+"Galveston, TX",November 2019,All Residential,Place/City,False,TX,0.950216213,-1.1%,-0.6%,101,5.2%,17.4%,551,-3.3%,0.5%,66,6,11,$258K,5.9%,20.2%,116,-20.0%,20.8%
+"Pasadena, TX",April 2013,All Residential,Place/City,False,TX,0.978027841,0.5%,1.5%,75,27.1%,-15.7%,304,2.4%,-23.2%,42,-10,-15,$115K,12.6%,16.1%,111,14.4%,-9.8%
+"Texas City, TX",October 2013,All Residential,Place/City,False,TX,0.957749636,1.1%,4.4%,26,-10.3%,-18.8%,215,-0.9%,-5.3%,65,-7,-4,$71K,-18.0%,28.1%,53,6.0%,-1.9%
+"Conroe, TX",April 2014,All Residential,Place/City,False,TX,0.973478593,0.5%,0.4%,147,-0.7%,-10.9%,402,-2.9%,-11.8%,35,-1,-9,$195K,-1.8%,11.4%,209,4.5%,-15.7%
+"Conroe, TX",December 2014,All Residential,Place/City,False,TX,0.973082691,0.1%,0.8%,176,28.5%,15.8%,511,-5.4%,27.4%,41,-5,-4,$215K,14.9%,20.1%,124,-26.6%,26.5%
+"Galveston, TX",November 2015,All Residential,Place/City,False,TX,0.955054791,-0.9%,0.9%,81,-18.2%,-5.8%,543,-5.2%,-1.6%,56,-16,-24,$175K,-2.8%,-5.4%,107,-18.9%,28.9%
+"League City, TX",January 2013,All Residential,Place/City,False,TX,0.971578725,1.4%,1.7%,87,-24.3%,24.3%,476,-1.2%,-21.5%,59,-22,-46,$171K,-9.0%,-3.4%,155,58.2%,16.5%
+"Sugar Land, TX",March 2013,All Residential,Place/City,False,TX,0.959235552,0.3%,0.3%,172,28.4%,32.3%,368,-5.4%,-40.0%,29,-34,-37,$258K,12.3%,0.6%,232,27.5%,-18.0%
+"Conroe, TX",November 2014,All Residential,Place/City,False,TX,0.972289132,-0.1%,-0.1%,137,-18.5%,17.1%,540,-0.7%,23.6%,46,7,-6,$187K,-0.2%,3.9%,169,-10.6%,47.0%
+"Friendswood, TX",September 2015,All Residential,Place/City,False,TX,0.985160995,0.0%,1.6%,67,-1.5%,21.8%,154,3.4%,2.7%,13,2,-13,$192K,-17.2%,8.5%,90,16.9%,57.9%
+"Houston, TX",October 2015,All Residential,Place/City,False,TX,0.972110302,-0.2%,-0.5%,2335,-10.6%,-14.3%,8704,0.8%,34.8%,33,6,7,$185K,-2.6%,1.6%,3197,-2.6%,3.5%
+"Galveston, TX",April 2016,All Residential,Place/City,False,TX,0.953908951,1.0%,-0.4%,118,5.4%,0.9%,613,3.9%,3.2%,39,-20,-42,$199K,13.0%,24.5%,171,-24.0%,11.8%
+"Sugar Land, TX",April 2017,All Residential,Place/City,False,TX,0.973833691,0.5%,0.3%,176,9.3%,-0.6%,681,16.0%,14.8%,30,8,-4,$320K,-0.1%,1.4%,324,9.1%,24.1%
+"Sugar Land, TX",May 2017,All Residential,Place/City,False,TX,0.973164912,-0.1%,0.5%,238,35.2%,28.0%,746,9.5%,19.7%,24,-6,-8,$326K,1.6%,-2.5%,340,4.9%,20.6%
+"Galveston, TX",November 2017,All Residential,Place/City,False,TX,0.959118888,1.5%,0.3%,90,-3.2%,32.4%,533,-3.6%,-10.3%,68,-8,6,$183K,-28.7%,-23.1%,113,-14.4%,0.9%
+"Houston, TX",June 2018,All Residential,Place/City,False,TX,0.972871797,0.0%,-0.1%,3216,2.0%,2.4%,10239,4.3%,-2.3%,27,2,0,$228K,2.2%,1.3%,4176,-7.8%,0.3%
+"Galveston, TX",June 2018,All Residential,Place/City,False,TX,0.965339054,1.3%,2.1%,156,11.4%,5.4%,647,3.5%,0.5%,36,-6,-18,$242K,24.4%,19.6%,193,2.1%,18.4%
+"Texas City, TX",January 2019,All Residential,Place/City,False,TX,0.996263395,3.3%,3.6%,35,-53.3%,-25.5%,225,-2.2%,14.8%,35,-8,-46,$197K,12.6%,27.9%,74,34.5%,-3.9%
+"Pasadena, TX",February 2019,All Residential,Place/City,False,TX,0.985244789,1.5%,0.9%,74,25.4%,21.3%,199,-6.1%,74.6%,24,-16,-5,$172K,9.2%,11.0%,87,-9.4%,13.0%
+"Conroe, TX",April 2019,All Residential,Place/City,False,TX,0.975690907,0.5%,-0.1%,210,-7.5%,11.1%,782,1.0%,3.2%,55,1,23,$250K,4.2%,5.5%,322,14.2%,4.9%
+"Galveston, TX",June 2020,All Residential,Place/City,False,TX,0.965608827,1.9%,1.2%,222,85.0%,66.9%,393,-25.7%,-36.4%,59,8,5,$283K,29.6%,25.2%,161,-13.4%,-10.6%
+"Galveston, TX",February 2013,All Residential,Place/City,False,TX,0.945535550,1.5%,3.9%,61,13.0%,10.9%,600,7.5%,2.4%,98,-19,8,$162K,24.9%,-3.6%,140,-2.8%,-9.1%
+"Friendswood, TX",July 2013,All Residential,Place/City,False,TX,0.974836504,-0.2%,1.5%,113,10.8%,44.9%,185,-13.6%,-33.7%,28,-21,-17,$227K,13.1%,21.3%,92,-6.1%,3.4%
+"Galveston, TX",October 2014,All Residential,Place/City,False,TX,0.966320652,0.8%,1.1%,90,-9.1%,21.6%,564,-7.2%,-6.9%,72,-15,9,$169K,-7.5%,-0.4%,103,-23.1%,-18.3%
+"Friendswood, TX",December 2014,All Residential,Place/City,False,TX,0.973107053,1.4%,0.2%,72,35.8%,4.3%,110,-15.4%,-30.4%,25,-26,-22,$210K,-20.0%,-3.2%,40,-29.8%,-14.9%
+"Conroe, TX",December 2015,All Residential,Place/City,False,TX,0.975613619,-0.5%,0.3%,185,55.5%,5.1%,665,-4.5%,30.1%,56,7,15,$221K,2.3%,2.8%,124,-18.4%,0.0%
+"League City, TX",November 2016,All Residential,Place/City,False,TX,0.983087763,-0.3%,0.6%,148,-10.3%,35.8%,400,-4.3%,7.5%,30,6,8,$250K,-0.2%,9.0%,141,-3.4%,6.0%
+"Baytown, TX",January 2017,All Residential,Place/City,False,TX,0.962416250,-1.1%,-0.3%,70,-15.7%,-10.3%,216,-7.7%,-17.2%,50,1,-23,$154K,-10.3%,7.8%,97,26.0%,-5.8%
+"Friendswood, TX",January 2019,All Residential,Place/City,False,TX,0.966368131,-0.6%,0.7%,44,-27.9%,-4.3%,206,-2.4%,26.4%,87,41,69,$272K,6.5%,19.9%,78,129.4%,-13.3%
+"Missouri City, TX",March 2012,All Residential,Place/City,False,TX,0.954146501,-1.2%,-0.4%,119,35.2%,32.2%,509,3.0%,-26.7%,79,-26,-27,$173K,-6.4%,-0.9%,193,25.3%,4.9%
+"Houston, TX",April 2012,All Residential,Place/City,False,TX,0.968098234,0.6%,1.2%,2251,4.2%,6.3%,10063,-0.1%,-25.7%,54,-16,-17,$151K,-2.5%,10.2%,3433,-2.2%,-4.7%
+"League City, TX",August 2012,All Residential,Place/City,False,TX,0.974590634,0.4%,1.9%,142,-17.0%,2266.7%,575,-5.0%,-6.2%,66,15,-15,$179K,-4.5%,-29.1%,177,-7.8%,43.9%
+"Friendswood, TX",September 2012,All Residential,Place/City,False,TX,0.958407320,-0.5%,-2.2%,63,-25.9%,215.0%,254,-3.1%,-19.4%,54,2,-22,$180K,-2.8%,25.6%,68,-8.1%,44.7%
+"League City, TX",May 2014,All Residential,Place/City,False,TX,0.983520700,0.4%,0.7%,172,-7.0%,-12.2%,416,5.6%,-13.3%,24,-2,-15,$201K,-1.2%,8.6%,252,4.1%,1.6%
+"Pasadena, TX",February 2017,All Residential,Place/City,False,TX,0.972207559,0.5%,0.0%,67,28.8%,1.5%,154,-6.1%,-12.0%,27,-23,-20,$155K,14.8%,19.7%,95,13.1%,5.6%
+"Friendswood, TX",November 2017,All Residential,Place/City,False,TX,0.971235339,-0.4%,0.7%,70,-1.4%,4.5%,179,5.9%,4.7%,58,19,1,$245K,-9.3%,-23.4%,70,-7.9%,16.7%
+"Houston, TX",March 2018,All Residential,Place/City,False,TX,0.969023195,0.4%,0.0%,2705,28.6%,-4.5%,8780,6.0%,-3.0%,37,-12,0,$218K,1.2%,3.6%,4126,27.5%,-6.5%
+"Baytown, TX",June 2018,All Residential,Place/City,False,TX,0.982748339,0.8%,0.2%,138,24.3%,31.4%,295,5.4%,17.1%,17,-10,-6,$183K,-1.4%,0.7%,147,-16.5%,2.8%
+"Houston, TX",June 2019,All Residential,Place/City,False,TX,0.976263131,0.0%,0.3%,3004,-7.2%,-6.6%,11131,2.6%,8.7%,28,-4,1,$243K,1.3%,6.6%,4109,-10.6%,-1.6%
+"Houston, TX",April 2020,All Residential,Place/City,False,TX,0.974213815,0.1%,0.1%,2040,-22.5%,-28.1%,10031,-0.4%,-3.2%,36,-9,1,$237K,-1.3%,3.0%,2809,-25.4%,-35.9%
+"Pasadena, TX",February 2012,All Residential,Place/City,False,TX,0.963157468,-1.4%,1.7%,51,8.5%,-12.1%,378,-2.8%,-21.4%,87,6,-5,$93K,2.9%,2.3%,92,9.5%,-5.2%
+"Texas City, TX",August 2012,All Residential,Place/City,False,TX,0.946824519,-0.1%,,40,29.0%,,229,1.3%,,73,-15,,$73K,-19.1%,,55,7.8%,
+"Sugar Land, TX",April 2018,All Residential,Place/City,False,TX,0.970756619,0.5%,-0.3%,191,12.4%,8.5%,679,3.5%,-0.3%,35,-36,5,$311K,-3.7%,-3.0%,300,-2.3%,-7.4%
+"Baytown, TX",October 2018,All Residential,Place/City,False,TX,0.966179311,-1.1%,-0.9%,93,-2.1%,-25.0%,303,-5.3%,20.2%,37,4,2,$185K,1.4%,9.3%,112,-5.1%,-14.5%
+"Baytown, TX",April 2020,All Residential,Place/City,False,TX,0.978533584,-0.4%,-0.2%,86,-34.4%,-20.4%,333,-7.8%,32.1%,43,-13,9,$204K,-1.8%,6.4%,125,-29.8%,13.6%
+"Texas City, TX",October 2014,All Residential,Place/City,False,TX,0.960503328,-0.2%,0.3%,54,14.9%,107.7%,151,-8.5%,-29.8%,51,5,-14,$113K,-5.8%,60.4%,47,-9.6%,-11.3%
+"Texas City, TX",February 2013,All Residential,Place/City,False,TX,0.960416102,3.5%,2.1%,28,7.7%,75.0%,193,-7.2%,-12.7%,57,-66,-57,$71K,-14.0%,-3.1%,33,-32.7%,-34.0%
+"Houston, TX",June 2014,All Residential,Place/City,False,TX,0.985627648,-0.1%,0.3%,2974,1.0%,4.5%,6182,3.6%,-12.4%,17,-2,-5,$200K,5.3%,11.1%,3613,-6.9%,-1.6%
+"Texas City, TX",August 2019,All Residential,Place/City,False,TX,0.969224906,-0.6%,-0.8%,66,20.0%,-13.2%,243,3.4%,5.7%,49,21,14,$179K,-4.3%,1.2%,98,10.1%,11.4%
+"Sugar Land, TX",September 2019,All Residential,Place/City,False,TX,0.965722310,0.2%,0.1%,156,-23.2%,14.7%,792,-5.0%,2.7%,46,-4,-13,$299K,-4.5%,-2.0%,165,-26.7%,-18.7%
+"Houston, TX",October 2019,All Residential,Place/City,False,TX,0.969406788,-0.2%,0.0%,2553,2.0%,0.1%,10714,-1.2%,3.8%,45,2,5,$224K,1.1%,4.7%,3417,8.5%,2.2%
+"Sugar Land, TX",February 2020,All Residential,Place/City,False,TX,0.967816059,0.4%,0.4%,126,26.0%,23.5%,588,-3.3%,-5.0%,98,30,20,$296K,2.2%,6.5%,188,8.0%,-2.1%
+"Friendswood, TX",March 2020,All Residential,Place/City,False,TX,0.978244116,-0.1%,1.1%,69,35.3%,-8.0%,137,2.2%,-36.9%,24,-47,-21,$320K,14.3%,10.3%,82,7.9%,-22.6%
+"Baytown, TX",May 2012,All Residential,Place/City,False,TX,0.972140406,1.6%,2.1%,65,-16.7%,0.0%,419,1.7%,-21.8%,60,-4,-37,$123K,6.9%,36.6%,119,-12.5%,-2.5%
+"Pasadena, TX",February 2015,All Residential,Place/City,False,TX,0.973408506,-0.9%,0.7%,71,77.5%,14.5%,162,-11.0%,-37.7%,36,-2,-10,$105K,-19.2%,-11.4%,93,9.4%,5.7%
+"Houston, TX",March 2017,All Residential,Place/City,False,TX,0.969091890,0.1%,-0.1%,2831,38.7%,16.0%,9053,7.3%,1.1%,37,-15,3,$210K,2.2%,4.0%,4414,30.1%,12.0%
+"Conroe, TX",October 2018,All Residential,Place/City,False,TX,0.973705136,0.7%,0.2%,198,6.5%,-1.5%,817,-2.5%,10.9%,55,1,-1,$243K,2.8%,9.2%,246,12.8%,5.6%
+"Conroe, TX",February 2019,All Residential,Place/City,False,TX,0.970819767,0.5%,1.2%,167,67.0%,5.0%,745,-1.8%,13.6%,79,21,17,$228K,-3.4%,6.1%,231,-14.1%,-3.3%
+"Missouri City, TX",August 2019,All Residential,Place/City,False,TX,0.970628770,-0.4%,-0.4%,193,-5.4%,10.3%,620,-2.7%,-1.0%,47,14,13,$264K,3.7%,10.5%,198,-10.8%,-0.5%
+"Missouri City, TX",November 2019,All Residential,Place/City,False,TX,0.972491209,0.2%,-0.1%,114,-34.9%,-5.8%,530,-7.2%,-11.8%,75,25,31,$240K,5.7%,4.6%,128,-30.8%,-15.2%
+"League City, TX",September 2017,All Residential,Place/City,False,TX,0.978844904,-0.5%,-0.7%,184,15.7%,14.3%,460,-11.0%,2.2%,31,6,12,$259K,-4.8%,8.4%,157,-23.4%,-24.5%
+"Conroe, TX",March 2018,All Residential,Place/City,False,TX,0.970749065,1.2%,0.1%,201,26.4%,2.0%,727,10.8%,-2.7%,47,-15,-23,$218K,1.4%,-9.2%,310,29.7%,0.0%
+"Baytown, TX",July 2018,All Residential,Place/City,False,TX,0.977558303,-0.5%,-0.4%,114,-17.4%,17.5%,335,13.6%,8.1%,25,8,9,$200K,9.1%,5.3%,162,10.2%,-6.4%
+"Sugar Land, TX",August 2018,All Residential,Place/City,False,TX,0.963606967,-0.6%,-0.7%,239,7.2%,48.4%,791,-4.5%,-8.9%,48,17,19,$327K,-2.3%,5.6%,218,-19.3%,3.8%
+"Friendswood, TX",June 2019,All Residential,Place/City,False,TX,0.984701419,0.2%,0.8%,96,-8.6%,-19.3%,214,-0.9%,-12.3%,23,-1,9,$297K,-8.1%,6.0%,105,-6.3%,-25.0%
+"Houston, TX",August 2019,All Residential,Place/City,False,TX,0.970916829,-0.2%,0.0%,3030,-3.4%,-2.5%,11083,-1.9%,4.5%,35,5,5,$230K,0.1%,5.9%,3707,-9.0%,-5.5%
+"Houston, TX",April 2015,All Residential,Place/City,False,TX,0.977013785,0.0%,-0.6%,2615,9.3%,-0.3%,7194,3.9%,26.0%,23,0,0,$185K,-4.3%,0.1%,3717,7.3%,1.1%
+"Texas City, TX",October 2016,All Residential,Place/City,False,TX,1.006846558,6.8%,6.1%,52,36.8%,10.6%,115,13.9%,-6.5%,22,-4,-13,$127K,11.5%,36.0%,60,-4.8%,36.4%
+"Friendswood, TX",March 2018,All Residential,Place/City,False,TX,0.982624040,1.0%,0.5%,68,-2.9%,-10.5%,165,9.3%,5.8%,13,-37,-3,$244K,14.2%,3.1%,130,71.1%,39.8%
+"League City, TX",August 2018,All Residential,Place/City,False,TX,0.982474740,-0.3%,-0.1%,213,12.7%,34.0%,568,1.1%,9.9%,24,5,-1,$263K,-3.4%,-3.3%,255,-5.2%,24.4%
+"Houston, TX",October 2018,All Residential,Place/City,False,TX,0.969139505,-0.1%,0.1%,2551,5.2%,4.1%,10318,-1.8%,9.8%,40,6,-8,$214K,-0.5%,2.9%,3344,4.7%,4.6%
+"Galveston, TX",December 2018,All Residential,Place/City,False,TX,0.957484234,0.1%,0.8%,82,-4.7%,-25.5%,503,-8.2%,-4.2%,76,21,1,$201K,-6.6%,7.4%,89,-7.3%,-20.5%
+"Galveston, TX",January 2020,All Residential,Place/City,False,TX,0.953417048,-0.2%,-1.3%,78,-34.5%,13.0%,552,5.7%,6.2%,69,8,-2,$230K,-12.5%,9.0%,181,105.7%,18.3%
+"Texas City, TX",May 2012,All Residential,Place/City,False,TX,0.949948065,2.0%,-6.3%,30,25.0%,2900.0%,218,-4.8%,21.8%,61,-9,56,$84K,23.0%,222.4%,43,-27.1%,34.4%
+"Pasadena, TX",June 2012,All Residential,Place/City,False,TX,0.986697691,1.2%,2.0%,92,24.3%,53.3%,385,2.1%,-23.2%,31,-55,-38,$100K,-12.8%,-12.9%,113,14.1%,-5.0%
+"Missouri City, TX",December 2012,All Residential,Place/City,False,TX,0.957547677,-1.4%,0.5%,136,20.4%,33.3%,434,-5.7%,-13.0%,90,19,-6,$189K,2.2%,18.0%,108,-10.7%,27.1%
+"Conroe, TX",January 2013,All Residential,Place/City,False,TX,0.962990833,0.1%,0.5%,84,-29.4%,21.7%,443,-4.7%,-22.4%,82,3,3,$154K,-1.0%,18.9%,142,79.7%,-4.7%
+"Houston, TX",January 2014,All Residential,Place/City,False,TX,0.973298711,-0.1%,0.5%,1758,-30.9%,2.7%,5946,-2.1%,-16.3%,42,8,-14,$157K,-16.3%,15.3%,2865,47.8%,1.8%
+"Friendswood, TX",April 2014,All Residential,Place/City,False,TX,0.978133277,-0.4%,0.7%,72,35.8%,-2.7%,158,-3.1%,-30.4%,21,-11,-33,$228K,26.4%,17.6%,103,19.8%,3.0%
+"Conroe, TX",October 2014,All Residential,Place/City,False,TX,0.973417498,-0.1%,0.0%,168,2.4%,27.3%,544,2.6%,18.0%,39,17,-2,$187K,-4.5%,9.3%,189,-8.7%,25.2%
+"Baytown, TX",August 2015,All Residential,Place/City,False,TX,0.968267434,-0.6%,-0.4%,103,-7.2%,7.3%,286,15.3%,-7.1%,27,-6,5,$150K,-4.5%,3.4%,146,-3.3%,11.5%
+"Texas City, TX",September 2016,All Residential,Place/City,False,TX,0.938611327,-1.8%,-2.9%,38,-39.7%,-13.6%,101,14.8%,-19.8%,26,0,-18,$114K,-10.3%,-6.9%,63,12.5%,46.5%
+"Friendswood, TX",October 2016,All Residential,Place/City,False,TX,0.980847415,1.0%,-0.2%,55,-24.7%,-25.7%,177,-5.3%,21.2%,21,-2,3,$229K,-4.6%,4.1%,57,-14.9%,-13.6%
+"Sugar Land, TX",October 2017,All Residential,Place/City,False,TX,0.968351871,0.8%,0.1%,152,-0.7%,4.1%,755,-5.2%,19.8%,45,0,2,$310K,-1.6%,0.2%,202,21.0%,18.1%
+"Missouri City, TX",September 2018,All Residential,Place/City,False,TX,0.974020027,0.0%,0.5%,125,-28.6%,-10.1%,621,-0.8%,8.2%,51,17,-3,$247K,3.3%,-4.6%,189,-5.0%,35.0%
+"Baytown, TX",May 2020,All Residential,Place/City,False,TX,0.981799275,0.3%,0.3%,95,10.5%,-12.8%,344,3.3%,21.6%,40,-3,13,$215K,5.3%,13.2%,168,34.4%,13.5%
+"Pasadena, TX",August 2012,All Residential,Place/City,False,TX,0.956691924,0.4%,-1.0%,80,8.1%,-11.1%,367,-5.2%,-26.0%,56,-5,-27,$101K,6.3%,1.5%,96,-8.6%,0.0%
+"Friendswood, TX",March 2017,All Residential,Place/City,False,TX,0.977889804,0.7%,0.0%,76,38.2%,2.7%,156,9.9%,2.6%,16,-20,-10,$237K,-18.6%,-0.1%,93,47.6%,6.9%
+"League City, TX",July 2017,All Residential,Place/City,False,TX,0.986328694,0.4%,-0.4%,193,-16.8%,-4.0%,489,10.6%,21.3%,17,-6,4,$265K,4.7%,8.8%,274,0.0%,21.2%
+"Friendswood, TX",April 2016,All Residential,Place/City,False,TX,0.981713026,0.3%,1.5%,74,0.0%,15.6%,165,8.6%,50.0%,24,-2,10,$335K,40.8%,45.4%,96,10.3%,10.3%
+"League City, TX",December 2016,All Residential,Place/City,False,TX,0.980664606,-0.2%,0.5%,160,8.1%,-9.1%,368,-8.0%,1.4%,40,10,4,$259K,3.6%,12.3%,100,-29.1%,-11.5%
+"Texas City, TX",May 2017,All Residential,Place/City,False,TX,0.941391334,-2.5%,-5.1%,61,32.6%,17.3%,139,13.0%,51.1%,21,-4,-2,$120K,-1.7%,-9.2%,77,13.2%,37.5%
+"Sugar Land, TX",May 2012,All Residential,Place/City,False,TX,0.968071282,0.4%,2.0%,215,35.2%,37.8%,609,1.2%,-28.0%,31,-3,-22,$225K,-14.4%,-10.9%,276,6.2%,7.0%
+"Pasadena, TX",February 2018,All Residential,Place/City,False,TX,0.976610195,0.8%,0.4%,61,19.6%,-9.0%,114,-6.6%,-26.0%,29,11,2,$155K,-1.6%,-0.3%,77,13.2%,-18.9%
+"Baytown, TX",April 2017,All Residential,Place/City,False,TX,0.980612858,0.3%,-0.8%,87,-22.3%,-10.3%,226,7.1%,-8.9%,26,1,-7,$170K,0.6%,4.6%,117,-2.5%,8.3%
+"Texas City, TX",June 2019,All Residential,Place/City,False,TX,0.980528009,-0.5%,1.1%,92,16.5%,17.9%,209,5.6%,-1.9%,39,8,11,$188K,0.5%,10.7%,84,-3.4%,-20.8%
+"Texas City, TX",July 2020,All Residential,Place/City,False,TX,0.981210187,0.4%,0.6%,107,21.6%,94.5%,190,-11.6%,-19.1%,58,5,30,$221K,3.3%,18.1%,94,-1.1%,5.6%
+"Baytown, TX",September 2012,All Residential,Place/City,False,TX,0.952424730,-1.6%,-0.4%,85,-2.3%,7.6%,407,-4.2%,-10.4%,64,-3,-24,$122K,6.2%,17.2%,100,3.1%,31.6%
+"Galveston, TX",November 2012,All Residential,Place/City,False,TX,0.940858143,0.0%,1.0%,73,2.8%,7200.0%,546,-0.9%,-0.5%,111,54,99,$180K,18.8%,77.3%,96,-6.8%,45.5%
+"Sugar Land, TX",March 2016,All Residential,Place/City,False,TX,0.968896685,0.1%,-1.1%,160,36.8%,-17.1%,565,6.6%,40.2%,36,-9,21,$296K,11.7%,-7.5%,263,37.7%,9.6%
+"Friendswood, TX",September 2016,All Residential,Place/City,False,TX,0.971122164,-0.9%,-1.4%,73,-18.0%,9.0%,187,-3.6%,21.4%,23,9,10,$240K,0.8%,25.0%,67,-21.2%,-25.6%
+"Conroe, TX",November 2016,All Residential,Place/City,False,TX,0.980663377,1.1%,0.0%,149,-2.0%,25.2%,732,-2.5%,5.2%,49,6,0,$201K,-1.7%,-6.9%,190,2.2%,25.0%
+"Texas City, TX",December 2017,All Residential,Place/City,False,TX,0.969599362,0.6%,-1.7%,65,25.0%,62.5%,179,-4.3%,58.4%,51,6,33,$180K,17.6%,20.9%,57,7.5%,62.9%
+"Galveston, TX",December 2017,All Residential,Place/City,False,TX,0.949602727,-1.0%,-0.9%,110,22.2%,29.4%,525,-1.5%,-2.2%,75,7,19,$187K,2.0%,-6.5%,112,-0.9%,62.3%
+"Missouri City, TX",February 2018,All Residential,Place/City,False,TX,0.971557980,1.4%,0.2%,101,13.5%,-1.0%,440,-0.2%,2.8%,48,-3,-19,$234K,2.4%,-8.8%,162,31.7%,4.5%
+"Pasadena, TX",May 2020,All Residential,Place/City,False,TX,0.972775846,-0.2%,-1.5%,77,22.2%,-21.4%,190,-9.1%,-9.1%,32,13,8,$200K,9.8%,14.4%,105,26.5%,-18.6%
+"Friendswood, TX",July 2020,All Residential,Place/City,False,TX,0.985591614,0.1%,0.1%,104,52.9%,15.6%,128,3.2%,-41.0%,12,-3,-6,$334K,7.7%,23.9%,110,4.8%,3.8%
+"Galveston, TX",February 2012,All Residential,Place/City,False,TX,0.906986794,-1.9%,-4.7%,55,57.1%,2650.0%,586,5.8%,15.8%,90,-17,-63,$168K,57.0%,19.4%,154,20.3%,87.8%
+"Houston, TX",October 2014,All Residential,Place/City,False,TX,0.977230820,-0.3%,0.2%,2726,2.7%,5.4%,6458,-1.3%,-8.4%,26,3,-6,$182K,1.2%,11.7%,3088,5.9%,6.5%
+"Texas City, TX",May 2015,All Residential,Place/City,False,TX,0.987915086,1.8%,3.7%,41,-2.4%,-19.6%,141,2.9%,-8.4%,16,-19,-60,$131K,37.5%,24.8%,55,-15.4%,1.9%
+"Pasadena, TX",June 2015,All Residential,Place/City,False,TX,0.989843245,1.6%,1.7%,89,-6.3%,-11.0%,184,10.2%,-20.3%,16,-4,-12,$138K,-0.4%,8.1%,121,21.0%,4.3%
+"Texas City, TX",October 2015,All Residential,Place/City,False,TX,0.945500009,-2.2%,-1.5%,47,6.8%,-13.0%,123,-2.4%,-18.5%,35,-9,-16,$93K,-23.7%,-17.7%,44,2.3%,-6.4%
+"Pasadena, TX",August 2016,All Residential,Place/City,False,TX,0.991985301,1.0%,0.0%,100,6.4%,1.0%,183,6.4%,-2.7%,14,0,-4,$145K,-10.8%,-8.5%,106,-15.2%,17.8%
+"Pasadena, TX",December 2016,All Residential,Place/City,False,TX,0.974978973,0.5%,-0.4%,92,33.3%,10.8%,169,-5.1%,0.6%,33,10,10,$164K,14.7%,10.1%,63,-25.9%,3.3%
+"Houston, TX",February 2017,All Residential,Place/City,False,TX,0.968248200,0.5%,-0.1%,2041,17.3%,9.0%,8440,3.2%,-1.8%,52,3,3,$206K,9.9%,12.3%,3392,2.6%,-3.7%
+"Friendswood, TX",October 2012,All Residential,Place/City,False,TX,0.970205119,1.2%,1.2%,67,6.3%,272.2%,247,-2.8%,-23.8%,62,8,-24,$165K,-8.3%,36.5%,69,1.5%,23.2%
+"League City, TX",November 2013,All Residential,Place/City,False,TX,0.976638022,0.1%,0.4%,141,-16.6%,20.5%,459,-6.9%,-12.4%,50,7,-21,$197K,2.7%,2.3%,135,-25.4%,3.1%
+"Texas City, TX",September 2015,All Residential,Place/City,False,TX,0.967254176,1.6%,0.4%,44,2.3%,-6.4%,126,-11.3%,-23.6%,44,20,-2,$122K,4.2%,1.6%,43,-27.1%,-17.3%
+"Houston, TX",August 2018,All Residential,Place/City,False,TX,0.971260816,-0.2%,-0.1%,3109,7.0%,40.1%,10603,0.6%,-1.3%,30,1,-2,$218K,-4.6%,1.6%,3923,-4.8%,23.2%
+"Pasadena, TX",March 2013,All Residential,Place/City,False,TX,0.973365225,3.0%,-0.3%,59,-25.3%,-16.9%,297,1.4%,-22.9%,52,-64,-63,$102K,10.3%,-4.5%,97,11.5%,-26.0%
+"Friendswood, TX",April 2013,All Residential,Place/City,False,TX,0.970959087,0.0%,1.3%,74,48.0%,25.4%,227,-8.8%,-23.8%,54,9,-50,$194K,1.3%,22.5%,100,-8.3%,-4.8%
+"Galveston, TX",September 2013,All Residential,Place/City,False,TX,0.952533770,0.8%,2.0%,79,-33.1%,61.2%,599,-2.8%,7.3%,127,54,40,$158K,-13.9%,-5.7%,112,-30.4%,27.3%
+"Baytown, TX",February 2014,All Residential,Place/City,False,TX,0.973059402,1.7%,2.9%,72,26.3%,5.9%,285,1.8%,-18.3%,85,11,-2,$117K,-1.3%,31.6%,111,22.0%,37.0%
+"League City, TX",August 2014,All Residential,Place/City,False,TX,0.981765286,-0.1%,-0.1%,226,19.6%,16.5%,455,1.1%,-7.5%,25,4,-5,$220K,2.2%,14.8%,220,-18.8%,9.5%
+"Conroe, TX",March 2015,All Residential,Place/City,False,TX,0.972712442,-0.1%,0.5%,155,16.5%,4.7%,590,1.7%,42.5%,40,-18,4,$218K,-4.3%,9.8%,242,13.1%,21.0%
+"Pasadena, TX",April 2015,All Residential,Place/City,False,TX,0.983121846,1.2%,0.2%,101,18.8%,-1.9%,164,5.1%,-19.6%,16,-19,-18,$130K,13.0%,8.3%,121,10.0%,34.4%
+"Friendswood, TX",June 2016,All Residential,Place/City,False,TX,0.983427219,0.2%,-0.4%,90,16.9%,7.1%,195,18.9%,48.9%,23,5,16,$275K,5.6%,21.7%,109,22.5%,10.1%
+"Missouri City, TX",July 2016,All Residential,Place/City,False,TX,0.973433100,-0.6%,-0.7%,124,-24.8%,-17.3%,513,11.8%,31.5%,16,-5,-4,$233K,-2.9%,-10.4%,233,17.1%,11.5%
+"Friendswood, TX",June 2017,All Residential,Place/City,False,TX,0.984754904,-0.2%,0.1%,86,14.7%,-4.4%,232,8.4%,19.0%,12,-2,-11,$252K,3.9%,-8.0%,120,-4.8%,10.1%
+"Conroe, TX",April 2018,All Residential,Place/City,False,TX,0.976668225,0.6%,0.2%,189,-6.0%,0.0%,758,4.3%,-5.6%,32,-15,-14,$237K,8.7%,7.7%,307,-1.0%,-1.9%
+"Pasadena, TX",May 2018,All Residential,Place/City,False,TX,0.986316974,1.2%,1.1%,91,-2.2%,-13.3%,146,7.4%,-5.2%,9,0,-5,$165K,3.1%,8.6%,118,7.3%,10.3%
+"Pasadena, TX",July 2018,All Residential,Place/City,False,TX,0.980822490,0.2%,-0.3%,95,-11.2%,-6.9%,188,0.5%,5.6%,14,-1,-2,$176K,-2.2%,8.6%,106,-25.9%,-0.9%
+"Friendswood, TX",July 2018,All Residential,Place/City,False,TX,0.974091624,-0.3%,-0.8%,88,-26.1%,14.3%,266,9.0%,15.7%,15,1,-9,$274K,-2.1%,-17.0%,121,-13.6%,17.5%
+"Baytown, TX",August 2018,All Residential,Place/City,False,TX,0.976384523,-0.1%,-0.3%,123,7.9%,39.8%,333,-0.6%,9.2%,32,7,13,$195K,-2.5%,12.2%,135,-16.7%,4.7%
+"Pasadena, TX",September 2018,All Residential,Place/City,False,TX,0.983197497,0.1%,0.8%,85,-10.5%,3.7%,219,6.3%,24.4%,18,3,-3,$165K,-4.6%,5.8%,109,-21.6%,22.5%
+"Friendswood, TX",December 2018,All Residential,Place/City,False,TX,0.972755999,0.6%,-0.1%,61,1.7%,3.4%,211,-15.6%,30.2%,46,-17,8,$255K,-3.0%,-0.4%,34,-43.3%,-30.6%
+"Sugar Land, TX",December 2018,All Residential,Place/City,False,TX,0.959941996,-0.7%,-0.4%,152,31.0%,-1.9%,634,-12.1%,-0.2%,81,37,8,$307K,6.4%,7.5%,95,-38.7%,-14.4%
+"Sugar Land, TX",February 2019,All Residential,Place/City,False,TX,0.963709103,0.1%,-0.7%,102,6.3%,-12.8%,619,0.2%,2.5%,78,16,2,$278K,1.8%,-11.6%,192,11.6%,4.3%
+"League City, TX",April 2019,All Residential,Place/City,False,TX,0.983391247,0.8%,0.3%,185,1.1%,5.1%,458,2.5%,22.1%,30,-14,10,$264K,-2.4%,1.6%,243,12.0%,-11.0%
+"Pasadena, TX",July 2019,All Residential,Place/City,False,TX,0.979865729,0.2%,-0.1%,124,51.2%,30.5%,207,3.5%,10.1%,15,-4,1,$172K,-1.9%,-2.6%,120,0.8%,13.2%
+"Sugar Land, TX",July 2019,All Residential,Place/City,False,TX,0.966188713,0.0%,-0.4%,202,13.5%,-9.4%,856,4.3%,3.4%,39,4,8,$337K,0.3%,0.6%,301,5.6%,11.5%
+"Conroe, TX",December 2019,All Residential,Place/City,False,TX,0.970192337,-0.3%,0.2%,226,6.1%,15.9%,684,-4.5%,-5.7%,66,10,-11,$248K,3.2%,-1.8%,174,-6.5%,28.9%
+"Sugar Land, TX",April 2020,All Residential,Place/City,False,TX,0.965006737,0.1%,-0.7%,125,-20.4%,-24.7%,642,1.7%,-15.9%,46,-44,6,$330K,4.8%,6.6%,169,-31.3%,-41.5%
+"Sugar Land, TX",March 2015,All Residential,Place/City,False,TX,0.980342692,0.7%,-0.5%,193,66.4%,2.1%,403,2.3%,32.6%,15,-11,-1,$320K,4.9%,1.9%,240,12.7%,0.4%
+"Baytown, TX",April 2016,All Residential,Place/City,False,TX,0.988735480,0.7%,2.4%,97,-17.8%,-6.7%,248,-4.6%,17.5%,33,-11,-13,$163K,0.4%,7.6%,108,-16.9%,-5.3%
+"League City, TX",October 2016,All Residential,Place/City,False,TX,0.986242791,0.1%,0.7%,165,2.5%,3.8%,418,-7.1%,5.6%,24,5,-2,$250K,4.6%,4.2%,146,-29.8%,-13.6%
+"Houston, TX",October 2016,All Residential,Place/City,False,TX,0.970705347,-0.1%,-0.1%,2333,-7.2%,-0.1%,9296,-2.4%,6.8%,40,7,7,$205K,-0.2%,10.8%,3091,-3.4%,-3.3%
+"League City, TX",August 2017,All Residential,Place/City,False,TX,0.983511078,-0.3%,-0.6%,159,-17.6%,-30.3%,517,5.7%,19.7%,25,8,7,$272K,2.6%,12.9%,205,-25.2%,-9.7%
+"Pasadena, TX",September 2017,All Residential,Place/City,False,TX,0.975032094,0.7%,0.3%,82,22.4%,-19.6%,176,-4.9%,1.7%,21,5,1,$156K,-2.5%,11.6%,89,-2.2%,-4.3%
+"Houston, TX",October 2017,All Residential,Place/City,False,TX,0.968469932,0.0%,-0.2%,2451,-4.6%,5.1%,9394,-2.9%,1.1%,48,9,8,$208K,-2.0%,1.4%,3198,16.1%,3.5%
+"Missouri City, TX",April 2018,All Residential,Place/City,False,TX,0.970401067,0.1%,-0.5%,132,2.3%,-3.6%,503,6.8%,1.4%,34,-31,14,$263K,2.0%,7.4%,234,8.8%,10.4%
+"Galveston, TX",November 2018,All Residential,Place/City,False,TX,0.955986318,0.7%,-0.3%,86,-21.1%,-4.4%,548,-5.2%,2.8%,55,-24,-13,$215K,-18.9%,17.3%,96,-32.4%,-15.0%
+"Texas City, TX",December 2018,All Residential,Place/City,False,TX,0.963604009,-1.9%,-0.6%,75,27.1%,15.4%,230,-2.5%,28.5%,43,8,-8,$175K,-0.8%,-2.7%,55,-24.7%,-3.5%
+"League City, TX",December 2018,All Residential,Place/City,False,TX,0.977518748,0.0%,-0.1%,140,-17.2%,-17.2%,454,-7.0%,31.2%,47,2,-2,$264K,1.3%,1.4%,110,-34.9%,20.9%
+"League City, TX",June 2019,All Residential,Place/City,False,TX,0.984567589,-0.3%,-0.2%,204,-3.8%,3.0%,493,-1.0%,-3.5%,27,-6,9,$271K,0.4%,1.3%,239,-13.1%,-12.1%
+"Friendswood, TX",December 2019,All Residential,Place/City,False,TX,0.976305697,0.0%,0.4%,57,-24.0%,-6.6%,130,-12.2%,-38.4%,59,19,13,$270K,0.0%,5.8%,38,-24.0%,11.8%
+"Sugar Land, TX",January 2020,All Residential,Place/City,False,TX,0.963389473,0.4%,0.0%,100,-39.8%,4.2%,608,-2.3%,-1.6%,68,-8,6,$290K,-6.0%,6.0%,174,70.6%,1.2%
+"Baytown, TX",March 2020,All Residential,Place/City,False,TX,0.982486997,0.9%,-0.1%,131,44.0%,26.0%,361,19.9%,36.7%,56,1,28,$208K,4.0%,5.4%,178,39.1%,41.3%
+"Texas City, TX",May 2020,All Residential,Place/City,False,TX,0.970508036,-1.5%,-1.5%,60,13.2%,-24.1%,232,-2.9%,17.2%,39,-25,8,$173K,-15.4%,-7.5%,102,45.7%,17.2%
+"League City, TX",July 2020,All Residential,Place/City,False,TX,0.989751284,0.4%,0.6%,240,1.3%,8.6%,312,-7.4%,-39.5%,15,-3,-11,$300K,1.7%,5.3%,251,13.6%,-13.1%
+"Conroe, TX",June 2012,All Residential,Place/City,False,TX,0.955396835,-1.8%,-0.4%,144,-8.3%,21.0%,618,4.6%,-7.5%,63,1,-13,$175K,1.5%,12.9%,193,5.5%,9.0%
+"Conroe, TX",December 2013,All Residential,Place/City,False,TX,0.964970701,-0.8%,0.3%,152,29.9%,27.7%,401,-8.2%,-13.8%,45,-7,-34,$179K,-0.6%,14.7%,98,-14.8%,24.1%
+"Texas City, TX",November 2014,All Residential,Place/City,False,TX,0.956959298,-0.4%,1.6%,30,-44.4%,-6.3%,151,0.0%,-25.6%,39,-12,-76,$105K,-7.1%,14.1%,41,-12.8%,20.6%
+"Conroe, TX",January 2018,All Residential,Place/City,False,TX,0.973350782,1.0%,0.7%,156,-22.4%,50.0%,653,-3.8%,-5.1%,78,28,12,$236K,2.9%,9.4%,186,24.0%,-8.8%
+"Texas City, TX",March 2018,All Residential,Place/City,False,TX,0.960021720,-0.6%,-1.7%,55,25.0%,34.1%,186,9.4%,56.3%,28,-21,-9,$153K,3.3%,-1.4%,83,66.0%,20.3%
+"Galveston, TX",May 2018,All Residential,Place/City,False,TX,0.952043360,-0.8%,0.6%,140,-2.8%,-8.5%,625,2.0%,-5.4%,42,1,-20,$195K,-18.7%,-17.1%,189,-7.8%,-7.4%
+"Texas City, TX",August 2018,All Residential,Place/City,False,TX,0.977089751,-0.6%,1.1%,76,-10.6%,111.1%,230,2.2%,16.2%,35,7,-2,$177K,-3.4%,4.6%,88,3.5%,44.3%
+"Galveston, TX",August 2018,All Residential,Place/City,False,TX,0.950635868,-0.6%,-0.1%,124,6.9%,20.4%,610,-3.6%,0.5%,57,-10,10,$220K,-10.4%,4.6%,152,-6.2%,15.2%
+"League City, TX",April 2013,All Residential,Place/City,False,TX,0.981326541,1.1%,0.8%,164,0.0%,18.0%,471,-2.1%,-21.4%,34,-28,-45,$186K,-0.1%,-4.2%,208,-1.4%,-4.1%
+"Missouri City, TX",March 2016,All Residential,Place/City,False,TX,0.971823885,0.3%,-0.4%,135,32.4%,-0.7%,390,8.6%,35.4%,42,-3,23,$235K,-2.9%,4.0%,194,25.2%,11.5%
+"Missouri City, TX",May 2017,All Residential,Place/City,False,TX,0.971586313,-0.4%,-0.1%,177,29.2%,35.1%,567,14.3%,32.2%,35,15,3,$260K,6.1%,4.0%,282,33.0%,40.3%
+"Friendswood, TX",February 2019,All Residential,Place/City,False,TX,0.968013167,0.2%,-0.5%,50,13.6%,-28.6%,203,-1.5%,34.4%,62,-25,12,$245K,-9.8%,14.5%,63,-19.2%,-17.1%
+"Missouri City, TX",September 2012,All Residential,Place/City,False,TX,0.973860536,0.8%,0.9%,101,-26.8%,3.1%,537,-0.6%,-17.1%,53,-1,-21,$170K,-2.9%,9.7%,126,-24.1%,5.9%
+"Sugar Land, TX",January 2013,All Residential,Place/City,False,TX,0.957179599,0.9%,0.0%,111,-44.5%,22.0%,393,4.0%,-29.4%,82,11,3,$233K,-17.6%,5.4%,194,102.1%,34.7%
+"Sugar Land, TX",June 2019,All Residential,Place/City,False,TX,0.966048925,-0.1%,-0.9%,178,-14.4%,-23.9%,821,0.4%,-5.4%,35,-1,9,$336K,-6.7%,-3.3%,285,-9.2%,-13.6%
+"Friendswood, TX",January 2014,All Residential,Place/City,False,TX,0.969648430,-0.1%,0.0%,44,-36.2%,7.3%,150,-5.1%,-30.9%,39,-8,-38,$182K,-15.7%,17.8%,67,42.6%,-10.7%
+"League City, TX",March 2018,All Residential,Place/City,False,TX,0.986063732,1.1%,0.2%,171,27.6%,-1.2%,322,1.6%,-13.0%,31,-28,-6,$275K,3.1%,7.8%,206,30.4%,-10.4%
+"Houston, TX",June 2017,All Residential,Place/City,False,TX,0.973474943,-0.2%,-0.4%,3140,0.0%,4.7%,10475,4.0%,10.3%,27,2,-2,$225K,6.1%,4.7%,4162,-5.4%,6.0%
+"Galveston, TX",June 2019,All Residential,Place/City,False,TX,0.954093994,-0.6%,-1.1%,133,-13.1%,-14.7%,618,1.0%,-4.5%,54,8,18,$226K,2.4%,-6.7%,180,-1.6%,-6.7%
+"Galveston, TX",February 2020,All Residential,Place/City,False,TX,0.951477343,-0.2%,1.3%,107,37.2%,20.2%,572,3.6%,0.7%,62,-7,-21,$270K,17.4%,28.0%,175,-3.3%,-5.9%
+"Baytown, TX",June 2020,All Residential,Place/City,False,TX,0.977850376,-0.4%,-0.2%,120,26.3%,36.4%,314,-8.7%,-2.2%,39,-1,5,$216K,0.5%,3.3%,158,-6.0%,-6.5%
+"Conroe, TX",April 2013,All Residential,Place/City,False,TX,0.969334951,0.2%,0.7%,165,23.1%,51.4%,456,1.6%,-22.3%,44,-15,-26,$175K,10.0%,9.2%,248,19.2%,26.5%
+"Missouri City, TX",December 2013,All Residential,Place/City,False,TX,0.969161504,-0.6%,1.2%,116,0.9%,-14.7%,349,-3.1%,-19.6%,39,-8,-51,$229K,8.4%,21.2%,108,-11.5%,0.0%
+"Galveston, TX",February 2015,All Residential,Place/City,False,TX,0.957579063,0.1%,0.9%,81,62.0%,-3.6%,574,6.7%,-5.4%,94,8,-38,$169K,-2.6%,0.3%,151,3.4%,7.1%
+"Friendswood, TX",May 2016,All Residential,Place/City,False,TX,0.980990180,-0.1%,0.0%,77,4.1%,18.5%,164,-0.6%,31.2%,18,-6,6,$260K,-22.3%,32.0%,89,-7.3%,-3.3%
+"Sugar Land, TX",July 2016,All Residential,Place/City,False,TX,0.975827473,-0.5%,-0.2%,212,4.4%,-11.3%,734,6.1%,20.3%,28,0,10,$364K,18.1%,15.5%,294,-6.4%,-12.5%
+"Sugar Land, TX",March 2017,All Residential,Place/City,False,TX,0.968974060,0.5%,0.0%,161,26.8%,0.6%,587,11.0%,3.9%,22,-48,-14,$321K,2.1%,8.4%,297,29.1%,12.9%
+"Texas City, TX",January 2018,All Residential,Place/City,False,TX,0.960549778,-0.9%,-1.7%,47,-27.7%,62.1%,196,9.5%,47.4%,81,30,52,$154K,-14.4%,10.8%,77,35.1%,26.2%
+"Friendswood, TX",May 2019,All Residential,Place/City,False,TX,0.982614934,-0.2%,0.8%,105,47.9%,4.0%,216,1.9%,10.2%,24,-6,10,$323K,20.7%,30.8%,112,0.0%,-21.7%
+"Conroe, TX",June 2019,All Residential,Place/City,False,TX,0.973669633,-0.3%,-0.9%,269,6.3%,9.8%,814,0.7%,-2.5%,49,9,20,$255K,2.0%,6.7%,297,-11.6%,0.0%
+"Friendswood, TX",July 2019,All Residential,Place/City,False,TX,0.984512748,0.0%,1.0%,90,-6.3%,2.3%,217,1.4%,-18.4%,18,-5,3,$270K,-9.2%,-1.6%,106,1.0%,-12.4%
+"League City, TX",May 2012,All Residential,Place/City,False,TX,0.972477823,0.0%,0.2%,179,28.8%,2883.3%,587,-2.0%,10.5%,71,-8,-11,$185K,-4.6%,-30.6%,206,-5.1%,134.1%
+"Friendswood, TX",March 2013,All Residential,Place/City,False,TX,0.970687322,2.0%,2.4%,50,16.3%,-16.7%,249,8.7%,-14.4%,45,-42,-53,$191K,19.4%,0.1%,109,34.6%,11.2%
+"Friendswood, TX",October 2015,All Residential,Place/City,False,TX,0.982812698,-0.2%,1.0%,74,10.4%,-1.3%,146,-5.2%,5.8%,18,5,-13,$220K,14.6%,6.3%,66,-26.7%,10.0%
+"Sugar Land, TX",April 2016,All Residential,Place/City,False,TX,0.970972103,0.2%,-1.3%,177,10.6%,19.6%,593,5.0%,36.0%,34,-2,15,$316K,6.8%,-0.5%,261,-0.8%,-9.4%
+"Pasadena, TX",June 2016,All Residential,Place/City,False,TX,0.984871448,0.7%,-0.5%,106,11.6%,19.1%,161,17.5%,-12.5%,20,3,4,$150K,-3.5%,9.1%,114,4.6%,-5.8%
+"Galveston, TX",April 2018,All Residential,Place/City,False,TX,0.960145876,1.3%,0.5%,144,24.1%,24.1%,613,3.4%,-2.9%,41,-42,-7,$240K,4.4%,29.1%,205,-8.1%,21.3%
+"Houston, TX",September 2012,All Residential,Place/City,False,TX,0.967546655,-0.2%,1.1%,2154,-21.7%,9.3%,8861,-5.4%,-25.2%,48,2,-26,$149K,-2.3%,2.9%,2545,-14.1%,-7.8%
+"Pasadena, TX",November 2012,All Residential,Place/City,False,TX,0.980680154,2.8%,4.9%,53,-30.3%,0.0%,334,-3.2%,-26.4%,67,0,3,$108K,6.4%,2.9%,67,-27.2%,-20.2%
+"Houston, TX",December 2013,All Residential,Place/City,False,TX,0.973949253,-0.2%,0.6%,2544,16.2%,13.9%,6074,-9.1%,-15.8%,34,2,-22,$188K,10.6%,13.9%,1939,-17.0%,6.4%
+"Conroe, TX",June 2014,All Residential,Place/City,False,TX,0.974805277,-0.5%,0.2%,189,6.8%,8.6%,463,12.1%,-3.5%,19,-6,-19,$185K,-14.0%,-7.0%,242,7.6%,12.6%
+"League City, TX",May 2015,All Residential,Place/City,False,TX,0.986041446,1.0%,0.3%,181,-3.7%,5.2%,400,13.6%,-3.8%,23,-9,-1,$235K,-2.9%,16.9%,250,15.7%,-0.8%
+"Houston, TX",September 2018,All Residential,Place/City,False,TX,0.970291080,-0.1%,0.2%,2426,-22.0%,-5.5%,10509,-0.9%,8.7%,34,4,-5,$215K,-1.1%,1.3%,3193,-18.6%,15.9%
+"League City, TX",April 2015,All Residential,Place/City,False,TX,0.975655934,-0.2%,-0.4%,188,4.4%,1.6%,352,3.5%,-10.7%,32,6,6,$242K,3.6%,19.0%,216,11.3%,-10.7%
+"Galveston, TX",May 2016,All Residential,Place/City,False,TX,0.948283631,-0.6%,-0.2%,124,5.1%,-7.5%,648,5.7%,9.3%,43,4,-18,$212K,6.5%,20.8%,187,9.4%,16.1%
+"Sugar Land, TX",July 2020,All Residential,Place/City,False,TX,0.975028489,0.7%,0.9%,259,37.0%,28.2%,541,-8.5%,-36.8%,37,-3,-2,$332K,3.8%,-1.4%,273,14.7%,-9.3%
+"Friendswood, TX",February 2014,All Residential,Place/City,False,TX,0.972335193,0.3%,2.2%,58,31.8%,34.9%,154,2.7%,-32.8%,40,1,-47,$176K,-3.4%,10.2%,76,13.4%,-6.2%
+"Texas City, TX",July 2014,All Residential,Place/City,False,TX,0.932779486,-0.5%,-1.1%,40,-14.9%,14.3%,172,13.2%,-19.6%,49,18,-3,$70K,-21.8%,-17.3%,70,7.7%,32.1%
+"Friendswood, TX",August 2014,All Residential,Place/City,False,TX,0.982926663,0.6%,0.8%,84,-5.6%,-9.7%,175,4.8%,-11.6%,25,15,-12,$245K,4.1%,8.5%,79,-11.2%,-14.1%
+"Friendswood, TX",January 2016,All Residential,Place/City,False,TX,0.976414160,0.7%,0.9%,43,-15.7%,-6.5%,135,0.7%,27.4%,36,5,7,$269K,24.2%,53.8%,70,40.0%,14.8%
+"Texas City, TX",April 2016,All Residential,Place/City,False,TX,0.939808859,-0.7%,-3.0%,54,3.8%,28.6%,110,12.2%,-19.7%,32,-17,-3,$109K,-13.8%,14.2%,71,2.9%,9.2%
+"Conroe, TX",December 2016,All Residential,Place/City,False,TX,0.963814255,-1.7%,-1.2%,187,25.5%,1.1%,690,-5.7%,3.8%,62,13,6,$221K,10.0%,0.0%,142,-25.3%,14.5%
+"Conroe, TX",June 2017,All Residential,Place/City,False,TX,0.973833560,-0.7%,0.0%,267,9.0%,36.2%,847,5.0%,13.1%,36,-6,-7,$233K,1.7%,1.9%,315,3.3%,27.0%
+"Texas City, TX",April 2018,All Residential,Place/City,False,TX,0.990969877,3.1%,2.5%,72,30.9%,56.5%,194,4.3%,57.7%,32,4,7,$163K,6.3%,33.3%,99,19.3%,45.6%
+"Pasadena, TX",March 2012,All Residential,Place/City,False,TX,0.976372404,1.3%,3.8%,71,39.2%,12.7%,385,1.9%,-19.5%,115,28,22,$107K,15.4%,6.8%,131,42.4%,13.9%
+"Galveston, TX",November 2013,All Residential,Place/City,False,TX,0.920945677,-3.5%,-2.0%,53,-28.4%,-27.4%,562,-7.3%,2.9%,87,24,-24,$160K,-5.6%,-11.1%,83,-34.1%,-13.5%
+"Sugar Land, TX",December 2014,All Residential,Place/City,False,TX,0.976697122,0.1%,0.1%,226,62.6%,13.0%,311,-2.8%,3.7%,30,2,-5,$389K,17.9%,26.5%,157,-8.2%,26.6%
+"League City, TX",April 2016,All Residential,Place/City,False,TX,0.986279910,0.2%,1.1%,171,1.8%,-9.0%,372,-7.5%,5.7%,17,-8,-15,$240K,-1.8%,-0.8%,232,5.9%,7.4%
+"Houston, TX",January 2017,All Residential,Place/City,False,TX,0.963744870,-0.4%,-0.1%,1740,-35.6%,4.6%,8180,1.5%,0.9%,49,4,4,$187K,-13.0%,1.1%,3306,68.4%,8.5%
+"Galveston, TX",March 2018,All Residential,Place/City,False,TX,0.946809202,-1.3%,-0.6%,116,20.8%,-1.7%,593,4.4%,-7.5%,83,16,35,$230K,4.4%,3.3%,223,32.7%,9.3%
+"Conroe, TX",November 2018,All Residential,Place/City,False,TX,0.970700986,-0.3%,0.0%,195,-1.5%,4.8%,792,-3.1%,8.0%,64,9,18,$222K,-8.5%,1.2%,180,-26.8%,-12.2%
+"Sugar Land, TX",November 2019,All Residential,Place/City,False,TX,0.963687899,0.2%,-0.4%,135,-16.7%,16.4%,699,-7.2%,-3.1%,64,-6,20,$285K,-11.6%,-1.0%,151,-30.4%,-2.6%
+"Missouri City, TX",February 2020,All Residential,Place/City,False,TX,0.973768998,0.5%,0.7%,139,13.9%,20.9%,485,5.2%,-11.5%,67,12,-6,$250K,6.7%,8.3%,223,43.9%,36.0%
+"Galveston, TX",October 2015,All Residential,Place/City,False,TX,0.964432895,1.2%,-0.2%,99,-6.6%,10.0%,573,-2.9%,1.6%,72,18,0,$180K,-1.5%,6.6%,132,4.8%,28.2%
+"Pasadena, TX",September 2016,All Residential,Place/City,False,TX,0.971614309,-2.0%,-1.6%,102,2.0%,13.3%,173,-5.5%,-14.8%,20,6,3,$140K,-3.3%,-5.3%,93,-12.3%,-12.3%
+"Missouri City, TX",September 2016,All Residential,Place/City,False,TX,0.975616155,0.5%,-0.1%,143,-8.3%,10.0%,495,-5.4%,25.6%,35,3,9,$233K,-5.2%,-8.4%,138,-27.4%,-0.7%
+"Houston, TX",September 2016,All Residential,Place/City,False,TX,0.971252546,-0.1%,-0.3%,2513,-15.9%,-3.8%,9525,-0.7%,10.3%,33,3,6,$206K,-2.1%,8.2%,3199,-7.6%,-2.5%
+"Friendswood, TX",January 2017,All Residential,Place/City,False,TX,0.972126324,0.1%,-0.4%,32,-47.5%,-25.6%,170,7.6%,25.9%,33,12,-3,$221K,-8.0%,-17.7%,75,44.2%,7.1%
+"Texas City, TX",September 2017,All Residential,Place/City,False,TX,0.968127952,0.2%,3.0%,46,27.8%,21.1%,186,-6.1%,84.2%,43,6,17,$168K,-0.4%,48.2%,59,-3.3%,-6.3%
+"Texas City, TX",November 2017,All Residential,Place/City,False,TX,0.963342339,-1.8%,-3.4%,52,4.0%,20.9%,187,-5.6%,79.8%,45,15,32,$153K,22.4%,2.1%,53,-29.3%,32.5%
+"Sugar Land, TX",February 2018,All Residential,Place/City,False,TX,0.970565463,1.0%,0.6%,117,21.9%,-7.9%,604,2.0%,14.2%,76,-5,6,$315K,11.0%,0.2%,184,2.8%,-20.0%
+"Pasadena, TX",October 2019,All Residential,Place/City,False,TX,0.979861101,0.6%,1.1%,94,13.3%,9.3%,198,-5.3%,-10.0%,22,4,4,$175K,5.4%,13.3%,103,3.0%,4.0%
+"Friendswood, TX",February 2020,All Residential,Place/City,False,TX,0.979508063,2.5%,1.1%,51,34.2%,2.0%,134,-1.5%,-34.0%,71,30,9,$280K,24.2%,14.3%,76,16.9%,20.6%
+"Galveston, TX",July 2020,All Residential,Place/City,False,TX,0.969336864,0.4%,0.6%,206,-7.2%,46.1%,347,-11.7%,-43.6%,76,17,23,$320K,12.9%,14.1%,167,3.7%,-5.6%
+"Missouri City, TX",February 2012,All Residential,Place/City,False,TX,0.966080935,1.6%,1.7%,88,15.8%,20.5%,494,-2.4%,-27.8%,105,-2,17,$185K,7.5%,9.4%,154,13.2%,13.2%
+"Houston, TX",July 2012,All Residential,Place/City,False,TX,0.970171164,-0.2%,1.2%,2641,-2.0%,23.2%,9818,-2.0%,-22.4%,46,2,-18,$155K,-2.4%,10.7%,3152,-9.3%,7.6%
+"Sugar Land, TX",September 2014,All Residential,Place/City,False,TX,0.983823048,0.2%,1.3%,227,-5.4%,26.8%,354,-10.8%,-4.1%,17,0,-6,$295K,-3.3%,3.5%,163,-29.4%,-12.4%
+"Sugar Land, TX",January 2016,All Residential,Place/City,False,TX,0.956764778,-0.7%,-2.5%,82,-52.0%,-26.1%,528,4.8%,50.0%,67,13,49,$338K,7.2%,13.5%,181,57.4%,-2.7%
+"Houston, TX",February 2018,All Residential,Place/City,False,TX,0.965229358,0.1%,-0.3%,2104,17.1%,3.1%,8284,1.1%,-1.8%,49,1,-3,$215K,10.8%,4.6%,3235,5.1%,-4.6%
+"Missouri City, TX",June 2019,All Residential,Place/City,False,TX,0.978404539,0.1%,-0.1%,148,-22.1%,-2.6%,670,1.5%,13.6%,42,5,14,$256K,3.6%,1.8%,236,-10.6%,0.4%
+"Texas City, TX",August 2015,All Residential,Place/City,False,TX,0.950761355,0.0%,-0.2%,43,-24.6%,-2.3%,142,0.0%,-17.9%,24,-30,-35,$117K,-3.3%,17.9%,59,3.5%,0.0%
+"Galveston, TX",July 2016,All Residential,Place/City,False,TX,0.952059770,-0.3%,0.4%,133,0.8%,13.7%,653,-0.3%,16.0%,55,10,-17,$160K,-14.2%,-4.9%,166,-9.8%,9.9%
+"Missouri City, TX",July 2017,All Residential,Place/City,False,TX,0.971815649,-0.2%,-0.2%,159,-13.1%,28.2%,637,6.3%,24.2%,31,4,15,$237K,-7.3%,1.5%,223,-11.5%,-4.3%
+"Sugar Land, TX",July 2018,All Residential,Place/City,False,TX,0.969795004,-0.5%,-0.2%,223,-4.7%,9.9%,828,-4.6%,-7.9%,31,5,0,$335K,-3.6%,-4.6%,270,-18.2%,-10.9%
+"Texas City, TX",November 2018,All Residential,Place/City,False,TX,0.982739533,1.6%,1.9%,59,-14.5%,13.5%,236,-2.5%,26.2%,35,1,-10,$177K,3.8%,15.4%,73,-31.1%,37.7%
+"Galveston, TX",May 2012,All Residential,Place/City,False,TX,0.936674990,-1.2%,-6.3%,97,21.3%,9600.0%,623,-1.0%,19.3%,77,15,42,$139K,-4.5%,-9.8%,130,-11.6%,62.5%
+"Friendswood, TX",January 2013,All Residential,Place/City,False,TX,0.969957453,2.5%,2.0%,41,-28.1%,2.5%,217,5.9%,-23.9%,77,-13,-14,$155K,-6.1%,-7.5%,75,102.7%,29.3%
+"Houston, TX",September 2019,All Residential,Place/City,False,TX,0.971467562,0.1%,0.1%,2502,-17.4%,3.1%,10840,-2.2%,3.1%,43,8,9,$222K,-3.8%,3.0%,3148,-15.1%,-1.4%
+"Texas City, TX",September 2012,All Residential,Place/City,False,TX,0.916830587,-3.0%,,27,-32.5%,,230,0.4%,,90,17,,$75K,2.2%,,55,0.0%,
+"Friendswood, TX",April 2018,All Residential,Place/City,False,TX,0.977382126,-0.5%,-0.2%,105,54.4%,59.1%,175,6.1%,-3.8%,20,7,-6,$285K,16.6%,13.5%,110,-15.4%,11.1%
+"Pasadena, TX",June 2018,All Residential,Place/City,False,TX,0.978904412,-0.7%,1.0%,107,17.6%,4.9%,187,28.1%,15.4%,15,6,1,$180K,9.1%,19.0%,143,21.2%,5.1%
+"Friendswood, TX",October 2018,All Residential,Place/City,False,TX,0.964732061,-1.7%,-1.0%,74,-7.5%,4.2%,268,1.1%,58.6%,41,6,2,$254K,-1.3%,-5.9%,79,16.2%,3.9%
+"Houston, TX",May 2019,All Residential,Place/City,False,TX,0.975947882,0.3%,0.3%,3237,14.0%,2.6%,10847,4.7%,10.4%,32,-3,7,$240K,4.3%,7.6%,4598,4.9%,1.5%
+"Sugar Land, TX",October 2019,All Residential,Place/City,False,TX,0.961671193,-0.4%,-0.5%,162,3.8%,2.5%,753,-4.9%,-1.3%,70,24,19,$322K,7.8%,4.6%,217,31.5%,12.4%
+"Galveston, TX",March 2020,All Residential,Place/City,False,TX,0.957542248,0.6%,-1.0%,105,-1.9%,-1.9%,635,11.0%,2.9%,36,-26,-32,$235K,-13.0%,-13.0%,207,18.3%,-10.4%
+"Pasadena, TX",July 2020,All Residential,Place/City,False,TX,0.985298094,0.3%,0.5%,108,0.0%,-12.9%,137,-17.0%,-33.8%,23,-11,8,$191K,5.8%,11.4%,106,2.9%,-11.7%
+"Missouri City, TX",July 2020,All Residential,Place/City,False,TX,0.976112308,-0.1%,0.2%,220,8.9%,7.8%,317,-13.9%,-50.2%,45,-10,12,$285K,3.6%,12.0%,201,-0.5%,-9.5%
+"Conroe, TX",February 2012,All Residential,Place/City,False,TX,0.953836126,-0.4%,1.3%,82,18.8%,26.2%,563,-1.4%,-12.3%,103,24,-2,$133K,1.9%,-16.2%,147,-1.3%,13.1%
+"Sugar Land, TX",August 2012,All Residential,Place/City,False,TX,0.963788209,-0.2%,0.3%,214,1.4%,21.6%,621,-4.2%,-19.8%,42,7,-20,$221K,-11.6%,-9.2%,213,-19.3%,8.7%
+"Sugar Land, TX",December 2012,All Residential,Place/City,False,TX,0.948369972,-2.0%,0.0%,200,33.3%,58.7%,378,-19.4%,-34.3%,71,2,-14,$283K,18.6%,8.7%,96,-22.0%,-2.0%
+"Texas City, TX",July 2013,All Residential,Place/City,False,TX,0.944035898,-0.7%,-0.4%,35,20.7%,12.9%,214,1.9%,-5.3%,52,2,-36,$84K,-18.4%,-7.4%,53,15.2%,3.9%
+"Houston, TX",November 2014,All Residential,Place/City,False,TX,0.976615041,-0.1%,0.1%,2186,-19.8%,-0.2%,6309,-2.3%,-5.6%,29,3,-3,$180K,-1.1%,5.9%,2467,-20.1%,5.6%
+"Galveston, TX",December 2015,All Residential,Place/City,False,TX,0.948810232,-0.6%,0.3%,80,-1.2%,0.0%,488,-10.1%,-4.3%,66,10,-62,$173K,-1.0%,4.1%,83,-22.4%,33.9%
+"Sugar Land, TX",November 2016,All Residential,Place/City,False,TX,0.967994542,0.1%,0.1%,136,-6.8%,15.3%,576,-8.6%,5.7%,54,11,4,$279K,-9.8%,-19.6%,139,-18.7%,-8.6%
+"League City, TX",April 2017,All Residential,Place/City,False,TX,0.984473125,0.1%,-0.2%,153,-11.6%,-10.5%,401,8.4%,7.8%,20,-17,3,$263K,3.1%,9.6%,236,2.6%,1.7%
+"Texas City, TX",February 2018,All Residential,Place/City,False,TX,0.965745342,0.5%,1.9%,44,-6.4%,46.7%,170,-13.3%,21.4%,49,-32,29,$148K,-3.9%,27.5%,50,-35.1%,13.6%
+"Friendswood, TX",September 2018,All Residential,Place/City,False,TX,0.981597549,0.8%,0.2%,80,9.6%,6.7%,265,-3.6%,39.5%,35,10,6,$257K,-9.6%,-6.4%,68,-37.0%,3.0%
+"Texas City, TX",May 2019,All Residential,Place/City,False,TX,0.985793846,1.7%,2.2%,79,9.7%,23.4%,198,-7.9%,-0.5%,31,-20,6,$187K,-6.0%,16.9%,87,4.8%,-4.4%
+"Missouri City, TX",March 2020,All Residential,Place/City,False,TX,0.976045635,0.2%,0.5%,172,23.7%,22.9%,493,1.6%,-13.5%,61,-6,-1,$247K,-1.4%,-3.3%,197,-11.7%,-12.4%
+"Sugar Land, TX",April 2012,All Residential,Place/City,False,TX,0.963879469,0.7%,0.2%,159,22.3%,23.3%,602,-1.8%,-30.1%,34,-32,-42,$263K,2.7%,8.3%,260,-8.1%,7.4%
+"Galveston, TX",July 2014,All Residential,Place/City,False,TX,0.949659370,0.7%,-0.6%,123,-3.1%,16.0%,621,-1.0%,6.9%,85,16,-3,$168K,-1.5%,-2.2%,158,5.3%,51.9%
+"League City, TX",September 2016,All Residential,Place/City,False,TX,0.985624529,-0.4%,0.7%,161,-29.4%,-21.5%,450,4.2%,15.7%,19,1,-8,$239K,-0.8%,1.7%,208,-8.4%,4.5%
+"Galveston, TX",January 2017,All Residential,Place/City,False,TX,0.954577871,-0.4%,1.8%,61,-28.2%,1.7%,585,8.9%,17.9%,94,38,4,$188K,-6.0%,7.0%,171,147.8%,22.1%
+"Houston, TX",January 2019,All Residential,Place/City,False,TX,0.965580388,-0.4%,0.1%,1578,-36.8%,-12.2%,9477,2.5%,15.7%,51,0,3,$200K,-8.0%,3.1%,3336,54.2%,8.4%
+"League City, TX",December 2019,All Residential,Place/City,False,TX,0.976843342,-0.6%,-0.1%,159,0.6%,13.6%,341,-13.9%,-24.9%,51,16,4,$270K,1.9%,2.5%,73,-46.3%,-33.6%
+"Friendswood, TX",September 2014,All Residential,Place/City,False,TX,0.969580470,-1.3%,-0.2%,55,-34.5%,-9.8%,150,-14.3%,-21.5%,26,1,-12,$177K,-27.8%,-6.8%,57,-27.8%,-18.6%
