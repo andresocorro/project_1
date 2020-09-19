@@ -17,5 +17,6 @@ The largest and most important purchase that a consumer will make in his lifetim
 ### What is the average crime rate across the top 10 largest cities in the Houston metropolitan area?
 
 The initial analysis examined the crime per capita for each city from 2012 to 2018.  The data indicates that most cities in scope have lower crime rates in 2018 as compared to 2012.  The city with the highest crime rate over the last seven years is Houston followed by Galveston and Baytown.  The safest city over the last seven years is Friendswood, followed by Missouri City and Sugar Land.
+
 Calculating the mean crime rate per capita over the last seven years, Houston has the highest amount of crime in the metropolitan area and nearly six times as much crime as the city with the lowest amount of crime, Friendswood.  Houston also has the highest amount of violent and property crimes in the metropolitan area.  Galveston and Baytown are ranked second and third respectively for the highest amount of crime in the metropolitan area.  For each city in scope, the property crimes far outweigh the number of violent crimes.  The safest city in the metropolitan area is Friendswood followed by Missouri City and Sugar Land.
 
