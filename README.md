@@ -35,10 +35,22 @@ The initial analysis examined the crime per capita for each city from 2012 to 20
 Calculating the mean crime rate per capita over the last seven years, Houston has the highest amount of crime in the metropolitan area and nearly six times as much crime as the city with the lowest amount of crime, Friendswood.  Houston also has the highest amount of violent and property crimes in the metropolitan area.  Galveston and Baytown are ranked second and third respectively for the highest amount of crime in the metropolitan area.  For each city in scope, the property crimes far outweigh the number of violent crimes.  The safest city in the metropolitan area is Friendswood followed by Missouri City and Sugar Land.
 
 ### What is the average and median sales price across the top 10 largest cities in the Houston metropolitan area?
-Placeholder text
+
+Now as we look around Houston and it’s surrounding cities/suburbs, we want to get an idea of what the housing market looks like throughout the area. The primary trend for the observed period is up in the period from 2012 to 2018, which is inline with housing prices nationwide in that timeframe. 
+
+Looking more specifically into the sample of cities discussed. The median prices go from $73,000 to just over $300,000. Sugar Land is the most expensive city during the whole study period and Texas City has the cheapest housing prices in the market, the difference between these two cities got to be upwards of $200,000 and the distance between these two cities is of about 50 miles. If one could split the sample cities into group one could argue that there are three groups with similar trends. The more expensive group would contain Sugar Land, Missouri City, League City, and Friendswood, the second group would have Houston itself and Galveston, and the lowest-priced group would include Baytown, La Porte, Pasadena and Texas City
+
+![MedianPrices_Bar_Image](Images/housingprices_linechart.png)
+
 
 ### Do houses stay on the market longer in higher crime areas?
-Placeholder text
+
+Another useful set of datapoints when analyzing the housing trends in the Houston area and it’s surrounding is the average days on market:
+
+![DOM_Bar_Image](Images/daysonmarket_barchart.png)
+
+It was observed that in the city of Galveston, by far houses have stayed in the market for longer than in the rest of the studied areas with Texas City and Baytown coming in next, which now shows how these two cities are both in the lower average housing prices range as well as with the most days on market on average before finalizing a sale 
+
 
 ### Is there a correlation between average or median sales price and the average or median crime rate crime?
 Placeholder text 
