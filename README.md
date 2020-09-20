@@ -15,7 +15,7 @@ The study performed relied on two major data sets. The housing market data set f
 Our next step was to determine what cities the study would focus on. The study focused on a 50-mile radius from Houston and only looked at a randomly selected list of 10 cities with a population size greater than 10,000, this population cap would allow the data to be compared on a per capita basis. The cities that were looked at for the study are as follows: Baytown, Friendswood, Galveston, Houston, La Porte, League City, Missouri City, Pasadena, Sugar Land, and Texas City.
 
 ## Crime Analysis
-One of the first questions the study sought out to answer was if there was a change in crime rate and if we could see a trend from 2012-2018. The graph shown below illustrates that there is no significant change to indicate that crime rate is decreasing among the cities. The five least dangerous cities all stay around their respective crime rate every year. Whereas there is more slight volatility with the five most dangerous cities. 
+In order to compare the number of crimes based from city to city, the values were changed to represent crime values per 10,000 people. We then focused on determining plotting the crime over the 2012-2018 time period to gain an understanding of how the crime rate looked like for the individual cities. The graph shown below illustrates that there is no visual significant change to indicate that crime rate is decreasing among the cities. The five least dangerous cities all stay around their respective crime rate per year. Whereas there is more slight volatility with the five most dangerous cities. 
 
 ![Crime_Over_Time_Image](Images/Crime_Line.PNG)
 
