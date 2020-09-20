@@ -61,3 +61,6 @@ Placeholder text
 ### What is the effect of city demographics on median price and crime rates?
 Placeholder text
 
+### References
+1. Crime Data: https://www.fbi.gov/services/cjis/ucr/publications
+2. Housing Market Data: https://www.redfin.com/blog/data-center/
