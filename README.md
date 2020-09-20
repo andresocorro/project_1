@@ -11,7 +11,13 @@ The largest and most important purchase that a consumer will make in his lifetim
 * What is the effect of city demographics on median price and crime rates?
 
 ## Methodology
+The study performed relied on two major data sets. The housing market data set from Redfins and a crime data set from the FBI’s Uniform Crime Reporting. It was noted that the available information for the housing data extended from 2012 to 2020. However, the crime data only had summarized results per city up to the year 2018. The decision was made to utilize only data that had overlapping years, therefore focusing on 2012-2018.
+Our next step was to determine what cities the study would focus on. The study focused on a 50-mile radius from Houston and only looked at a randomly selected list of 10 cities with a population size greater than 10,000, this population cap would allow the data to be compared on a per capita basis. The cities that were looked at for the study are as follows: Baytown, Friendswood, Galveston, Houston, La Porte, League City, Missouri City, Pasadena, Sugar Land, and Texas City.
 
+## Crime Analysis
+One of the first questions the study sought out to answer was if there was a change in crime rate and if we could see a trend from 2012-2018. The graph shown below illustrates that there is no significant change to indicate that crime rate is decreasing among the cities. The five least dangerous cities all stay around their respective crime rate every year. Whereas there is more slight volatility with the five most dangerous cities. 
+
+!.[Crime_Over_Time_Image].(Images, Crime_Line.PNG)
 
 ## Results
 ### What is the average crime rate across the top 10 largest cities in the Houston metropolitan area?
