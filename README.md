@@ -17,15 +17,15 @@ Our next step was to determine what cities the study would focus on. The study f
 ## Crime Analysis
 In order to compare the number of crimes based from city to city, the values were changed to represent crime values per 10,000 people. We then focused on determining plotting the crime over the 2012-2018 time period to gain an understanding of how the crime rate looked like for the individual cities. The graph shown below illustrates that there is no visual significant change to indicate that crime rate is decreasing among the cities. The five least dangerous cities all stay around their respective crime rate per year. Whereas there is more slight volatility with the five most dangerous cities. 
 
-![Crime_Over_Time_Image](Images/Crime_Line.PNG)
+![Crime_Over_Time_Image](Images/Crime_Line.png)
 
 The next step in the study was to determine the mean per city. This would allow us to visualize a comparison between each respective city for the 7-year period. The graph below shows the cities ranked from most to least dangerous based on crime rate per 10,000 people.
 
-![Crime_Bar_Image](Images/Crime_Bar.PNG)
+![Crime_Bar_Image](Images/Crime_Bar.png)
 
 The graph also shows a breakdown between the types of crimes each city has, whether it is violent crimes or property crime. These two values along with the total were accounted for to utilize when comparing housing market data against total crime, violent crime, and property crime. The goal is to determine if there is any correlation among housing market parameters and the three crime parameters. The table shows the values utilized to create the bar graph.
 
-![Crime_Table_Image](Images/Crime_Table.PNG)
+![Crime_Table_Image](Images/Crime_Table.png)
 
 ## Results
 ### What is the average crime rate across the top 10 largest cities in the Houston metropolitan area?
