@@ -8,10 +8,10 @@ The largest and most important purchase that a consumer will make in his lifetim
 * Do houses stay on the market longer in higher crime areas?
 * Is there a correlation between average or median sales price and the average or median crime rate crime?
 * Do violent crimes or non-violent crimes have a bigger impact on home sales?
-* What is the effect of city demographics on median price and crime rates?
+* Is there a co-relation between the houses sold and crime rates in houston?
 
 ## Methodology
-The study performed relied on two major data sets. The housing market data set from Redfins and a crime data set from the FBI’s Uniform Crime Reporting. It was noted that the available information for the housing data extended from 2012 to 2020. However, the crime data only had summarized results per city up to the year 2018. The decision was made to utilize only data that had overlapping years, therefore focusing on 2012-2018.
+The study performed relied on two major data sets. The housing market data set from Redfins and a crime data set from the FBI’s Uniform Crime Reporting and housing data from Census. It was noted that the available information for the housing data extended from 2012 to 2020. However, the crime data only had summarized results per city up to the year 2018. The decision was made to utilize only data that had overlapping years, therefore focusing on 2012-2018.
 Our next step was to determine what cities the study would focus on. The study focused on a 50-mile radius from Houston and only looked at a randomly selected list of 10 cities with a population size greater than 10,000, this population cap would allow the data to be compared on a per capita basis. The cities that were looked at for the study are as follows: Baytown, Friendswood, Galveston, Houston, La Porte, League City, Missouri City, Pasadena, Sugar Land, and Texas City.
 
 ## Crime Analysis
@@ -26,6 +26,7 @@ The next step in the study was to determine the mean per city. This would allow 
 The graph also shows a breakdown between the types of crimes each city has, whether it is violent crimes or property crime. These two values along with the total were accounted for to utilize when comparing housing market data against total crime, violent crime, and property crime. The goal is to determine if there is any correlation among housing market parameters and the three crime parameters. The table shows the values utilized to create the bar graph.
 
 ![Crime_Table_Image](Images/Crime_Table.png)
+
 
 ## Housing Analysis
 
