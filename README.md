@@ -45,7 +45,7 @@ It was observed that in the city of Galveston, by far houses have stayed in the 
 
 
 ## Crime Rate and Housing Market Analysis
-In order to create a comparison between two independent variables, a series of scatter plots were generated to determine if there are any trends in the two data sets. The primary scatter plots focused on determining relationship between median sales price vs crime rate per 10,000 people for the selected cities. In addition, a secondary plot was generated to compare the average days that homes are on the market vs crime rate per 10,000 people for the selected cities. The results are as follows:
+In order to create a comparison between two independent variables, we did regression analysis to determine if there are any trends in the two data sets. The first plots focused on determining relationship between median sales price vs crime rate per 10,000 people for the selected cities. In addition, a secondary plot was generated to compare the average days that homes are on the market vs crime rate per 10,000 people for the selected cities. The results are as follows:
 
 Graph_1:
 ![Median_Sales_Price_vs_Crime](Images/CrimeVsSalesPrice.png)
@@ -55,7 +55,42 @@ Graph_2:
 
 The correlation coefficient for median sales price vs crime per capita (Graph_1) is -0.5, which suggests that there is a slight inverse correlation among the two parameters. Indicating that as crime rate increases for any particular city the median sales price decreases. However, as suspected this may be because there are other factors at play that are affecting the overall median sales price besides the crime alone. With the house on market graph, we see that the values overall are more scattered, therefore suggesting once again that other parameters are playing a factor.
 
-Radhika's Section:
+##Home Sales Analysis
+
+Our Crime and Home Sales Analysis indicated a trend between Crime Rate and Housing Market. We wanted to get a better insights into influence of crime rate on housing market. We decided to use a different data source to do more detailed analysis. We choose American Housing Survey from Census to perform our analysis. 
+
+We focussed our analysis on the effects of crime on the home sales for the past seven years. To do the analysis we targeted the sales of homes with prices less than $300k, prices between $300K-$500K. We created scatter plots for the home sales less than $300k. The plot had more dense concentrations (indicating more sales) in the areas where there is less crime compared to the areas where there is more crime. We also performed regression analysis to look for trends in the home sales for the prices less than $300K. The analysis results are as follows 
+
+Scatter_Graph_1
+![Home_Sales_vs_Crime_(Prices<300K)](Images/HomeSalesVsCrime_0Kto300K.png)
+
+Regression_Graph_1
+![Home_Sales_vs_Crime_Regression(Prices<300K)](Images/HomeSalesVsCrime_Regression_0Kto300K.png)
+
+We performed similar analysis for the home sales in the price group 300K-500K. We noticed the similar trend. The scatter plots had more dense concentrations on the sales where the crime rates are low. The analysis rsults are as follows:
+
+Scatter_Graph_2
+![Home_Sales_vs_Crime_(Prices 300K-500K)](Images/HomeSalesVsCrime_300Kto500K.png)
+
+Regression_Graph_2
+![Home_Sales_vs_Crime_Regression(Prices 300K-500K)](Images/HomeSalesVsCrime_Regression_300Kto500K.png)
+
+Our next focus was to compare and contrast the general home sales trend in the different cities in the Houston metropolitan area. We choose Houston, League City, Friendswood (cities with highest crime rate to lowest crime rate). Our graph showed the home sales is highest for the friendswood, followed by League City and by Houson. The chart shows the similar trend, where the home sales are higher at safer cities. The results are below :
+
+![Home_Sales_vs_Crime_Regression(Prices 300K-500K)](Images/HomeSalesVsCrime_Regression_300Kto500K.png)
+
+Based on our analysis on the Crime Rate Vs Home Sales, in the past seven years more houstonites are purchasing homes at the safer neighborboods. 
+
+## Observations
+
+When looking at crime rate and the housing market in the Houston metropolitan area we observed:
+No significant change in crime rate has occurred since 2012, while home prices have gone up overall
+There are more homes sold in safer neighborhoods while home sales decrease as crime rate increases
+There is not a difference in the relationship between home sales and crime rate when analyzing home values
+
+While we see there is a relationship between the crime rate and the housing market, we acknowledge there are other factors affecting the housing market such as school districts, amenities, commute times,  demographics, etc.
+There is a moderate inverse correlation (-0.5) between crime and the housing prices	
+There is a low correlation (0.33) between crime and the days on market
 
 
 ## References
