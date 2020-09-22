@@ -90,6 +90,7 @@ When looking at crime rate and the housing market in the Houston metropolitan ar
 	* There trend for the home sales with crime rate is the same when analyzing home values
 
 While we see there is a relationship between the crime rate and the housing market, we acknowledge there are other factors affecting the housing market such as school districts, amenities, commute times,  demographics, etc.
+
 	* There is a moderate inverse correlation (-0.5) between crime and the housing prices	
 	* There is a low correlation (0.33) between crime and the days on market
 
