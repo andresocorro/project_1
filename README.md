@@ -77,7 +77,7 @@ Regression_Graph_2
 
 Our next focus was to compare and contrast the general home sales trend in the different cities in the Houston metropolitan area. We choose Houston, League City, Friendswood (cities with highest crime rate to lowest crime rate). the analysis would provide us better insights into the influence of crime rate on home sales. Our graph showed the home sales is highest for the friendswood, followed by League City and by Houson. The chart shows the similar trend, where the home sales are higher at safer cities. The results are below :
 
-![Home_Sales_vs_Crime_Houston,Friendswood,Houston(Images/SalesVsCrimeHoustonFriendswoodAndLeagueCity.png)
+![Home_Sales_vs_Crime_Houston,Friendswood,Houston](Images/SalesVsCrimeHoustonFriendswoodAndLeagueCity.png)
 
 Based on our analysis on the Crime Rate Vs Home Sales, in the past seven years more houstonites are purchasing homes at the safer neighborboods. The home sales tends to fall where the crime rates are high.
 
@@ -87,7 +87,7 @@ When looking at crime rate and the housing market in the Houston metropolitan ar
 
 	* No significant change in crime rate has occurred since 2012, while home prices have gone up overall
 	* There are more homes sold in safer neighborhoods while home sales decrease as crime rate increases
-	* There is not a difference in the relationship between home sales and crime rate when analyzing home values
+	* There trend for the home sales with crime rate is the same when analyzing home values
 
 While we see there is a relationship between the crime rate and the housing market, we acknowledge there are other factors affecting the housing market such as school districts, amenities, commute times,  demographics, etc.
 	* There is a moderate inverse correlation (-0.5) between crime and the housing prices	
