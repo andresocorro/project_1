@@ -1,4 +1,4 @@
-# Effect of Crime on the Housing Market in the Houston Metro-Area
+## Effect of Crime on the Housing Market in the Houston Metro-Area
 
 ## Introduction:
 The largest and most important purchase that a consumer will make in his lifetime is a house. A lot of time and energy goes into determining exactly what one wants in a new home. The buyer must figure out their preferences regarding the location of the house, including the city, neighborhood, and proximity to certain amenities and general aesthetic style while a significant amount of attention is drawn into crime, school and life quality. Theoretically, homebuyers would pay a premium in order to live in a physically safe environment to avoid crime, as well as the mental security of knowing that they are safe.  In this report we will take a closer look into the methodology and results of analyzing Houston and a selection of surrounding cities’ crime data and housing market. The analysis in this report focuses on the years between 2012-2018 and examines the following:
@@ -47,13 +47,18 @@ It was observed that in the city of Galveston, by far houses have stayed in the 
 ## Crime Rate and Housing Market Analysis
 In order to create a comparison between two independent variables, a series of scatter plots were generated to determine if there are any trends in the two data sets. The primary scatter plots focused on determining relationship between median sales price vs crime rate per 10,000 people for the selected cities. In addition, a secondary plot was generated to compare the average days that homes are on the market vs crime rate per 10,000 people for the selected cities. The results are as follows:
 
-"GRAPHS"
+Graph_1:
+![Median_Sales_Price_vs_Crime](Images/CrimeVsSalesPrice.png)
 
-The correlation coefficient for median sales price vs crime per capita is -0.5, which suggests that there is a slight inverse correlation among the two parameters. Indicating that as crime rate increases for any particular city the median sales price decreases. However, as suspected this may be because there are other factors at play that are affecting the overall median sales price besides the crime alone. With the house on market graph, we see that the values overall are more scattered, therefore suggesting once again that other parameters are playing a factor.
+Graph_2:
+![Days_Market_Price_vs_Crime](Images/CrimeVsDaysonMarket.png)
+
+The correlation coefficient for median sales price vs crime per capita (Graph_1) is -0.5, which suggests that there is a slight inverse correlation among the two parameters. Indicating that as crime rate increases for any particular city the median sales price decreases. However, as suspected this may be because there are other factors at play that are affecting the overall median sales price besides the crime alone. With the house on market graph, we see that the values overall are more scattered, therefore suggesting once again that other parameters are playing a factor.
+
+Radhika's Section:
 
 
-
-### References
+## References
 1. Crime Data: https://www.fbi.gov/services/cjis/ucr/publications
 2. Housing Market Data: https://www.redfin.com/blog/data-center/
 3. Google API: https://maps.googleapis.com/maps/api/geocode/json
