@@ -55,7 +55,7 @@ Graph_2:
 
 The correlation coefficient for median sales price vs crime per capita (Graph_1) is -0.5, which suggests that there is a slight inverse correlation among the two parameters. Indicating that as crime rate increases for any particular city the median sales price decreases. However, as suspected this may be because there are other factors at play that are affecting the overall median sales price besides the crime alone. With the house on market graph, we see that the values overall are more scattered, therefore suggesting once again that other parameters are playing a factor.
 
-##Home Sales Analysis
+## Home Sales Analysis
 
 Our Crime and Home Sales Analysis indicated a trend between Crime Rate and Housing Market. We wanted to get a better insights into influence of crime rate on housing market. We decided to use a different data source to do more detailed analysis. We choose American Housing Survey from Census to perform our analysis. 
 
