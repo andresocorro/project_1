@@ -140,6 +140,9 @@ While we see there is a relationship between the crime rate and the housing mark
      * IncomeCensus
          The module to retrieve income census data from Income census API
 
+## Images
+    The folder contains our analysis graphs and charts
+
 ## Resources
      The folder contains the datasets used for the project
 
@@ -147,4 +150,5 @@ While we see there is a relationship between the crime rate and the housing mark
      The folder contains our project proposal
 
 ## Presentation
+    The folder contains our project presentation
  
