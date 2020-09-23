@@ -67,7 +67,7 @@ Scatter_Graph_1
 Regression_Graph_1
 ![Home_Sales_vs_Crime_Regression(Prices<300K)](Images/HomeSalesVsCrime_Regression_0Kto300K.png)
 
-We continued with our analysis for the home sales in the price group 300K-500K. We noticed that the home sales is very high for the areas with lesser crime rates. The variation was more visible (pValue :0.02) with this group. The analysis results are as follows:
+We continued with our analysis for the home sales in the price group 300K-500K. We noticed that the home sales is very high for the areas with lesser crime rates. There was ahigh negative co-relation with (pValue :0.002) with this group. The analysis results are as follows:
 
 Scatter_Graph_2
 ![Home_Sales_vs_Crime_(Prices 300K-500K)](Images/HomeSalesVsCrime_300Kto500K.png)
@@ -75,7 +75,7 @@ Scatter_Graph_2
 Regression_Graph_2
 ![Home_Sales_vs_Crime_Regression(Prices 300K-500K)](Images/HomeSalesVsCrime_Regression_300Kto500K.png)
 
-We also did a similar analysis to the sales of homes within 500K to 1M. There was a high negative co-relation (pvalue: 0.019) indicating the home sales are significantly affected by crime rate. The analysis results are as follows :
+We also did a similar analysis to the sales of homes within 500K to 1M. There was a negative co-relation (pvalue: 0.019) indicating the home sales are significantly affected by crime rate. The analysis results are as follows :
 
 Regression_Graph_3
 ![Home_Sales_vs_Crime_Regression(Prices 500K-1M)](Images/HomeSalesVsCrime_Regression_500Kto1M.png)
