@@ -96,7 +96,7 @@ The average home sales was higher for Baytown compared to houston
 ![Home_Sales_vs_Crime_Houston,Baytown](Images/SalesVsCrime_HoustonBaytown.png)
 
 
-Based on our analysis on the Crime Rate Vs Home Sales, in the past seven years more houstonites are purchasing homes at the safer neighborboods. The home sales tends to fall where the crime rates are high. The analaysis showcases the sales of houses are
+Based on our analysis on the Crime Rate Vs Home Sales, in the past seven years more houstonites are purchasing homes at the safer neighborboods. The home sales tends to fall where the crime rates are high. 
 
 ## Observations
 
