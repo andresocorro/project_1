@@ -143,6 +143,9 @@ While we see there is a relationship between the crime rate and the housing mark
     * HousingAnalysisForDifferentCities
          The module to merge the crime and housing census data and build analysis graphs and charts to home sales within 
          different price groups
+   
+     * gmaps
+          The module uses google apis to map the cities
          
      * HousingUnitsCensus
          The module to retrieve housing census data from Income census API
