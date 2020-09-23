@@ -119,8 +119,8 @@ While we see there is a relationship between the crime rate and the housing mark
     * CrimeData 
          The module to process crime data and build analysis charts and graphs related to Crime Data
     
-     * HousingMarket
-	The module to process the housing market data and build analysis graphs and charts related to Housing market
+     * HousintMarket
+        The module to process the housing market data and build analysis graphs and charts related to Housing market
 
     * CrimeHousingMarketAnalysis
         The module to merge the crime and housing data and build analysis graphs and charts related to Crime and Housing market
