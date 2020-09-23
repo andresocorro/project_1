@@ -59,7 +59,7 @@ The correlation coefficient for median sales price vs crime per capita (Graph_1)
 
 Our Crime and Home Sales Analysis indicated a trend between Crime Rate and Housing Market. We wanted to get a better insights into influence of crime rate on housing market. We decided to use a different data source to do more detailed analysis. We choose American Housing Survey from Census to perform our analysis. 
 
-We focussed our analysis on the effects of crime on the home sales for the past seven years. To do the analysis we targeted the sales of homes with prices less than $300k, prices between $300K-$500K. We created scatter plots for the home sales less than $300k. The plot had more dense concentrations (indicating more sales) in the areas where there is less crime compared to the areas where there is more crime. We also performed regression analysis to look for trends in the home sales for the prices less than $300K. The analysis results are as follows 
+We focussed our analysis on the effects of crime on the home sales for the past seven years. To do the analysis we targeted the sales of homes with prices less than $300k, prices between $300K-$500K. We created scatter plots for the home sales less than $300k. The plot had more dense concentrations (indicating more sales) in the areas where there is less crime compared to the areas where there is more crime. We also performed regression analysis to look for trends in the home sales for the prices less than $300K. However the impact of crime is not very high for the home sales within this group. The analysis results are as follows 
 
 Scatter_Graph_1
 ![Home_Sales_vs_Crime_(Prices<300K)](Images/HomeSalesVsCrime_0Kto300K.png)
@@ -67,7 +67,7 @@ Scatter_Graph_1
 Regression_Graph_1
 ![Home_Sales_vs_Crime_Regression(Prices<300K)](Images/HomeSalesVsCrime_Regression_0Kto300K.png)
 
-We performed similar analysis for the home sales in the price group 300K-500K. We noticed the similar trend. The scatter plots had more dense concentrations on the sales where the crime rates are low. The analysis results are as follows:
+We continued with our analysis for the home sales in the price group 300K-500K. We noticed that the home sales is very high for the areas with lesser crime rates. The variation was more visible (pValue :0.02) with this group. The analysis results are as follows:
 
 Scatter_Graph_2
 ![Home_Sales_vs_Crime_(Prices 300K-500K)](Images/HomeSalesVsCrime_300Kto500K.png)
@@ -75,17 +75,28 @@ Scatter_Graph_2
 Regression_Graph_2
 ![Home_Sales_vs_Crime_Regression(Prices 300K-500K)](Images/HomeSalesVsCrime_Regression_300Kto500K.png)
 
+We also did a similar analysis to the sales of homes within 500K to 1M. There was a high negative co-relation (pvalue: 0.019) indicating the home sales are significantly affected by crime rate. The analysis results are as follows :
+
+Regression_Graph_3
+![Home_Sales_vs_Crime_Regression(Prices 500K-1M)](Images/HomeSalesVsCrime_Regression_500Kto1M.png)
+
+
+
 Our next focus was to compare and contrast the general home sales trend in the different cities in the Houston metropolitan area. We choose Houston, League City, Friendswood (cities with highest crime rate to lowest crime rate). the analysis would provide us better insights into the influence of crime rate on home sales. Our graph showed the home sales is highest for the friendswood, followed by League City and by Houson. The chart shows the similar trend, where the home sales are higher at safer cities. The results are below :
 
 ![Home_Sales_vs_Crime_Houston,Friendswood,League City](Images/SalesVsCrime_HoustonFriendswoodAndLeagueCity.png)
 
-The average sales price for Sugarland was highest. We did a similar analysis to compare the sales of the homes at Sugarland with houston.
-The average home sales was higher for sugarland compared to houston, even with higher home prices
+We did a similar comparison analysis to compare the sales of the homes at Sugarland with houston.The average sales price for Sugarland was highest. The average home sales was higher for sugarland compared to houston, even with higher home prices
 
 ![Home_Sales_vs_Crime_Houston,Sugar Land](Images/SalesVsCrime_HoustonSugarLand.png)
 
+Furthur more analysis to compare the sales of the homes at Baytown with houston.
+The average home sales was higher for Baytown compared to houston
 
-Based on our analysis on the Crime Rate Vs Home Sales, in the past seven years more houstonites are purchasing homes at the safer neighborboods. The home sales tends to fall where the crime rates are high.
+![Home_Sales_vs_Crime_Houston,Baytown](Images/SalesVsCrime_HoustonBaytown.png)
+
+
+Based on our analysis on the Crime Rate Vs Home Sales, in the past seven years more houstonites are purchasing homes at the safer neighborboods. The home sales tends to fall where the crime rates are high. The analaysis showcases the sales of houses are
 
 ## Observations
 
