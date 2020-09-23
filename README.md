@@ -27,7 +27,7 @@ The next step in the study was to determine the mean per city. This would allow 
 
 The graph also shows a breakdown between the types of crimes each city has, whether it is violent crimes or property crime. These two values along with the total were accounted for to utilize when comparing housing market data against total crime, violent crime, and property crime. The goal is to determine if there is any correlation among housing market parameters and the three crime parameters. The table shows the values utilized to create the bar graph.
 
-![Crime_Table_Image](Images/Crime_Table.png)
+![Crime_Table_Image](Images/Crime_Table.PNG)
 
 
 ## Housing Analysis
@@ -75,13 +75,12 @@ Scatter_Graph_2
 Regression_Graph_2
 ![Home_Sales_vs_Crime_Regression(Prices 300K-500K)](Images/HomeSalesVsCrime_Regression_300Kto500K.png)
 
-
 Our next focus was to compare and contrast the general home sales trend in the different cities in the Houston metropolitan area. We choose Houston, League City, Friendswood (cities with highest crime rate to lowest crime rate). the analysis would provide us better insights into the influence of crime rate on home sales. Our graph showed the home sales is highest for the friendswood, followed by League City and by Houson. The chart shows the similar trend, where the home sales are higher at safer cities. The results are below :
 
 ![Home_Sales_vs_Crime_Houston,Friendswood,League City](Images/SalesVsCrime_HoustonFriendswoodAndLeagueCity.png)
 
 The average sales price for Sugarland was highest. We did a similar analysis to compare the sales of the homes at Sugarland with houston.
-The average home sales was higher for sugarland compared to houston, in spite of higher home prices
+The average home sales was higher for sugarland compared to houston, even with higher home prices
 
 ![Home_Sales_vs_Crime_Houston,Sugar Land](Images/SalesVsCrime_HoustonSugarLand.png)
 
