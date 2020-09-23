@@ -114,6 +114,7 @@ While we see there is a relationship between the crime rate and the housing mark
 ![Project Layout](Images/ProjectLayout.PNG)
 
 ## Src_files 
+
     The project code is in this folder. The list of files with its purpose is mentioned below
 
     * CrimeData 
@@ -146,4 +147,4 @@ While we see there is a relationship between the crime rate and the housing mark
      The folder contains our project proposal
 
 ## Presentation
-     The folder contains our final presentation
+ 
