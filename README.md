@@ -77,7 +77,13 @@ Regression_Graph_2
 
 Our next focus was to compare and contrast the general home sales trend in the different cities in the Houston metropolitan area. We choose Houston, League City, Friendswood (cities with highest crime rate to lowest crime rate). the analysis would provide us better insights into the influence of crime rate on home sales. Our graph showed the home sales is highest for the friendswood, followed by League City and by Houson. The chart shows the similar trend, where the home sales are higher at safer cities. The results are below :
 
-![Home_Sales_vs_Crime_Houston,Friendswood,Houston](Images/SalesVsCrimeHoustonFriendswoodAndLeagueCity.png)
+![Home_Sales_vs_Crime_Houston,Friendswood,League City](Images/SalesVsCrime_HoustonFriendswoodAndLeagueCity.png)
+
+The average sales price for Sugarland was highest. We did a similar analysis to compare the sales of the homes at Sugarland with houston.
+The average home sales was higher for sugarland compared to houston, in spite of higher home prices
+
+![Home_Sales_vs_Crime_Houston,Sugar Land](Images/SalesVsCrime_HoustonSugarLand.png)
+
 
 Based on our analysis on the Crime Rate Vs Home Sales, in the past seven years more houstonites are purchasing homes at the safer neighborboods. The home sales tends to fall where the crime rates are high.
 
@@ -100,3 +106,44 @@ While we see there is a relationship between the crime rate and the housing mark
 2. Housing Market Data: https://www.redfin.com/blog/data-center/
 3. Google API: https://maps.googleapis.com/maps/api/geocode/json
 4. American Housing Survey (AHS): https://www.census.gov/data/developers/data-sets.html
+
+
+## Project Structure 
+
+![Project Layout](Images/ProjectLayout.png)
+
+
+**Src_files 
+    The project code is in this folder. The list of files with its purpose is mentioned below
+
+    **CrimeData 
+         The module to process crime data and build analysis charts and graphs related to Crime Data
+    
+   **HousingMarket
+    The module to process the housing market data and build analysis graphs and charts related to Housing market
+
+    **CrimeHousingMarketAnalysis
+        The module to merge the crime and housing data and build analysis graphs and charts related to Crime and Housing market
+
+    **HousingAnalysisWithPrice
+         The module to merge the crime and housing census data and build analysis graphs and charts to home sales within 
+         different price groups
+         
+    **HousingAnalysisForDifferentCities
+         The module to merge the crime and housing census data and build analysis graphs and charts to home sales within 
+         different price groups
+         
+     **HousingUnitsCensus
+         The module to retrieve housing census data from Income census API
+     
+     **IncomeCensus
+         The module to retrieve income census data from Income census API
+
+**Resources
+     The folder contains the datasets used for the project
+  
+**Proposal
+     The folder contains our project proposal
+  
+**Presentation
+     The folder contains our final presentation
