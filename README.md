@@ -113,8 +113,7 @@ While we see there is a relationship between the crime rate and the housing mark
 
 ![Project Layout](Images/ProjectLayout.PNG)
 
-
-** Src_files 
+Src_files 
     The project code is in this folder. The list of files with its purpose is mentioned below
 
     * CrimeData 
@@ -140,11 +139,11 @@ While we see there is a relationship between the crime rate and the housing mark
      * IncomeCensus
          The module to retrieve income census data from Income census API
 
-** Resources
+Resources
      The folder contains the datasets used for the project
-  
-** Proposal
+
+Proposal
      The folder contains our project proposal
-  
-** Presentation
+
+Presentation
      The folder contains our final presentation
